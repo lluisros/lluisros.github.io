@@ -4,7 +4,7 @@
 
 # Multibody System Dynamics #
 
-Welcome to the web page of the course "Multibody Systems Dynamics"
+Welcome to the course web page of "Multibody Systems Dynamics"
 
 [Master's Degree in Mechanical Engineering](https://eseiaat.upc.edu/ca/estudis/estudis-en-enginyeries-industrials/master-universitari-recerca-enginyeria-mecanica)
 
@@ -19,7 +19,6 @@ Welcome to the web page of the course "Multibody Systems Dynamics"
 * [Grading](#grading)  
 * [Calendar](#calendar)  
 * [Theory and exercises](#theory-and-exercises)  
-        
     [U0 - Introduction](#u0---introduction)  
     [U1 - Rigid body kinematics](#u1---rigid-body-kinematics)  
     [U2 - Rigid body dynamics](#u2---rigid-body-dynamics)  
