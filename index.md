@@ -1,7 +1,81 @@
 
-# README #
 
-In this file I test various markup options of the markdown language. Emphasis is on the markdown version of Bitbucket, which is limited.
+
+
+# Multibody System Dynamics #
+
+Welcome to the web page of the course "Multibody Systems Dynamics"
+
+[Master's Degree in Mechanical Engineering](https://eseiaat.upc.edu/ca/estudis/estudis-en-enginyeries-industrials/master-universitari-recerca-enginyeria-mecanica)
+
+[Department of Mechanical Engineering - UPC-BarcelonaTech](https://em.upc.edu/ca)
+
+
+## Table of Contents
+
+* [Course data](#course-data)  
+* [Objective](#objective)  
+* [Methodology](#methodology)  
+* [Grading](#grading)  
+* [Calendar](#calendar)  
+* [Theory and exercises](#theory-and-exercises)  
+        
+    [U0 - Introduction](#u0---introduction)  
+    [U1 - Rigid body kinematics](#u1---rigid-body-kinematics)  
+    [U2 - Rigid body dynamics](#u2---rigid-body-dynamics)  
+    [U3 - Introduction to multibody system kinematics](#u3---introduction-to-multibody-system-kinematics)  
+    [U4 - Lagrange equations](#u4---lagrange-equations)  
+* [Lab assignments](#lab-assignments)  
+* [Final exam](#final-exam)  
+* [Help](#help)  
+* [Bibliography](#bibliography)  
+
+## Course data
+Content
+
+## Objective
+Content
+
+## Methodology
+Content
+
+## Grading
+Content
+
+## Calendar
+Content
+
+## Theory and exercises
+Content
+
+### U0 - Introduction 
+Content
+
+### U1 - Rigid body kinematics 
+Content
+
+### U2 - Rigid body dynamics 
+Content
+
+### U3 - Introduction to multibody system kinematics
+Content
+
+### U4 - Lagrange equations
+Content
+
+## Lab assignments
+Content
+
+## Final exam
+Content
+
+## Help
+Content
+
+## Bibliography
+Content
+
+# Markdown examples
 
 To produce separate lines, end the preceding line with two spaces:
 
@@ -24,7 +98,9 @@ A numerated list:
 
 ## Links ##
 
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+[Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+Explicit URL link: <https://bitbucket.org/tutorials/markdowndemo>
 
 ## Blocks ##
 
