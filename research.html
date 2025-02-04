@@ -1,0 +1,638 @@
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;
+      charset=windows-1252">
+    <meta name="GENERATOR" content="Mozilla/4.75 [en] (X11; U; SunOS
+      5.5.1 sun4u) [Netscape]">
+    <title>Research interests</title>
+    <!-- Changed by: Lluis Ros, 31-Jan-1997 -->
+  </head>
+  <body vlink="#55188a" text="#000000" link="#0000ef" bgcolor="#ffffff"
+    alink="#ff0000">
+    &nbsp; <br>
+    &nbsp; <br>
+    <blockquote> </blockquote>
+    <blockquote>
+      <table width="900" cellspacing="2" cellpadding="2" border="0"
+        height="31">
+        <tbody>
+          <tr>
+            <td valign="top">
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099">Research interests</font></small></h1>
+              <p><font face="Helvetica, Arial, sans-serif">My area of
+                  interest is robot kinematics, dynamics, and control. </font><font
+                  face="Helvetica, Arial, sans-serif"><font
+                    face="Helvetica, Arial, sans-serif"><font
+                      face="Helvetica, Arial, sans-serif">Recently, we
+                      are developing new tools for kinodynam<font
+                        face="Helvetica, Arial, sans-serif">ic <a
+href="http://www.iri.upc.edu/people/ros/Separates/sci-24-r22-kinodynamic.pdf"
+                          target="_top">trajectory planning</a>,
+                        optimization, and control of constrained
+                        multibody systems. </font></font></font>Over
+                  the years, I've been also designing algorithms for <a
+                    href="http://www.iri.upc.edu/srm">computing
+                    singularities and workspaces</a>, and for planning
+                  collision and singularity-free paths between given
+                  configurations. Most of such algorithms are
+                  implemented in <a target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/sci-22-r20-cuik-ram.pdf">the
+
+
+
+
+
+
+                    CUIK Suite</a>.&nbsp;</font><font face="Helvetica,
+                  Arial, sans-serif"><font face="Helvetica, Arial,
+                    sans-serif"><font face="Helvetica, Arial,
+                      sans-serif"> </font></font>During my Ph.D. and
+                  postdoc periods I worked on scene reconstruction and
+                  uncertainty manipulation. The links below provide more
+                  information about these topics. <br>
+                </font></p>
+              <font face="Helvetica, Arial, sans-serif"> </font> <font
+                face="Helvetica, Arial, sans-serif"><a
+                  href="#kinodynamic_planning_control">Kinodynamic
+                  motion planning and control</a> - <a
+                  href="#cable_driven_robots">cable-driven robots</a> -
+                <a href="research.html#singularityanalysis">singularity
+                  analysis</a> - <a href="research.html#sfree">singularity-free
+
+
+
+
+
+
+                  path planning</a> - <a
+                  href="research.html#workspaces">workspace
+                  determination</a> - <a
+                  href="research.html#graspsynthesis">grasp synthesis</a>
+                - <a href="research.html#positionanalysis">position
+                  analysis</a> - <a
+                  href="research.html#molecularmotions">molecular
+                  motions</a> - <a href="research.html#uncertainty">uncertainty
+
+
+
+
+
+
+                  manipulation</a> - <a
+                  href="research.html#scenereconstruction">scene
+                  reconstruction</a><br>
+                <br>
+              </font>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"><a
+                      name="kinodynamic_planning_control"></a>Kinodynamic
+
+
+
+
+                    motion planning and control of closed-chain systems<br>
+                  </font></small></h1>
+              <img src="kinodynamic-planning.png" alt="Kinodynamic
+                planning of robot motions avoiding forward
+                singularities" width="861" border="1" height="343"><br>
+              <br>
+              <font face="Helvetica, Arial, sans-serif">We are working
+                on kinodynamic planning and control with <a
+href="http://www.iri.upc.edu/people/ros/Separates/icra14-2018-Brisbane-kinodynamic-motion-planning.pdf">dynamic
+
+
+
+
+                  constraints</a>. By these constraints we mean the
+                equations of motion of the robot (differential algebraic
+                equations) and existing limits in the actuation and
+                constraint forces (inequality constraints). If
+                necessary, <a
+href="http://www.iri.upc.edu/people/ros/Separates/cl13-ark-2018-Bologna-kinodynamic-sfree-planning.pdf">we
+
+
+
+
+                  can also deal with singularity-avoidance constraints</a>.
+                For example, the figure above shows the results of
+                planning a weight-throwing task on a 5-bar parallel
+                robot. Note how the robot swings back and forth to gain
+                momentum while avoiding the red locus of singularities
+                until it finally throws the load (the locus changes when
+                one of the arm shifts from elbow up to elbow down, or
+                viceversa). In parallel, we are developing <a
+href="http://www.iri.upc.edu/people/ros/Separates/iros02-2018-Madrid-lqr-parallel.pdf">LQR
+
+
+
+
+                  controllers to stabilize the planned trajectories</a>.
+                Interestingly, we have shown that one can control a
+                parallel robot across (or even at) a forward
+                singularity. Each planning strategy (either avoiding or
+                allowing the traversal of forward singularities) has its
+                advantages and shortcomings.<br>
+              </font>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"><a name="cable_driven_robots"></a>Cable-driven
+
+
+
+
+                    robots</font></small></h1>
+              <blockquote> </blockquote>
+              <img alt="The IRI Hexacrane"
+                src="hexacrane-krd-iri-lowres.jpg" width="861"
+                height="574"><br>
+              <font face="Helvetica, Arial, sans-serif"> </font><br>
+              <font face="Helvetica, Arial, sans-serif"> </font><font
+                face="Helvetica, Arial, sans-serif"> Motion paths of
+                cable-driven hexapods must carefully be planned to
+                ensure that the lengths and tensions of all cables
+                remain within acceptable limits, for a given wrench
+                applied to the platform. The cables cannot go slack (to
+                keep the control of the robot<font face="Helvetica,
+                  Arial, sans-serif">)</font> nor excessively tight (to
+                prevent cable breakage<font face="Helvetica, Arial,
+                  sans-serif">) even</font> in the presence of bounded
+                perturbations of the wrench. Our work has been on <font
+                  face="Helvetica, Arial, sans-serif">developing a <font
+                    face="Helvetica, Arial, sans-serif">path planner
+                    that respects<font face="Helvetica, Arial,
+                      sans-serif"> such tension constraints, and at the
+                      same time avoids</font> eventual obstacles in the
+                    workspace.</font></font><font face="Helvetica,
+                  Arial, sans-serif"><font face="Helvetica, Arial,
+                    sans-serif"> </font>The planner can be used to
+                  navigate the full 6D C-space or smaller subspaces
+                  defined by contact or geometric constraints. More
+                  information can be found in our <a target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/sci-23-r21-tro-cable-driven.pdf">2016
+
+
+
+
+
+
+                    paper in the IEEE TRO</a>. We have also given a
+                  variant of the technique for <a target="_top"
+                    href="http://www.roboticsproceedings.org/rss09/p28.pdf">aerial-towed
+
+
+
+
+
+
+                    cable systems</a> (aka the "FLYCRANE").</font></font>&nbsp;
+
+
+
+
+
+
+              <br>
+              <br>
+              <br>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"><a name="singularityanalysis"></a>Singularity
+
+
+
+
+
+
+
+                    analysis</font></small></h1>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><img
+                  src="3rRr-forward-inverse.jpg" alt="Forward and
+                  inverse singularities of a 3-rRr parallel robot"
+                  width="863" height="738"></h1>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"> </font></small></h1>
+              <p><font face="Helvetica, Arial, sans-serif"> </font></p>
+              <p><font face="Helvetica, Arial, sans-serif"> </font></p>
+              <div class="page" title="Page 23"><font face="Helvetica,
+                  Arial, sans-serif">Singularity analysis is a central
+                  topic of robot kinematics. It has as a goal the study
+                  of certain configurations, termed <i>singular</i> or
+                  <i>critical</i>, where important changes take place in
+                  the kinetostatic performance of a mechanism. Rigidity
+                  or dexterity losses arise, and there may appear
+                  unresolvable or uncontrollable end-effector forces,
+                  among other effects. Obtaining complete maps of the
+                  singularity locus is thus essential <font
+                    face="Helvetica, Arial, sans-serif">for a proper</font>
+                  robot design. We have developed an extensive theory
+                  and algorithms for computing <font face="Helvetica,
+                    Arial, sans-serif">all singularity loci of a</font>
+                  mechanism. A disti<font face="Helvetica, Arial,
+                    sans-serif">nctive feature of the methods <font
+                      face="Helvetica, Arial, sans-serif">is that they
+                      are applicable to <font face="Helvetica, Arial,
+                        sans-serif">non-redundant mechanisms</font></font></font>
+                  of general architecture. See our papers in the
+                  2008-201<font face="Helvetica, Arial, sans-serif">5
+                    period (<font face="Helvetica, Arial, sans-serif">a
+                      good start is <a target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/sci-19-r17-mmt-singularities.pdf">MMT
+
+
+
+
+
+
+                        2013</a></font>)<font face="Helvetica, Arial,
+                      sans-serif">.</font> Our </font><a target="_top"
+                    href="http://www.iri.upc.edu/srm"><font
+                      face="Helvetica, Arial, sans-serif">2016</font><font
+                      face="Helvetica, Arial, sans-serif"> </font>boo</a><font
+                    face="Helvetica, Arial, sans-serif"><a target="_top"
+                      href="http://www.iri.upc.edu/srm">k <font
+                        face="Helvetica, Arial, sans-serif">presents</font>
+                      all such results in a consistent manner.</a><br>
+                  </font></font><br>
+                <h1 style="font-family: helvetica,arial,sans-serif;
+                  font-weight: normal;" align="left"><small><font
+                      color="#000099"> <a name="sfree"></a>Singularity-free
+
+
+
+
+
+
+                      path planning</font></small></h1>
+                <p><img src="3rrr.png" alt="A 3-RRR parallel robot"
+                    width="866" height="914"><font face="Helvetica,
+                    Arial, sans-serif"><br>
+                  </font></p>
+                <font face="Helvetica, Arial, sans-serif">Here we have
+                  shown how it is possible to send forward or inverse
+                  singularities to infinity, obtaining an algebraic
+                  formulation of the singularity-free C-space of a
+                  mechanism. C-space singularities are sent to infinity
+                  too, which results in a nicely smooth configuration
+                  space. This allows us to define a conceptually simple
+                  higher-dimensional continuation strategy to find paths
+                  between given configurations. Since the C-space is
+                  smooth, it can be navigated without fear of finding
+                  bifurcations. This results in an automated method for
+                  computing singularity-free paths in general
+                  non-redundant mechanisms. These results can be found
+                  in our <a target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/sci-20-r18-tro-sfree.pdf">2013
+
+
+
+
+
+
+                    IEEE TRO paper</a> and in <a target="_top"
+                    href="http://www.iri.upc.edu/srm">our 2016 book</a>.
+                  The approach has also been <a target="_top"
+                    href="http://www.iri.upc.edu/people/arajoy/tfm.pdf">validated
+
+
+
+
+
+
+                    empirically on the 3-RRR robot of the picture above</a>.&nbsp;
+
+
+
+
+
+
+                  <br>
+                </font></div>
+              <font face="Helvetica, Arial, sans-serif"> </font>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"><a name="molecularmotions"></a>Molecular
+
+
+
+
+
+
+
+                    motions</font></small></h1>
+              <p align="left"><img src="symmetric-molecule-2.JPG" alt="A
+                  symmetric molecule" width="870" height="579"></p>
+              <p><font face="Helvetica, Arial, sans-serif">We also have
+                  shown how our algorithms can be applied to <a
+                    target="_top"
+                    href="http://www.iri.upc.edu/people/ros/Separates/sci12-r10-jcc.pdf">explore
+
+
+
+
+
+
+                    the conformational space of biomolecules</a>. We
+                  here advocate for the power of the so-called
+                  rigid-geometry hypothesis, which allows us to model a
+                  molecule's C-space with a reduced number of
+                  configuration coordinates, subject to a system of
+                  kinematic or geometric constraints. We solve such
+                  systems through branch-and-prune or numerical
+                  continuation methods. In colaboration with Adnan
+                  Sljoka, Bernd Schulze, and Walter Whiteley, we have
+                  also explored the <a target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/config_spaces_sym_linkages.pdf">C-space
+
+
+
+
+
+
+                    of symmetric molecular linkages</a>.<br>
+                  <br>
+                </font></p>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"><a name="positionanalysis"></a>Position
+
+
+
+
+
+
+
+                    analysis</font></small></h1>
+              <div align="left"><img alt="Position analysis of
+                  closed-loop linkages" src="position-analysis.png"
+                  width="876" height="710"></div>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"> </font></small></h1>
+              <p> <font face="Helvetica, Arial, sans-serif">This was
+                  our main focus in the period 2005-2010. Our goal was
+                  to find a general solution to the position analysis of
+                  multiloop linkages. I.e., for computing all possible
+                  configurations that a linkage can adopt, while
+                  respecting the kinematic constraints imposed by its
+                  joints. The problem finds applications to robotics
+                  (direct and inverse kinematics of serial/parallel
+                  robots, cooperative manipulation, and closed-chain
+                  motion planning), structural biology (conformational
+                  analysis of biomolecules), multibody dynamics (initial
+                  position and finite displacement problems), and
+                  computer-aided design (variational CAD and assembly
+                  positioning). Main papers are <a target="_top"
+                    href="http://www.iri.upc.edu/people/ros/Separates/sci11-r9-asme-box.pdf">ASME
+
+
+
+
+
+
+                    2007</a> and <a target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/sci-13-r11-tro-multiloops.pdf">TRO
+
+
+
+
+
+
+                    2009</a>, or, through an alternative approach, <a
+                    target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/sci-15-r13-mmt-loops.pdf">MMT2012.</a><br>
+                  <br>
+                </font></p>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"><a name="graspsynthesis"></a>Grasp
+                    synthesis</font></small></h1>
+              <img alt="Two task-oriented grasps"
+                src="grasp-synthesis.png" width="864" height="480"><br>
+              <br>
+              <p><font face="Helvetica, Arial, sans-serif"> Several
+                  aspects have to be addressed before realizing the
+                  dream of a robotic hand-arm system with human-like
+                  capabilities, ranging from the consolidation of a
+                  proper mechatronic design, to the development of
+                  precise, lightweight sensors and actuators, to the
+                  efficient planning and control of the articular forces
+                  and motions required for interaction with the
+                  environment. We have developed algorithms for a main
+                  problem within the latter aspect, known as the grasp
+                  planning problem: Given a robotic system formed by a
+                  multifingered hand attached to an arm, and an object
+                  to be grasped, both with a known geometry and location
+                  in 3-space, determine how the hand-arm system should
+                  be moved without colliding with itself or with the
+                  environment, in order to firmly grasp the object in a
+                  suitable way (defined by task-dependent hand-object
+                  contact constraints). See <a target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/sci-14-r12-ijrr-grasp.pdf">IJRR
+
+
+
+
+
+
+                    2011</a>, <a
+href="http://www.iri.upc.edu/people/ros/Separates/sci-18-r16-tro-grasp-optimization.pdf">TRO
+
+
+
+
+
+
+                    2013</a> and the <a target="_top"
+                    href="http://www.iri.upc.edu/thesis/show/12">PhD
+                    Thesis by Carlos Rosales</a>.<br>
+                  <br>
+                </font></p>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"><a name="workspaces"></a>Workspace
+                    determination</font></small></h1>
+              <div align="left"><img alt="Workspace of a Gough-Stewart
+                  platform" src="workspace-determination.png"
+                  width="851" height="743"></div>
+              <font face="Helvetica, Arial, sans-serif"><br>
+                We have developed a new method for workspace boundary
+                determination on general structure manipulators. The
+                method uses our branch-and-prune technique to isolate a
+                set of output singularities. Then, following Haug et
+                al., we classify the points in this set according to the
+                motion impediment they give rise to. A detailed map of
+                the workspace is obtained as a result, where all
+                interior and exterior regions, together with the
+                singularity or barrier sets that separate them, get
+                clearly identified. The method can deal with open- or
+                closed-chain robots, whether planar or spatial, and is
+                able to take joint limits into account. Advantages over
+                previous methods based on continuation include the
+                ability to converge to all boundary points, and the fact
+                that a priori knowledge of the workspace is not
+                required. See <a target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/sci-16-r14-tro-workspaces.pdf">TRO
+
+
+
+
+
+
+                  2012</a>, <a target="_top"
+href="http://www.iri.upc.edu/people/ros/Separates/sci-17-r15-asme-workspace-stewart.pdf">ASME
+
+
+
+
+
+
+                  2013</a>, and <a target="_top"
+                  href="http://www.iri.upc.edu/srm">Chapter 4 of this
+                  book</a>. </font><br>
+              <br>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"><a name="uncertainty"></a>Uncertainty
+
+
+
+
+
+
+
+                    manipulation</font></small></h1>
+              <p><font face="Helvetica, Arial, sans-serif"><img
+                    alt="Set-bounded uncertainty manipulation"
+                    src="uncertainty-manip.png" width="867" height="687"><br>
+                </font></p>
+              <p><font face="Arial,Helvetica">In the real world, the
+                  need to cope with uncertainty arises at all levels of
+                  a robot task, during sensory perception, object
+                  representation, or task execution. In collaboration
+                  with other members of the KRD group, we have developed
+                  methods for handling such uncertainty, including
+                  general-purpose tools like the <a
+                    href="http://www-iri.upc.es/people/ros/ellipsoids.html">
+                    Ellipsoidal Calculus Toolbox</a>, or specific
+                  methods for <a
+href="file:///Users/ros/Dropbox/web-lluis/Separates/sci10-r8-tra-trilateracio.pdf">error
+
+
+
+
+
+
+
+
+                    estimation in trilateration</a> and <a
+href="file:///Users/ros/Dropbox/web-lluis/Separates/sci09-r7-tra-321.pdf">pose
+
+
+
+
+
+
+
+
+                    estimation devices</a>.<br>
+                  <br>
+                </font><font face="Helvetica, Arial, sans-serif"> </font></p>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><small><font
+                    color="#000099"><a name="scenereconstruction"></a>Scene
+
+
+
+
+
+
+                    reconstruction from line drawings</font></small></h1>
+              <h1 style="font-family: helvetica,arial,sans-serif;
+                font-weight: normal;" align="left"><img alt="Scene
+                  reconstruction from line drawings"
+                  src="scene-reconstruction.png" width="864"
+                  height="388"></h1>
+              <p><font face="Helvetica, Arial, sans-serif"><font
+                    face="Arial,Helvetica">During my PhD I worked in <a
+                      target="_top"
+                      href="file:///Users/ros/Dropbox/web-lluis/WebThesis/index.html">machine
+
+
+
+
+
+
+
+
+
+                      interpretation of line drawings</a>. This is also
+                    known as the "shape-from-image" problem, where
+                    "image" means a "hand-made sketch" essentially. The
+                    goal was to fully automate the process of converting
+                    one such sketch to the most-plausible
+                    three-dimensional model it represents. The work
+                    studies the polyhedral case, its connections with
+                    rigidity theory, and provides solutions to
+                    implementation problems like image
+                    "superstrictness". Main publications are <a
+href="file:///Users/ros/Dropbox/web-lluis/Separates/sci02-r2-pami-2002.pdf">Ros
+
+
+
+
+
+
+
+
+                      and Thomas 2002</a>, <a
+href="file:///Users/ros/Dropbox/web-lluis/Separates/sci05-r4-tvc-2003.pdf">Ros
+
+
+
+
+
+
+
+
+                      et al. 2003</a>, <a
+href="file:///Users/ros/Dropbox/web-lluis/Separates/sci07-r5-jmiv-2005.pdf">Ros
+
+
+
+
+
+
+
+
+                      and Thomas 2005</a> and my own <a
+                      href="file:///Users/ros/Dropbox/web-lluis/WebThesis/thesis.pdf">PhD
+
+
+
+
+
+
+
+
+                      thesis</a>.</font><br>
+                  <br>
+                </font></p>
+              <br>
+              <br>
+              <p><font face="Arial,Helvetica"> </font></p>
+              <br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </blockquote>
+    <br>
+    <blockquote> <font face="Arial,Helvetica"> </font></blockquote>
+  </body>
+</html>
