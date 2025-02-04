@@ -18,7 +18,9 @@ iP = Sessió de la setmana i-èssima
 + [3P: Angles d'Euler](#3p-angles-deuler)  
 + [4P: Composició de moviments](#4p-composició-de-moviments)  
 + [5P: Cinemàtica del sòlid rígid](#5p-cinemàtica-del-sòlid-rígid)  
-+ [Bibliografia](#bibliografia)  
++ [Bibliografia](#bibliografia) 
++ [Enllaços](#enllaços) 
+ 
 
 ## 1P: Derivació geomètrica
 
@@ -42,7 +44,7 @@ Pendent.
 
 ## Bibliografia
 
-### Wikimec
+Wikimec
 
 * [https://mec.etseib.upc.edu](https://mec.etseib.upc.edu) (Català)
 * [https://mec.etseib.upc.edu/en](https://mec.etseib.upc.edu/en) (Anglès)
@@ -54,5 +56,5 @@ Llibres de referència:
 
 * J. Agulló i Batlle, ["Mecànica de la partícula i del sòlid rígid"](https://drive.google.com/file/d/1N22VNGK_2FQnVZzZuqxPn2JlbAflULm6/view), Publicacions OK punt, 2002.  
 
-La [web del professor Agulló](https://www.agullobatlle.cat/activitat-docent), conté material addicional.
-
+## Enllaços
+["Horaris de mecànica 2024 - 2025 (primavera)"](mecanica/horaris_2024_25.pdf)
