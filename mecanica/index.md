@@ -1,13 +1,11 @@
 <!-- Markdown comments are html ones -->
 
-# Multibody System Dynamics #
+# Mecànica #
 
-Course edition: 2023 - 2024
+Curs: 2024 - 2025
 
-[Master's Degree in Mechanical Engineering](https://eseiaat.upc.edu/ca/estudis/estudis-en-enginyeries-industrials/master-universitari-recerca-enginyeria-mecanica)  
+[Industrial Engineering Degree](https://eseiaat.upc.edu/ca/estudis/estudis-en-enginyeries-industrials/master-universitari-recerca-enginyeria-mecanica)  
 [Mechanical Engineering Department](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
-
-![From left to right: The Atlas robot from Boston Dynamics, an America's Cup yacht, the Perseverance robot landing on Mars, and Starship leaving the Earth.](images/lluis_ros.jpg)
 
 This course explores the modelling and simulation of multibody systems composed of rigid bodies. On completion of the course, students should be able to model a multibody system and perform kinematic and dynamic analyses by means of computational simulation methods. The course also emphasizes connections to control theory by means of lab exercises that guide students from building a system's dynamic model to designing a control law to track a given trajectory.
 
