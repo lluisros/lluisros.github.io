@@ -1,0 +1,347 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta content="text/html; charset=iso-8859-1"
+ http-equiv="Content-Type">
+  <meta
+ content="Mozilla/4.75 [en] (X11; U; SunOS 5.5.1 sun4u) [Netscape]"
+ name="GENERATOR">
+  <meta content="Lluis Ros, Assumpta Sabater and Federico Thomas"
+ name="Author">
+  <meta
+ content="Ellipsoidal Calculus, Ellipsoidal Algebra, Uncertainty, Fusion, Propagation, Minkowski Sum, Minkowski Difference, Affine Relation."
+ name="Keywords">
+  <title>A Robust Ellipsoidal Calculus</title>
+  <meta content="Federico Thomas, Assumpta Sabater and Llu&iacute;s Ros"
+ name="author">
+  <meta
+ content="Ellipsoidal Calculus, propagation, fusion, line drawing, manipulability ellipsoid, parallel manipulator robot"
+ name="description">
+</head>
+<body alink="#ff0000" vlink="#551a8b" link="#0000ee" bgcolor="#ffffff"
+ text="#000000">
+&nbsp;
+<br>
+&nbsp;
+&nbsp;
+<small><small><small><span style="font-weight: normal;"></span></small></small></small><br>
+<center>
+<h1><font face="Arial,Helvetica"><font color="#009900"><font size="+2">An
+Ellipsoidal Calculus <br>
+Based on Propagation and Fusion<small><small><span
+ style="font-weight: normal;"></span></small></small><br>
+<small><small><small style="font-weight: normal;">- MAPLE code freely
+available for academic purposes -</small></small></small> <br>
+</font></font></font></h1>
+<img style="width: 253px; height: 280px;"
+ alt="The grey ellipsoid transforms to the gold cylinder by propagation through an affine relation"
+ src="WebEllipsoids/gifs-ellipsoids/prop3d-1.gif"><img
+ style="width: 244px; height: 284px;"
+ alt="Fusion (gold) of two ellipsoids (grey)"
+ src="WebEllipsoids/gifs-ellipsoids/fus3d-3.gif"><small><font
+ face="Arial,Helvetica"><font size="+2"><small><br>
+<small>Joint work by<br>
+</small><small><a style="text-decoration: none;"
+ href="mailto:assumpta.sabater-pruna@upc.es">Assumpta
+Sabater</a> (1), </small></small></font></font></small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><a
+ style="text-decoration: none;"
+ href="http://www-iri.upc.es/people/thomas">Federico
+Thomas</a> (2), </small></small></font></font></small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>and <a
+ style="text-decoration: none;" href="http://www-iri.upc.es/people/ros">Llu&iacute;s
+Ros</a> </small></small></font></font></small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>(2)<br>
+</small></small></font></font></small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><small><br>
+</small></small></small></font></font></small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><small>(1)
+Applied Mathematics Department - UPC</small></small></small></font></font></small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><br>
+</small></small></font></font></small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><small>(2)
+Institut de
+Rob&ograve;tica
+i Inform&agrave;tica Industrial - CSIC / UPC<br>
+<br>
+electronic mail addresses are:<br>
+<span
+ style="font-family: courier new,courier,monospace; font-weight: bold; color: rgb(0, 153, 0);">assumpta
+dot sabater-pruna</span> followed by <span
+ style="font-family: courier new,courier,monospace; font-weight: bold; color: rgb(0, 153, 0);">at
+upc dot es</span><br>
+<span
+ style="font-family: courier new,courier,monospace; font-weight: bold; color: rgb(0, 153, 0);">fthomas</span>
+followed by <span
+ style="font-family: courier new,courier,monospace; font-weight: bold; color: rgb(0, 153, 0);">at
+iri dot upc dot es</span><br>
+<span
+ style="font-family: courier new,courier,monospace; font-weight: bold; color: rgb(0, 153, 0);">llros</span>
+followed by <span
+ style="font-family: courier new,courier,monospace; font-weight: bold; color: rgb(0, 153, 0);">at
+ir dot upc dot es</span><br>
+</small></small></small></font></font></small>
+<p><small><font face="Arial,Helvetica"><font size="+2"><small><a
+ style="text-decoration: none;" href="#Abstract">Introduction</a>&nbsp;
+|&nbsp; <a style="text-decoration: none;" href="#snapshots">Snapshots</a>
+|&nbsp; <a style="text-decoration: none;" href="#paper">Related
+papers</a> |&nbsp; <a style="text-decoration: none;" href="#maple">Maple
+code</a></small></font></font></small><a style="text-decoration: none;"
+ href="#maple"><small><font face="Arial,Helvetica"><font size="+2"><small><br>
+</small></font></font></small></a></p>
+</center>
+<blockquote>
+  <h2>
+  <hr width="100%"><a style="text-decoration: none;" name="Abstract"></a><font
+ style="font-weight: normal;" face="Arial,Helvetica"><font
+ color="#009900">Introduction</font></font></h2>
+  <small><small><font face="Arial,Helvetica"><font size="+2"><small><small>This
+work
+develops an Ellipsoidal
+Calculus based on two operations: <span style="font-weight: bold;"><font
+ color="#3333ff">propagation</font></span>
+and <span style="font-weight: bold;"><font color="#3333ff">fusion</font></span>.
+Propagation refers to
+obtaining an ellipsoid that must satisfy an affine relation
+with another ellipsoid, and fusion to that of computing the ellipsoid
+that
+tightly bounds the intersection of two other ellipsoids. These two
+operations
+supersede the <b><font color="#3333ff">Minkowski sum</font></b> and <b><font
+ color="#3333ff">difference</font></b>, <b><font color="#3333ff">affine
+transformation</font></b> and <b><font color="#3333ff">intersection
+tight bounding</font></b><span style="color: rgb(51, 102, 255);"><span
+ style="color: rgb(51, 51, 255);"></span></span> of ellipsoids on which
+other Ellipsoidal Calculi are
+based.
+Actually, a Minkowski operation can be seen as a fusion followed by a
+propagation,
+and an affine transformation as a particular case of propagation.
+Moreover,
+the presented formulation is robust in the sense that it is inmune to
+degeneracies
+of the involved ellipsoids (they may extend infinetely in any
+direction) and/or of the affine relations. <br>
+  <br>
+Altogether, these tools permit a set-membership approach to dealing
+with uncertainty in many contexts. We here illustrate how they can be
+used in two specific domains: </small></small></font></font></small></small><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>the spatial
+interpretation of line
+drawings and the computation of force/manipulability ellipsoids
+for parallel manipulators. Other possible </small></small></font></font></small></small><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>applications are
+to estimation theory, and to robot self-localization and
+map building (SLAM).</small></small></font></font></small></small><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>&nbsp;</small></small></font></font></small></small>
+  <p><small><small><font face="Arial,Helvetica"><font size="+2"><small><small>The
+calculus has been implemented
+in <span style="color: rgb(51, 204, 0);"><span
+ style="font-weight: bold; color: rgb(0, 153, 0);">MAPLE</span>, </span>and
+is distributed
+here under the name&nbsp; <b><font color="#3333ff">ECT - Ellipsoidal
+Calculus Toolbox</font></b>. Most of the routines are general, in the
+sense that they work for n-dimensional ellipsoids. ECT is accompanied
+with
+several MAPLE worksheets examplifying its use, and with several
+routines to plot the results.&nbsp;</small></small></font></font> </small></small></p>
+  <h2><small></small>
+  <hr width="100%"><small><a style="text-decoration: none;"
+ name="snapshots"></a><font style="font-weight: normal;"
+ face="Arial,Helvetica"><font color="#009900"><font size="+3"><small>Snapshots</small></font></font></font></small></h2>
+  <small></small><small></small><small></small><small></small><small></small>
+  <table nosave="" width="800" cols="2" cellpadding="20">
+    <tbody>
+      <tr nosave="">
+        <td nosave=""><small><img nosave=""
+ src="WebEllipsoids/gifs-ellipsoids/prop30.gif"
+ alt="Example of propagation: Computing the uncertainty of the imaginary apex, taking into account the green uncertainties for the vertices"
+ style="width: 398px; height: 309px;"> </small>
+        <p><small><img
+ title="Example of fusion: Computing the smallest ellipse that bounds the intersection of the three ellipses above"
+ nosave="" src="WebEllipsoids/gifs-ellipsoids/prop31.gif"
+ style="width: 398px; height: 309px;" alt="Fusion"></small></p>
+        </td>
+        <td nosave=""><small><small><font face="Arial,Helvetica"><font
+ size="+2"><small><small>This sequence shows
+one application of the propagation and fusion operators to line drawing
+interpretation. The figure in red is a projection of a truncated
+tetrahedron.
+Note that it is only correct when the three <b>edges</b> joining the
+two
+red triangles intersect at a common point, the imaginary <b>apex</b>
+of
+such a tetrahedron. Since the apex must lie on any pair of two such
+edges,
+we can use the propagation operator to derive the <b>yellow</b>
+elliptical
+bounds for the apex, given the <b><font color="#000000">green</font></b>
+elliptic uncertainties for the vertices.</small></small></font></font> </small></small>
+        <p><small><small><font face="Arial,Helvetica"><font size="+2"><small><small>Next,
+the three yellow ellipses
+are intersected by repeatedly using the fusion operator. The resulting
+elliptical envelope of such intersection is shown in <b>yellow</b>, in
+the second figure.</small></small></font></font></small></small></p>
+        <small> </small></td>
+      </tr>
+    </tbody>
+  </table>
+  <p><small> </small></p>
+  <hr width="100%">
+  <h2><small><a style="text-decoration: none;" name="paper"></a><font
+ face="Arial,Helvetica"><font color="#009900"><big
+ style="font-weight: normal;">Related papers</big><br>
+  </font></font></small></h2>
+  <blockquote>
+    <p style="font-family: helvetica,arial,sans-serif;" class="Bib2"><font
+ size="3"><span style="font-size: 12pt;">L. Ros, A. Sabater, and F.
+Thomas. <a style="text-decoration: none;"
+ href="WebEllipsoids/pdfs-ellipsoids/sci03-r3-smc-2002.pdf">"An
+Ellipsoidal Calculus based on Propagation and Fusion."</a> IEEE
+Transactions on Systems Man and Cybernetics, Part B. Vol. 32, n. 4, pp.
+430-442. August 2002. IEEE Press. ISSN 1083-4419.</span></font></p>
+    <span style="font-family: helvetica,arial,sans-serif;">A. Sabater
+and F. Thomas, "</span><a
+ style="text-decoration: none; font-family: helvetica,arial,sans-serif;"
+ href="WebEllipsoids/pdfs-ellipsoids/ICRA1991.pdf">Set Membership
+Approach to the
+Propagation of Uncertain Geometric Information,</a><span
+ style="font-family: helvetica,arial,sans-serif;">" Proceedings of the
+1991 IEEE International Conference on Robotics and Automation, Vol.
+III, pp. 2718-2723, abril 9-11, 1991, Sacramento, USA. </span><br
+ style="font-family: helvetica,arial,sans-serif;">
+    <small><font face="Arial,Helvetica"><font size="+2"><small><br>
+    </small></font></font><font face="Arial,Helvetica"><font size="+2"><small></small></font></font></small></blockquote>
+  <hr width="100%">
+  <h2><small><a style="text-decoration: none;" name="maple"></a><font
+ face="Arial,Helvetica"><font color="#009900"><big
+ style="font-weight: normal;">Maple code</big> <br>
+  <small><small><small>(For MAPLE 8.0 or higher)</small></small></small></font></font></small><br>
+  </h2>
+  <blockquote>
+    <div style="text-align: center;"><small><span
+ style="font-family: helvetica,arial,sans-serif;">This code is freely
+distributed only for academic purposes. <br>
+Please contact the authors for permission to use it commercially.<br>
+    </span></small></div>
+    <small><small><font face="Arial,Helvetica"><font size="+2"><small><small><br>
+The
+Ellipsoidal Calculus Toolbox is distributed as a single file, <a
+ style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/ect-1.0.txt">ect-1.0.txt</a><span
+ style="font-family: helvetica,arial,sans-serif;">,</span>
+included below. There is no written manual for <span
+ style="font-weight: bold;">ECT 1.0</span> yet. However, all functions
+of
+the library are extensively documented inside<span
+ style="font-family: helvetica,arial,sans-serif;"> </span><a
+ style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/ect-1.0.txt">ect-1.0.txt</a><span
+ style="font-family: helvetica,arial,sans-serif;"></span>. These
+comments, together with the papers above, and the example
+worksheets below, should suffice to
+develop your own application of ECT. If you have troubles using ECT,
+you can also e-mail us,
+we'll be glad to help you.<br>
+    <br>
+So where do you start? We recommend that you first read the first paper
+above (which explains the the calculus in the form implemented in ECT),
+then download all files below, and try the execution of the example
+worksheets in MAPLE 8.0 or higher. HTML versions of these files are
+also
+available, to browse their contents without executing them.&nbsp; If
+you prefer, you can download all files below collected in a <a
+ style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/ect-1.0.zip">zip file</a> (2.6
+Mb).<br>
+    <br>
+    </small></small></font></font></small></small>
+    <div style="margin-left: 40px;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>- ECT's primary
+library file:</small></small></font></font></small></small><br>
+    </div>
+    <div style="margin-left: 80px;"><a style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/ect-1.0.txt"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>Ascii-file</small></small></font></font></small></small></a><br>
+    </div>
+    <div style="margin-left: 40px;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>- Simple examples
+of propagation:</small></small></font></font></small></small><br>
+    </div>
+    <div style="margin-left: 80px;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><a
+ style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/demo-propagation.mws">Maple
+worksheet</a> - <a style="text-decoration: none;"
+ href="WebEllipsoids/ExamplesPropagation/demo-propagation.html">Html
+version</a></small></small></font></font></small></small><br>
+    </div>
+    <div style="margin-left: 40px;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>- Simple examples
+of fusion:</small></small></font></font></small></small><br>
+    </div>
+    <div style="margin-left: 80px;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><a
+ style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/demo-fusion.mws">Maple worksheet</a>
+- <a style="text-decoration: none;"
+ href="WebEllipsoids/ExamplesFusion/demo-fusion.html">Html version</a></small></small></font></font></small></small><br>
+    </div>
+    <div style="margin-left: 40px;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>- Simple examples
+of Minkowski sums:</small></small></font></font></small></small><br>
+    </div>
+    <div style="margin-left: 40px;">
+    <div style="margin-left: 40px;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><a
+ style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/demo-minkowski.mws">Maple
+worksheet</a> - <a style="text-decoration: none;"
+ href="WebEllipsoids/ExamplesMinkowski/demo-minkowski.html">Html version</a></small></small></font></font></small></small><br>
+    </div>
+    <small><small><small><big><big
+ style="font-family: helvetica,arial,sans-serif;"><big><br>
+    </big></big></big></small></small></small></div>
+    <span style="font-family: helvetica,arial,sans-serif;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>Two applications
+of ECT are included, related to dealing with uncertainty in line
+drawing interpretation and isotropy analysis of parallel manipulators:<br>
+    <br>
+    </small></small></font></font></small></small></span>
+    <div style="margin-left: 40px;"><span
+ style="font-family: helvetica,arial,sans-serif;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>- Application to
+line drawing interpretation:</small></small></font></font></small></small></span><br>
+    <div style="margin-left: 40px;"><span
+ style="font-family: helvetica,arial,sans-serif;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><a
+ style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/tools-line-drawings.txt">Tools
+ascii file</a> - <a style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/demo-line-drawings.mws">Maple
+worksheet</a> - <a style="text-decoration: none;"
+ href="WebEllipsoids/ExamplesLineDrawings/demo-line-drawings.html">Html
+version</a></small></small></font></font></small></small></span><br>
+    </div>
+    <span style="font-family: helvetica,arial,sans-serif;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small>- Application to
+isotropy analysis:</small></small></font></font></small></small></span><br>
+    <div style="margin-left: 40px;"><span
+ style="font-family: helvetica,arial,sans-serif;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><a
+ style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/tools-isotropy.txt">Tools ascii
+file</a> - <a style="text-decoration: none;"
+ href="WebEllipsoids/ECT-Distribution/demo-singularities.mws">Maple
+worksheet</a> - <a style="text-decoration: none;"
+ href="WebEllipsoids/ExamplesSingularities/demo-singularities.html">Html
+version</a></small></small></font></font></small></small></span><br>
+    </div>
+    <span style="font-family: helvetica,arial,sans-serif;"></span></div>
+    <span style="font-family: helvetica,arial,sans-serif;"><small><small><font
+ face="Arial,Helvetica"><font size="+2"><small><small><br>
+    <br>
+    </small></small></font></font></small></small></span></blockquote>
+</blockquote>
+</body>
+</html>
