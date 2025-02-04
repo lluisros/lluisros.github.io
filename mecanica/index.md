@@ -2,6 +2,8 @@
 
 # Mecànica #
 
+Bla bla ...
+
 Curs: 2024 - 2025
 
 [Industrial Engineering Degree](https://eseiaat.upc.edu/ca/estudis/estudis-en-enginyeries-industrials/master-universitari-recerca-enginyeria-mecanica)  
