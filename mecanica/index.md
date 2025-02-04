@@ -11,6 +11,8 @@ En aquesta pàgina anunciaré els problemes que farem en cada sessió als grups 
 
 ## Índex
 
+iP = Sessió de la setmana i-èssima
+
 + [1P: Derivació geomètrica](#1p-derivació-geomètrica)  
 + [2P: Derivació analítica](#2p-derivació-analítica)  
 + [3P: Angles d'Euler](#3p-angles-deuler)  
