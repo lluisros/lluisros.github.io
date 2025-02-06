@@ -24,7 +24,9 @@ iP = Sessió de la setmana i-èssima
 
 ## 1P: Derivació geomètrica
 
-Pendent.
+[Problemes 1P](mecanica/1P.pdf)
+
+Teoria necessària: [Introducció](https://mec.etseib.upc.edu/ca/index.php?title=Introducci%C3%B3) + [Càlcul vectorial (fins a V2 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial) + [C1 (fins a C1.3 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic) + [C2 (fins a rotació simple a C2.4)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic)
 
 ## 2P: Derivació analítica
 
@@ -57,5 +59,5 @@ Llibres de referència:
 * J. Agulló i Batlle, ["Mecànica de la partícula i del sòlid rígid"](https://drive.google.com/file/d/1N22VNGK_2FQnVZzZuqxPn2JlbAflULm6/view), Publicacions OK punt, 2002.  
 
 ## Enllaços
-* ["Horaris de mecànica 2024 - 2025 (primavera)"](horaris_2024_25.pdf)
-* ["Calendari ETSEIB primavera 2025 (primavera)"](https://etseib.upc.edu/ca/estudis/calendaris/calendari-academic-graus-2024_25.pdf)
+* [Horaris de mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
+* [Calendari ETSEIB primavera 2025 (primavera)](https://etseib.upc.edu/ca/estudis/calendaris/calendari-academic-graus-2024_25.pdf)
