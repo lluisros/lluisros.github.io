@@ -25,7 +25,7 @@ iP = Sessió de la setmana i-èssima
 
 Abans de cada sessió:
 
-1. Estudieu bé la teoria impartida aquella setmana.
+1. Estudieu la teoria impartida aquella setmana.
 2. Llegiu amb cura els enunciats, entenent com es mou el sistema.
 2. Intenteu resoldre les parts que pugueu.
 
