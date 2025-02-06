@@ -36,7 +36,7 @@ Després de cada sessió:
 
 ## 1P: Derivació geomètrica
 
-[Problemes 1P](mecanica/1P.pdf)
+[Problemes 1P](problemes/1P.pdf)
 
 Teoria necessària: [Introducció](https://mec.etseib.upc.edu/ca/index.php?title=Introducci%C3%B3) + [Càlcul vectorial (fins a V2 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial) + [C1 (fins a C1.3 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic) + [C2 (fins a rotació simple a C2.4)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic)
 
