@@ -31,7 +31,7 @@ Abans de cada sessió:
 
 Després de cada sessió: 
 1. Refeu els exercicis per la vostra banda
-2. Resoleu les parts que s'han posat com a deures
+2. Resoleu els apartats que s'han posat com a deures
 3. Feu el treball autònom que es proposa a Atenea.
 
 ## 1P: Derivació geomètrica
