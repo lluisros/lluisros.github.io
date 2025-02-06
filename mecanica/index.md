@@ -25,13 +25,13 @@ iP = Sessió de la setmana i-èssima
 
 Abans de cada sessió:
 
-1. Estudieu bé la teoria impartida aquella setmana
-2. Llegiu bé els enunciats, entenent com es mou el sistema.
-2. Intenteu resoldre les parts que pugueu
+1. Estudieu bé la teoria impartida aquella setmana.
+2. Llegiu amb cura els enunciats, entenent com es mou el sistema.
+2. Intenteu resoldre les parts que pugueu.
 
 Després de cada sessió: 
-1. Refeu els exercicis per la vostra banda
-2. Resoleu els apartats que s'han posat com a deures
+1. Refeu els exercicis per la vostra banda.
+2. Resoleu els apartats que s'han posat com a deures.
 3. Feu el treball autònom que es proposa a Atenea.
 
 ## 1P: Derivació geomètrica
