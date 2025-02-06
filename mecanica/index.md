@@ -7,7 +7,7 @@ Curs: 2024 - 2025
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/grau-en-enginyeria-en-tecnologies-industrials)  
 [Departament d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta pàgina anunciaré els problemes que farem cada setmana als grups G10 i G40. També hi penjaré un  resum de les seves solucions, amb pistes breus que us hi poden conduir. És essencial que treballeu els problemes per la vostra banda abans de venir a classe. Així treureu el màxim rendiment de cada sessió i podreu interactuar més amb mi.
+En aquesta pàgina anunciaré els problemes que farem cada setmana als grups G10 i G40. També hi penjaré un  resum de les seves solucions, amb pistes breus que us hi poden conduir. Excepte en comptades ocasions, no hi penjaré el procediment detallat. Cal que treballeu els problemes per la vostra banda a partir de les explicacions de classe.
 
 ## Índex
 
@@ -21,6 +21,18 @@ iP = Sessió de la setmana i-èssima
 + [Bibliografia](#bibliografia) 
 + [Enllaços](#enllaços) 
  
+## Recomanacions
+
+Abans de cada sessió:
+
+1. Estudieu bé la teoria impartida aquella setmana
+2. Llegiu bé els enunciats, entenent com es mou el sistema.
+2. Intenteu resoldre les parts que pugueu
+
+Després de cada sessió: 
+1. Refeu els exercicis per la vostra banda
+2. Resoleu les parts que s'han posat com a deures
+3. Feu el treball autònom que es proposa a Atenea.
 
 ## 1P: Derivació geomètrica
 
