@@ -7,7 +7,7 @@ Curs: 2024 - 2025
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/grau-en-enginyeria-en-tecnologies-industrials)  
 [Departament d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta pàgina anunciaré els problemes que farem cada setmana als grups G10 i G40. També hi penjaré un  resum de les seves solucions, amb pistes breus que us hi poden conduir. Excepte en comptades ocasions, no hi penjaré el procediment detallat. Cal que treballeu els problemes per la vostra banda a partir de les explicacions de classe.
+En aquesta pàgina anunciaré els problemes que farem cada setmana als grups G10 i G40. També hi penjaré un  resum de les seves solucions, amb pistes breus que us hi poden conduir. No hi penjaré el procediment detallat. Cal que treballeu els problemes per la vostra banda a partir de les explicacions de classe.
 
 ## Índex
 
