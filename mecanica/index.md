@@ -57,4 +57,5 @@ Llibres de referència:
 * J. Agulló i Batlle, ["Mecànica de la partícula i del sòlid rígid"](https://drive.google.com/file/d/1N22VNGK_2FQnVZzZuqxPn2JlbAflULm6/view), Publicacions OK punt, 2002.  
 
 ## Enllaços
-["Horaris de mecànica 2024 - 2025 (primavera)"](horaris_2024_25.pdf)
+* ["Horaris de mecànica 2024 - 2025 (primavera)"](horaris_2024_25.pdf)
+* ["Calendari ETSEIB primavera 2025 (primavera)"](https://etseib.upc.edu/ca/estudis/calendaris/calendari-academic-graus-2024_25.pdf)
