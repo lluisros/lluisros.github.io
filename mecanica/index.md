@@ -42,7 +42,9 @@ Teoria necessària: [Introducció](https://mec.etseib.upc.edu/ca/index.php?title
 
 ## 2P: Derivació analítica
 
-Pendent.
+[Problemes 2P](problemes/2P.pdf)
+
+Teoria necessària: [Càlcul vectorial (a partir de V3)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector) + [C1.4 i C1.5](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic#C1.4_Orientaci%C3%B3_d'un_s%C3%B2lid_r%C3%ADgid_amb_moviment_a_l'espai) + [C2.4 fins a C2.8](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.4_Velocitat_angular_d%E2%80%99un_s%C3%B2lid_r%C3%ADgid)
 
 ## 3P: Angles d'Euler
 
