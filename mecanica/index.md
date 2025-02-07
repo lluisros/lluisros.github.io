@@ -7,7 +7,7 @@ Curs: 2024 - 2025
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/grau-en-enginyeria-en-tecnologies-industrials)  
 [Departament d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta pàgina anunciaré els problemes que farem cada setmana als grups G10 i G40 per a que hi pogueu pensar anticipadament. També hi penjaré un  resum de les seves solucions, amb pistes breus que us hi poden conduir. No hi penjaré el procediment detallat perquè és essencial que resolgueu els exercicis per la vostra banda. Feu-vos-els vostres! Treballeu-los a fons, discutiu-los amb companys, i incorporeu-hi les explicacions que donarem a classe. 
+En aquesta pàgina anunciaré els problemes que farem cada setmana als grups G10 i G40 per a que hi pogueu treballar anticipadament. També hi penjaré un  resum de les seves solucions, amb pistes breus que us hi poden conduir. No hi trobareu el procediment detallat perquè és essencial que els resolgueu per la vostra banda. Treballeu-los a fons, discutiu-los amb els companys, i incorporeu-hi les explicacions que donarem a classe.
 
 Bon curs a tots!
 
@@ -31,8 +31,8 @@ Abans de cada sessió:
 2. Llegiu amb cura els enunciats, entenent com es mou el sistema.
 2. Intenteu resoldre les parts que pugueu.
 
-Després de cada sessió: 
-1. Refeu els exercicis per la vostra banda incorporant el que hem fet a classe.
+Després de la sessió: 
+1. Refeu els exercicis incorporant el que hem fet a classe.
 2. Resoleu els apartats que s'han posat com a deures.
 3. Feu el treball autònom que es proposa a Atenea.
 
@@ -75,5 +75,6 @@ Llibres de referència:
 * J. Agulló i Batlle, ["Mecànica de la partícula i del sòlid rígid"](https://drive.google.com/file/d/1N22VNGK_2FQnVZzZuqxPn2JlbAflULm6/view), Publicacions OK punt, 2002.  
 
 ## Enllaços
+* [Formulari](https://atenea.upc.edu/pluginfile.php/6057438/mod_resource/content/81/MEC%20-%20Formulari%202024-25%20QT.pdf)
 * [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
 * [Calendari ETSEIB primavera 2025 (primavera)](https://etseib.upc.edu/ca/estudis/calendaris/calendari-academic-graus-2024_25.pdf)
