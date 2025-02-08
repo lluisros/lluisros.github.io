@@ -1,13 +1,13 @@
 <!-- Markdown comments are html ones -->
 
-# Mecànica: Problemes G10 i G40 #
+# Problemes G10 i G40 #
 
-Curs: 2024 - 2025
+Mecànica: Curs 2024/25 (Q2)
 
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/grau-en-enginyeria-en-tecnologies-industrials)  
 [Departament d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta pàgina anunciaré els problemes que farem cada setmana als grups G10 i G40 per a que hi pogueu treballar anticipadament. També hi penjaré un  resum de les seves solucions, amb pistes breus que us hi poden conduir. No hi trobareu el procediment detallat perquè és essencial que els resolgueu per la vostra banda. Treballeu-los a fons, discutiu-los amb els companys, i incorporeu-hi les explicacions que donarem a classe.
+En aquesta pàgina anunciaré els problemes que farem cada setmana per tal que hi pogueu treballar anticipadament. També hi penjaré un  resum de les seves solucions, amb pistes breus que us hi poden conduir. No hi trobareu el procediment detallat perquè és essencial que els resolgueu per la vostra banda. Treballeu-los a fons, discutiu-los amb  companys, i incorporeu-hi les explicacions de la classe.
 
 Bon curs a tots!
 
