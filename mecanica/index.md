@@ -7,7 +7,7 @@ Mecànica: Curs 2024/25 (Q2)
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/grau-en-enginyeria-en-tecnologies-industrials)  
 [Departament d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta pàgina anunciaré els problemes que farem cada setmana per 
+En aquesta web anunciaré els problemes que farem cada setmana per 
 tal que els pogueu treballar anticipadament. També hi penjaré un  resum 
 de les seves solucions, amb pistes breus que us hi poden conduir. No hi 
 trobareu el procediment detallat perquè cal que els resolgueu 
