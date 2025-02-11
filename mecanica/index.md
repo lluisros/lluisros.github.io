@@ -62,7 +62,7 @@ Teoria necessària: [C2. Moviment d'un sistema mecànic (a partir de C2.4)](http
 
 ## 4P: Composició de moviments
 
-Pendent de publicars.
+Pendent de publicar.
 
 ## 5P: Cinemàtica del sòlid rígid
 
