@@ -58,7 +58,7 @@ Teoria necessària: [Càlcul vectorial (a partir de V.3)](https://mec.etseib.upc
 
 Pendent de publicar.
 
-Teoria necessària: [C2. Moviment d'un sistema mecànic (a partir de C2.4)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic)
+Teoria necessària: [C2. Moviment d'un sistema mecànic (a partir de C2.4)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.4_Velocitat_angular_d%E2%80%99un_s%C3%B2lid_r%C3%ADgid)
 
 ## 4P: Composició de moviments
 
