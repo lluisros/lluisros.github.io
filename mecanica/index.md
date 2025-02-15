@@ -48,13 +48,13 @@ Teoria necessària: [Introducció](https://mec.etseib.upc.edu/ca/index.php?title
 
 ## 2P: Derivació analítica
 
-Pendent de publicar.
-
-<!-- [Problemes 2P](problemes/2P.pdf) -->
+[Problemes 2P](problemes/2P.pdf)
 
 Teoria necessària: [Càlcul vectorial (a partir de V.3)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector)
 
 ## 3P: Angles d'Euler
+
+<!-- [Problemes 3P](problemes/3P.pdf) -->
 
 Pendent de publicar.
 
