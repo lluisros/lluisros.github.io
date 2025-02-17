@@ -83,6 +83,7 @@ Llibres de referència:
 * J. Agulló i Batlle, ["Mecànica de la partícula i del sòlid rígid"](https://drive.google.com/file/d/1N22VNGK_2FQnVZzZuqxPn2JlbAflULm6/view), Publicacions OK punt, 2002.  
 
 ## Enllaços
-* [Formulari](https://atenea.upc.edu/pluginfile.php/6057438/mod_resource/content/81/MEC%20-%20Formulari%202024-25%20QT.pdf)
+* [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf)
+* [Full informatiu](https://atenea.upc.edu/pluginfile.php/6389778/mod_resource/content/146/MEC%20-%20Full%20informatiu%202024-25%20QP.pdf)
 * [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
 * [Calendari ETSEIB primavera 2025 (primavera)](https://etseib.upc.edu/ca/estudis/calendaris/calendari-academic-graus-2024_25.pdf)
