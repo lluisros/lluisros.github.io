@@ -44,7 +44,9 @@ Després de la sessió:
 
 [Problemes 1P](problemes/1P.pdf) - Actualitzat 13 FEB 23:50
 
-Teoria necessària: [Introducció](https://mec.etseib.upc.edu/ca/index.php?title=Introducci%C3%B3) + [Càlcul vectorial (fins a V.2 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial) + [C1 (fins a C1.3 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic) + [C2 (fins a rotació simple a C2.4)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic)
+
+Teoria necessària: 
+[Introducció](https://mec.etseib.upc.edu/ca/index.php?title=Introducci%C3%B3) + [Càlcul vectorial (fins a V.2 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial) + [C1 (fins a C1.3 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic) + [C2 (fins a rotació simple inclòs, a C2.4)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic)
 
 ## 2P: Derivació analítica
 
@@ -52,13 +54,13 @@ Teoria necessària: [Introducció](https://mec.etseib.upc.edu/ca/index.php?title
 
 Teoria necessària: [Càlcul vectorial (a partir de V.3)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector)
 
+[Solució TP1-G10](problemes/TP1-G10.pdf) + [Solució TP1-G40](problemes/TP1-G40.pdf)
+
 ## 3P: Angles d'Euler
 
-<!-- [Problemes 3P](problemes/3P.pdf) -->
+[Problemes 3P](problemes/3P.pdf)
 
-Pendent de publicar.
-
-Teoria necessària: [C1.4, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic#C1.4_Orientaci%C3%B3_d'un_s%C3%B2lid_r%C3%ADgid_amb_moviment_a_l'espai) + [C2, a partir de C2.4](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.4_Velocitat_angular_d%E2%80%99un_s%C3%B2lid_r%C3%ADgid)
+Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic#C1.4_Orientaci%C3%B3_d'un_s%C3%B2lid_r%C3%ADgid_amb_moviment_a_l'espai) + [C2.4](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.+4_Velocitat_angular_d%E2%80%99un_s%C3%B2lid_r%C3%ADgid) + [C2.5](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.5_Acceleraci%C3%B3_angular_d%E2%80%99un_s%C3%B2lid_r%C3%ADgid)
 
 ## 4P: Composició de moviments
 
