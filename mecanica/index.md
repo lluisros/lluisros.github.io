@@ -50,7 +50,7 @@ Teoria necessària:
 
 ## 2P: Derivació analítica
 
-[Problemes 2P](problemes/2P.pdf) - Actualitzat 21 FEB 23:53
+[Problemes 2P](problemes/2P.pdf) - Actualitzat 23 FEB 22:50
 
 [Solució TP1-G10](problemes/TP1-G10.pdf) + [Solució TP1-G40](problemes/TP1-G40.pdf) - Actualitzat 23 FEB 22:30
 
