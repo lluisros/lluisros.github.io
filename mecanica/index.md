@@ -52,7 +52,7 @@ Teoria necessària:
 
 [Problemes 2P](problemes/2P.pdf) - Actualitzat 21 FEB 23:53
 
-[Solució TP1-G10](problemes/TP1-G10.pdf) + [Solució TP1-G40](problemes/TP1-G40.pdf)
+[Solució TP1-G10](problemes/TP1-G10.pdf) + [Solució TP1-G40](problemes/TP1-G40.pdf) - Actualitzat 23 FEB 22:30
 
 Teoria necessària: [Càlcul vectorial (a partir de V.3)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector)
 
