@@ -9,7 +9,7 @@ Mecànica: Curs 2024/25 (Q2)
 
 En aquesta web anunciaré els problemes que farem cada setmana per 
 tal que els pogueu treballar anticipadament. També hi penjaré un  resum 
-de les seves solucions, amb pistes breus que us hi poden conduir. No hi 
+de les seves solucions, amb pistes breus que us hi poden conduir. Normalment no hi 
 trobareu el procediment detallat perquè cal que els resolgueu vosaltres
 per la vostra banda, afegint-hi les explicacions que donarem a classe.
 
@@ -61,6 +61,8 @@ Teoria necessària: [Càlcul vectorial (a partir de V.3)](https://mec.etseib.upc
 ## 3P: Angles d'Euler
 
 [Problemes 3P](problemes/3P.pdf)
+
+[Video sobre els angles d'Euler al giroscopi](https://youtu.be/ON0VWB34Dso?si=qR8IC2ePw2Mqsfjm)
 
 Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic#C1.4_Orientaci%C3%B3_d'un_s%C3%B2lid_r%C3%ADgid_amb_moviment_a_l'espai) + [C2.4](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.+4_Velocitat_angular_d%E2%80%99un_s%C3%B2lid_r%C3%ADgid) + [C2.5](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.5_Acceleraci%C3%B3_angular_d%E2%80%99un_s%C3%B2lid_r%C3%ADgid)
 
