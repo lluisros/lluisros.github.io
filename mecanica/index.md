@@ -60,7 +60,7 @@ Teoria necessària: [Càlcul vectorial (a partir de V.3)](https://mec.etseib.upc
 
 ## 3P: Angles d'Euler
 
-[Problemes 3P](problemes/3P.pdf) - Actualitzat 25 FEB 23:50
+[Problemes 3P](problemes/3P.pdf) - Actualitzat 27 FEB 20:48
 
 [Video sobre els angles d'Euler al giroscopi](https://youtu.be/ON0VWB34Dso?si=qR8IC2ePw2Mqsfjm)
 
