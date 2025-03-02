@@ -23,7 +23,8 @@ iP = Sessió de la setmana i-èssima
 + [2P: Derivació analítica](#2p-derivació-analítica)  
 + [3P: Angles d'Euler](#3p-angles-deuler)  
 + [4P: Composició de moviments](#4p-composició-de-moviments)  
-+ [5P: Cinemàtica del sòlid rígid](#5p-cinemàtica-del-sòlid-rígid)  
++ [5P: Cinemàtica del sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d)  
++ [6P: Cinemàtica del sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d)   
 + [Bibliografia](#bibliografia) 
 + [Enllaços](#enllaços) 
  
