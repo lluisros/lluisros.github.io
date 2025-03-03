@@ -61,7 +61,7 @@ Teoria necessària: [Càlcul vectorial (a partir de V.3)](https://mec.etseib.upc
 
 ## 3P: Angles d'Euler
 
-[Problemes 3P](problemes/3P.pdf) - Actualitzat 27 FEB 20:48
+[Problemes 3P](problemes/3P.pdf) - Actualitzat 3 MAR 23:40
 
 [Video sobre els angles d'Euler al giroscopi](https://youtu.be/ON0VWB34Dso?si=qR8IC2ePw2Mqsfjm)
 
@@ -75,11 +75,15 @@ Teoria necessària: [C3 "Composició de moviments"](https://mec.etseib.upc.edu/c
 
 ## 5P: Cinemàtica del sòlid rígid 3D
 
-Pendent.
+Pendent de penjar.
+
+Teoria necessària: [C4 "Cinemàtica del sòlid rígid"](https://mec.etseib.upc.edu/ca/index.php?title=C4._Cinem%C3%A0tica_del_s%C3%B2lid_r%C3%ADgid)
 
 ## 6P: Cinemàtica del sòlid rígid 2D
 
-Pendent.
+Pendent de penjar.
+
+Teoria necessària: [C4 "Cinemàtica plana del sòlid rígid"](https://mec.etseib.upc.edu/ca/index.php?title=C5._Cinem%C3%A0tica_plana_del_s%C3%B2lid_r%C3%ADgid)
 
 ## Bibliografia
 
