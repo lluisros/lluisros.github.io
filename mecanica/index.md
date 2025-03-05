@@ -69,7 +69,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 4P: Composició de moviments
 
-[Problemes 4P](problemes/4P.pdf)
+[Problemes 4P](problemes/4P.pdf) - Actualitzat 5 MAR 12:58 (canvis lleus)
 
 Teoria necessària: [C3 "Composició de moviments"](https://mec.etseib.upc.edu/ca/index.php?title=C3._Composici%C3%B3_de_moviments)
 
