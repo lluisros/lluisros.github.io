@@ -69,7 +69,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 4P: Composició de moviments
 
-[Problemes 4P](problemes/4P.pdf) - Actualitzat 5 MAR 12:58 (canvis lleus)
+[Problemes 4P](problemes/4P.pdf) - Actualitzat 6 MAR 21:20 (afegides precisions sobre vectors pel·lícula + solucions detallades de les qüestions del disc de 2 GL i de la fresadora)
 
 Teoria necessària: [C3 "Composició de moviments"](https://mec.etseib.upc.edu/ca/index.php?title=C3._Composici%C3%B3_de_moviments)
 
