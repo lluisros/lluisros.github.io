@@ -75,7 +75,7 @@ Teoria necessària: [C3 "Composició de moviments"](https://mec.etseib.upc.edu/c
 
 ## 5P: Cinemàtica del sòlid rígid 3D
 
-Pendent de penjar.
+[Problemes 5P](problemes/5P.pdf)
 
 Teoria necessària: [C4 "Cinemàtica del sòlid rígid"](https://mec.etseib.upc.edu/ca/index.php?title=C4._Cinem%C3%A0tica_del_s%C3%B2lid_r%C3%ADgid)
 
