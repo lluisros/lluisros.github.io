@@ -9,7 +9,7 @@ Mecànica: Curs 2024/25 (Q2)
 
 En aquesta web anunciaré els problemes que farem cada setmana per 
 tal que els pogueu treballar anticipadament. També hi penjaré un  resum 
-de les seves solucions, amb pistes breus que us hi poden conduir. Normalment no hi 
+de les seves solucions, amb pistes breus que us hi poden conduir. Sovint no hi 
 trobareu el procediment detallat perquè cal que els resolgueu vosaltres
 per la vostra banda, afegint-hi les explicacions que donarem a classe.
 
