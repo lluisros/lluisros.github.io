@@ -104,3 +104,4 @@ Llibres de referència:
 * [Full informatiu](https://atenea.upc.edu/pluginfile.php/6389778/mod_resource/content/146/MEC%20-%20Full%20informatiu%202024-25%20QP.pdf)
 * [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
 * [Calendari ETSEIB primavera 2025 (primavera)](https://etseib.upc.edu/ca/estudis/calendaris/calendari-academic-graus-2024_25.pdf)
+* [FAQ - Preguntes freqüents](faq.md)
