@@ -2,9 +2,9 @@
 
 [Tornar al web de problemes](index.md)
 
-# FAQ - G10 i G40 #
+# FAQ #
 
-Preguntes freqüents que sorgeixen al llarg del curs als grups G10 i G40 de problemes de mecànica.
+Preguntes freqüents que sorgeixen als grups G10 i G40 de problemes de mecànica.
 
 <!-- Bon curs a tots!  -->
 
@@ -37,9 +37,10 @@ Pendent d'afegir preguntes.
 
 ## 3P: Angles d'Euler
 
-**En l'exercici del dau fet a 3P, els eixos psipunt, thetapunt i phipunt de la configuració final estan en una singularitat. Vol dir això que l'eix thetapunt en realitat no està definit?**
+**En l'exercici del dau fet a 3P, els eixos psipunt, thetapunt i phipunt de la configuració final es troben en una singularitat. Vol dir això que l'eix thetapunt en realitat no està definit?**
 
-No, no ho vol dir :) L'eix thetapunt sí que està definit en aquest problema, perquè ens diuen la seqüència de rotacions que pateix el dau fins arribar a la configuració final. Si no ens la diguessin, i haguéssim de deduir on és aquest eix a partir de l'orientació final dels eixos psipunt i phipunt, és cert que thetapunt quedaria indeterminat, perquè ha de ser en la intersecció dels plans "ortogonal a phipunt" i "ortogonal a psipunt" que en la configuració final del dau coincideixen. Les singularitats dels angles d'Euler tenen impacte en la simulació dinàmica de sistemes multisòlid, però en aquest curs no entrarem en aquests aspectes, perquè els considerem avançats. Els problemes que donen aquestes singularitats es poden resoldre utilitzant dues famílies d'angles d'Euler diferents, i saltant de l'una a l'altra quan arribem a una singularitat, o bé utilitzant quaternions.
+No, no ho vol dir! L'eix thetapunt sí que està definit en aquest problema, perquè ens diuen la seqüència de rotacions que pateix el dau fins arribar a la configuració final. Si no ens la diguessin, i haguéssim de deduir on és aquest eix a partir de l'orientació final dels eixos psipunt i phipunt, és cert que thetapunt quedaria indeterminat, perquè ha de ser en la intersecció dels plans 
+"ortogonal a phipunt" i "ortogonal a psipunt", que en la configuració final del dau coincideixen per causa de la singularitat. Les singularitats dels angles d'Euler tenen impacte en la simulació dinàmica de sistemes multisòlid, però en aquest curs no entrarem en aquests aspectes avançats. Els problemes que donen aquestes singularitats es poden resoldre utilitzant dues famílies d'angles d'Euler diferents, i saltant de l'una a l'altra quan arribem a una singularitat, o bé utilitzant quaternions.
 
 ## 4P: Composició de moviments
 
@@ -63,10 +64,3 @@ Pendent d'afegir preguntes
 
 Pendent d'afegir preguntes.
 
-
-
-## Enllaços
-* [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf)
-* [Full informatiu](https://atenea.upc.edu/pluginfile.php/6389778/mod_resource/content/146/MEC%20-%20Full%20informatiu%202024-25%20QP.pdf)
-* [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
-* [Calendari ETSEIB primavera 2025 (primavera)](https://etseib.upc.edu/ca/estudis/calendaris/calendari-academic-graus-2024_25.pdf)
