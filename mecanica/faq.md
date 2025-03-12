@@ -1,6 +1,6 @@
 <!-- Markdown comments are html ones -->
 
-[Tornar al web de problemes](index.md)
+([Tornada al web de problemes](index.md))
 
 # FAQ #
 
