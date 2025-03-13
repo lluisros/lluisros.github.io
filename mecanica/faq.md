@@ -62,6 +62,14 @@ La denominació vector "pel·lícula" o "foto" és del tot informal. Quan hagueu
 
 No, no podem. Fixem-nos, per exemple, que **O'** no manté fixa la seva distància al punt **S** de **RV**. En l'instant del dibuix, aquesta distància val $2r$, però instants més tard ja no. En concret, quan **S** tingui l'altura de **Q**, aquesta distància valdrà $\sqrt{r^2 + r^2 + (2r)^2} = r\sqrt{6} \approx 2.45 r$, que és més gran que $2r$.
 
+**A l'exercici de l'anell sobre plataforma, podem deduir la relació $\dot{\theta} = f(\dot{\psi},\dot{\varphi})$ utilitzant el fet que **JO** és $\textsf{EI}^\text{Roda}_\text{Plat}$?**
+
+Sí, podem! Clarament
+
+$$\bar{\Omega}^\text{Roda}_\text{T} = \bar{\Omega}^\text{Roda}_\text{Plat} + \bar{\Omega}^\text{Plat}_\text{T}$$
+
+Partint d'aquesta equació, podem aillar $\bar{\Omega}^\text{Roda}_\text{Plat}$ en funció de les altres dues "omegues". Aquestes altres "omegues" es poden escriure vectorialment en funció de $\dot{\psi}$, $\dot{\theta}$, i $\dot{\phi}$, i han de donar, sumades, un vector en la direcció de $\textsf{EI}^\textsf{Roda}_\textsf{Plat}$ (la recta **JO**). Això genera un triangle rectangle d'omegues que permet deduir la relació $\dot{\theta} = f(\dot{\psi},\dot{\varphi})$ buscada.
+
 ## 6P: Cinemàtica del sòlid rígid 2D
 
 Pendent d'afegir preguntes.
