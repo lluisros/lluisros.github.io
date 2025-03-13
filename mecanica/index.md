@@ -25,8 +25,7 @@ iP = Sessió de la setmana i-èssima
 + [4P: Composició de moviments](#4p-composició-de-moviments)  
 + [5P: Cinemàtica del sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d)  
 + [6P: Cinemàtica del sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d)   
-+ [Bibliografia](#bibliografia) 
-+ [Enllaços](#enllaços) 
++ [FAQ](faqp.html) | [Bibliografia](#bibliografia) | [Enllaços](#enllaços) 
  
 ## Recomanacions
 
