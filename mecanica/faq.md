@@ -58,7 +58,9 @@ La denominació vector "pel·lícula" o "foto" és del tot informal. Quan hagueu
 
 ## 5P: Cinemàtica del sòlid rígid 3D
 
-Pendent d'afegir preguntes
+**A la qüestió de les rodes dentades, O és un punt de la roda vertical "RV" perquè la distància des de O a qualsevol punt de RV és fixa. Fins aquí, d'acord. Però, aplicant el mateix argument, ... no podem veure O' com a punt de RV també?**
+
+No, no podem. Fixem-nos, per exemple, que **O'** no manté fixa la seva distància al punt **S** de **RV**. En l'instant del dibuix, aquesta distància val $2r$, però instants més tard ja no. En concret, quan **S** tingui l'altura de **Q**, aquesta distància valdrà $\sqrt{r^2 + r^2 + (2r)^2} = r\sqrt{6} \approx 2.45 r$, que és més gran que $2r$.
 
 ## 6P: Cinemàtica del sòlid rígid 2D
 
