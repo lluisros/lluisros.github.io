@@ -68,11 +68,9 @@ Sí, efectivament! Seria un mètode alternatiu. Us en dono pistes per tal que l'
 
 Adonem-nos que
 
-```math
-\bar{\Omega}^\text{Roda}_\text{T} = \bar{\Omega}^\text{Roda}_\text{Plat} + \bar{\Omega}^\text{Plat}_\text{T}.
-```
+$$\bar{\Omega}^\text{Roda}_\text{T} = \bar{\Omega}^\text{Roda}_\text{Plat} + \bar{\Omega}^\text{Plat}_\text{T}.$$
 
-Partint d'aquesta equació, podem aillar $$\bar{\Omega}^\mathsf{Roda}_\mathsf{Plat}$$ en funció de les altres dues omegues. Aquestes dues omegues es poden escriure vectorialment en funció de $\dot{\psi}$, $\dot{\theta}$, i $\dot{\phi}$, i han de donar, sumades, un vector en la direcció de $\textsf{EI}^\textsf{Roda}_\textsf{Plat}$ (la recta **JO**). Això genera un triangle rectangle d'omegues que permet deduir la relació $\dot{\theta} = f(\dot{\psi},\dot{\varphi})$ desitjada!
+Partint d'aquesta equació, podem aillar ${\bar{\Omega}}^{\mathsf{Roda}}_{\mathsf{Plat}}$ en funció de les altres dues omegues. Aquestes dues omegues es poden escriure vectorialment en funció de $\dot{\psi}$, $\dot{\theta}$, i $\dot{\phi}$, i han de donar, sumades, un vector en la direcció de $\textsf{EI}^\textsf{Roda}_\textsf{Plat}$ (la recta **JO**). Això genera un triangle rectangle d'omegues que permet deduir la relació $\dot{\theta} = f(\dot{\psi},\dot{\varphi})$ desitjada!
 
 ## 6P: Cinemàtica del sòlid rígid 2D
 
