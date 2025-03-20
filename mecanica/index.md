@@ -104,7 +104,7 @@ Teoria necessària: [C4 "Cinemàtica del sòlid rígid"](https://mec.etseib.upc.
 
 ## 6P: Cinemàtica del sòlid rígid 2D
 
-[Problemes 6P](problemes/6P.pdf)
+[Problemes 6P](problemes/6P.pdf) - Actualitzat 20 MAR 7:55
 
 Teoria necessària: [C5 "Cinemàtica plana del sòlid rígid"](https://mec.etseib.upc.edu/ca/index.php?title=C5._Cinem%C3%A0tica_plana_del_s%C3%B2lid_r%C3%ADgid).
 
