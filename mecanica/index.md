@@ -16,9 +16,7 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 
 ## Índex
 
-[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf) - [Wikimec](https://mec.etseib.upc.edu) 
-
-<!-- - [Catàleg forces](problemes/cataleg-forces.pdf) -->
+[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Catàleg forces](problemes/cataleg-forces.pdf)
 
 <!-- iP = Sessió de la setmana i-èssima: -->
 
