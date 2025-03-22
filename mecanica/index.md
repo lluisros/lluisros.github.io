@@ -26,10 +26,10 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 + [4P: Composició de moviments](#4p-composició-de-moviments)  
 + [5P: Cinemàtica del sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d)  
 + [6P: Cinemàtica del sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d)   
++ [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-forces-denllaç)
 
 <!--
 
-+ [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-forces-denllaç)
 + [8P: Problemes de repàs](#8p-problemes-de-repàs)
 
 -->
@@ -108,11 +108,13 @@ Teoria necessària: [C5 "Cinemàtica plana del sòlid rígid"](https://mec.etsei
 
 ## 7P: Molles, amortidors i forces d'enllaç
 
+Pendent de penjar els problemes.
+
 Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector), [D2](https://mec.etseib.upc.edu/ca/index.php?title=D2._Forces_d%E2%80%99interacci%C3%B3_entre_part%C3%ADcules), [D3](https://mec.etseib.upc.edu/ca/index.php?title=D3._Interaccions_entre_s%C3%B2lids_r%C3%ADgids#D3.3_Interacci%C3%B3_per_mitj%C3%A0_de_molles_i_amortidors).
 
 ## 8P: Problemes de repàs
 
-Pendent de penjar.
+Pendent de penjar els problemes.
 
 Teoria necessària: [D1.7](https://mec.etseib.upc.edu/ca/index.php?title=D1._Lleis_fundacionals_de_la_mec%C3%A0nica_newtoniana).
 
