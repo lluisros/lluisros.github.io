@@ -26,7 +26,7 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 + [4P: Composició de moviments](#4p-composició-de-moviments)  
 + [5P: Cinemàtica del sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d)  
 + [6P: Cinemàtica del sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d)   
-+ [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-forces-denllaç)
++ [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-enllaç-ps)
 
 <!--
 
@@ -44,7 +44,7 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 | [4P: Composició de mov.](#4p-composició-de-moviments)                             | -  |
 | [5P: Cinem. sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d)                    | -  |
 | [6P: Cinem. sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d)                    | -  |
-| [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-forces-denllaç)  | -  |
+| [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-enllaç-ps)  | -  |
 | [8P: Problemes de repàs](#8p-problemes-de-repàs)                                  | -  |
 
 -->
@@ -106,9 +106,9 @@ Teoria necessària: [C4 "Cinemàtica del sòlid rígid"](https://mec.etseib.upc.
 
 Teoria necessària: [C5 "Cinemàtica plana del sòlid rígid"](https://mec.etseib.upc.edu/ca/index.php?title=C5._Cinem%C3%A0tica_plana_del_s%C3%B2lid_r%C3%ADgid).
 
-## 7P: Molles, amortidors i forces d'enllaç
+## 7P: Molles, amortidors i enllaç PS
 
-Pendent de penjar els problemes.
+[Problemes 7P](problemes/7P.pdf) - Inclou teoria de molles i amortidors, i d'enllaç partícula-superfície
 
 Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector), [D2](https://mec.etseib.upc.edu/ca/index.php?title=D2._Forces_d%E2%80%99interacci%C3%B3_entre_part%C3%ADcules), [D3](https://mec.etseib.upc.edu/ca/index.php?title=D3._Interaccions_entre_s%C3%B2lids_r%C3%ADgids#D3.3_Interacci%C3%B3_per_mitj%C3%A0_de_molles_i_amortidors).
 
