@@ -108,7 +108,7 @@ Teoria necessària: [C5 "Cinemàtica plana del sòlid rígid"](https://mec.etsei
 
 ## 7P: Molles, amortidors i enllaç PS
 
-[Problemes 7P](problemes/7P.pdf) - Inclou teoria de molles i amortidors, i d'enllaç partícula-superfície
+[Problemes 7P](problemes/7P.pdf) - Inclou teoria de molles i amortidors, i d'enllaç partícula-superfície - Actualitzat 26 MAR 19:50
 
 [Diapositives de classe](problemes/7P-diapos.pdf) - [Catàleg de forces](problemes/cataleg-forces.pdf)
 
