@@ -27,12 +27,8 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 + [5P: Cinemàtica del sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d)  
 + [6P: Cinemàtica del sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d)   
 + [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-enllaç-ps)
-
-<!--
-
 + [8P: Problemes de repàs](#8p-problemes-de-repàs)
 
--->
 
 <!--
 
@@ -116,9 +112,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 8P: Problemes de repàs
 
-Pendent de penjar els problemes.
-
-Teoria necessària: [D1.7](https://mec.etseib.upc.edu/ca/index.php?title=D1._Lleis_fundacionals_de_la_mec%C3%A0nica_newtoniana).
+[Problemes 8P](problemes/8P.pdf)
 
 ## Bibliografia
 
