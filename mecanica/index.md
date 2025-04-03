@@ -112,7 +112,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 8P: Problemes de repàs
 
-[Problemes 8P](problemes/8P.pdf) + [Solucions](problemes/8P_solucions.pdf) - Actualitzat 3 ABR 21:20
+[Problemes 8P](problemes/8P.pdf) + [Solucions](problemes/8P_solucions.pdf) - Actualitzat 4 ABR 00:30
 
 ## Bibliografia
 
