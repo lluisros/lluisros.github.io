@@ -114,6 +114,8 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 [Problemes 8P](problemes/8P.pdf) + [Solucions](problemes/8P_solucions.pdf) - Actualitzat 4 ABR 00:30
 
+[Solució TP3-G10](problemes/TP3-G10.pdf) + [Solució TP3-G40](problemes/TP3-G40.pdf) - Actualitzat 4 ABR 23:40
+
 ## Bibliografia
 
 Wikimec:
