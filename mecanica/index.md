@@ -118,7 +118,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 9P: Geometria de masses
 
-[Teoria i exercicis 9P](problemes/9P.pdf)
+[Teoria i exercicis 9P](problemes/9P.pdf) - Actualitzat 23 ABR 00:40 (detalls menors)
 
 ## Bibliografia
 
