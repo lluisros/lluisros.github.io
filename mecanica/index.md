@@ -120,6 +120,8 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 [Teoria i exercicis 9P](problemes/9P.pdf) - Actualitzat 23 ABR 00:40 (detalls menors)
 
+[Diapositives de classe](problemes/9P_slides.pdf) - Actualitzat 29 ABR 11:00
+
 ## Bibliografia
 
 Wikimec:
