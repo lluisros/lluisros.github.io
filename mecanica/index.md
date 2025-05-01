@@ -35,11 +35,11 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 | Preparcials | Postparcials |
 | ---------- | -------- |
 | [1P: Deriv. geomètrica](#1p-derivació-geomètrica) | [9P: Geometria de masses](#9p-geometria-de-masses) |
-| [2P: Deriv. analítica](#2p-derivació-analítica) | 10P: Teor. vectorials 3D  |
-| [3P: Angles d'Euler](#3p-angles-deuler) | 11P: Teor. vectorials 2D |
-| [4P: Composició de mov.](#4p-composició-de-moviments) | 12P: Teor. vectorials 3D  |
-| [5P: Cinem. sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d) | 13P: Teor. vectorials 3D  |
-| [6P: Cinem. sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d) | 14P: Teor. vectorials, exemples  |
+| [2P: Deriv. analítica](#2p-derivació-analítica) | [10P: Oscil i punts equilibri](#10p-oscillacions-i-punts-dequilibri) |
+| [3P: Angles d'Euler](#3p-angles-deuler) | 11P: Teor. vectorials 3D |
+| [4P: Composició de mov.](#4p-composició-de-moviments) | 12P  |
+| [5P: Cinem. sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d) | 13P  |
+| [6P: Cinem. sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d) | 14P  |
 | [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-enllaç-ps)  |  |
 | [8P: Problemes de repàs](#8p-problemes-de-repàs) |   |
 
