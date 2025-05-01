@@ -124,7 +124,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 10P: Oscil·lacions i punts d'equilibri
 
-[Exercicis 10P](problemes/10P.pdf) 
+[Exercicis 10P](problemes/10P.pdf) - Actualitzat 1 MAY 21:00
 
 <!-- [Diapositives de classe](problemes/10P_slides.pdf) -->
 
