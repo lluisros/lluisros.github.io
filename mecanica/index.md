@@ -118,13 +118,13 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 9P: Geometria de masses
 
-[Contingut complet de la lliçó](problemes/9P.pdf) - Actualitzat 3 MAI 19:30 (correcció de petits errors a l'exemple D5.9 + petits detalls afegits a la definició de rotor simètric / esfèric)
+[Lliçó completa](problemes/9P.pdf) - Actualitzat 3 MAI 19:30 (correcció de petits errors a l'exemple D5.9 + petits detalls afegits a la definició de rotor simètric / esfèric)
 
 [Diapositives de classe](problemes/9P_slides.pdf) - Actualitzat 29 ABR 11:00
 
 ## 10P: Oscil·lacions i punts d'equilibri
 
-[Exercicis 10P](problemes/10P.pdf) - Actualitzat 2 MAIG 23:55
+[Lliçó completa](problemes/10P.pdf) - Actualitzat 2 MAIG 23:55
 
 <!-- [Diapositives de classe](problemes/10P_slides.pdf) -->
 
