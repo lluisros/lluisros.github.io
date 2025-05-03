@@ -118,7 +118,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 9P: Geometria de masses
 
-[Teoria i exercicis 9P](problemes/9P.pdf) - Actualitzat 23 ABR 00:40 (detalls menors)
+[Contingut complet de la lliçó](problemes/9P.pdf) - Actualitzat 3 MAI 19:30 (correcció de petits errors a l'exemple D5.9 + petits detalls afegits a la definició de rotor simètric / esfèric)
 
 [Diapositives de classe](problemes/9P_slides.pdf) - Actualitzat 29 ABR 11:00
 
