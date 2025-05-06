@@ -128,6 +128,14 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 <!-- [Diapositives de classe](problemes/10P_slides.pdf) -->
 
+## 11P: Exemples teoremes vectorials 3D
+
+[Lliçó completa](problemes/11P.pdf)
+
+Diapositives de classe: pendent de penjar-les.
+
+<!-- [Diapositives de classe](problemes/11P_slides.pdf) -->
+
 ## Bibliografia
 
 Wikimec:
