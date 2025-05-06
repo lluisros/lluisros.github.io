@@ -36,7 +36,7 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 | ---------- | -------- |
 | [1P: Deriv. geomètrica](#1p-derivació-geomètrica) | [9P: Geometria de masses](#9p-geometria-de-masses) |
 | [2P: Deriv. analítica](#2p-derivació-analítica) | [10P: Oscil i punts equilibri](#10p-oscillacions-i-punts-dequilibri) |
-| [3P: Angles d'Euler](#3p-angles-deuler) | 11P: Teor. vectorials 3D |
+| [3P: Angles d'Euler](#3p-angles-deuler) | [11P: Teor. vectorials 3D](#11p-teoremes-vectorials-3d) |
 | [4P: Composició de mov.](#4p-composició-de-moviments) | 12P  |
 | [5P: Cinem. sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d) | 13P  |
 | [6P: Cinem. sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d) | 14P  |
@@ -128,7 +128,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 <!-- [Diapositives de classe](problemes/10P_slides.pdf) -->
 
-## 11P: Exemples teoremes vectorials 3D
+## 11P: Teoremes vectorials 3D
 
 [Lliçó completa](problemes/11P.pdf)
 
