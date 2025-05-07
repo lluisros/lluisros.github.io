@@ -130,7 +130,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 11P: Teoremes vectorials 3D
 
-[Lliçó completa](problemes/11P.pdf)
+[Lliçó completa](problemes/11P.pdf) - Actualitzat 7 MAIG 15:08
 
 [Diapositives de classe](problemes/11P_slides.pdf)
 
