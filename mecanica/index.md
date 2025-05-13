@@ -37,7 +37,7 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 | [1P: Deriv. geomètrica](#1p-derivació-geomètrica) | [9P: Geometria de masses](#9p-geometria-de-masses) |
 | [2P: Deriv. analítica](#2p-derivació-analítica) | [10P: Oscil i punts equilibri](#10p-oscillacions-i-punts-dequilibri) |
 | [3P: Angles d'Euler](#3p-angles-deuler) | [11P: Teor. vectorials 3D](#11p-teoremes-vectorials-3d) |
-| [4P: Composició de mov.](#4p-composició-de-moviments) | 12P  |
+| [4P: Composició de mov.](#4p-composició-de-moviments) | [12P: Teor. vectorials 2D](#11p-teoremes-vectorials-2d)  |
 | [5P: Cinem. sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d) | 13P  |
 | [6P: Cinem. sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d) | 14P  |
 | [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-enllaç-ps)  |  |
@@ -133,6 +133,15 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 [Lliçó completa](problemes/11P.pdf) - Actualitzat 11 MAIG 21:17 (afegit el càlcul de l'apartat (d) del 2n problema)
 
 [Diapositives de classe](problemes/11P_slides.pdf) - Actualitzat 8 MAIG 22:48
+
+## 12P: Teoremes vectorials 2D
+
+[Lliçó esboçada](problemes/12P.pdf) - Versió preliminar (l'estic revisant!)
+
+Aquesta vegada només penjo els càlculs esboçats i ja afegireu vosaltres 
+els comentaris que calguin, d'acord amb el que expliqui a classe.
+
+<!-- [Diapositives de classe](problemes/11P_slides.pdf) -->
 
 ## Bibliografia
 
