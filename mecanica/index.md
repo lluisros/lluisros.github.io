@@ -38,7 +38,7 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 | [2P: Deriv. analítica](#2p-derivació-analítica) | [10P: Oscil i punts equilibri](#10p-oscillacions-i-punts-dequilibri) |
 | [3P: Angles d'Euler](#3p-angles-deuler) | [11P: Teor. vectorials 3D](#11p-teoremes-vectorials-3d) |
 | [4P: Composició de mov.](#4p-composició-de-moviments) | [12P: Teor. vectorials 2D](#12p-teoremes-vectorials-2d)  |
-| [5P: Cinem. sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d) | 13P  |
+| [5P: Cinem. sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d) | [13P: Teor. vectorials 3D](#13p-teoremes-vectorials-3d)  |
 | [6P: Cinem. sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d) | 14P  |
 | [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-enllaç-ps)  |  |
 | [8P: Problemes de repàs](#8p-problemes-de-repàs) |   |
@@ -140,6 +140,10 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 els comentaris que calguin, d'acord amb el que expliqui a classe. Mireu de llegir-vos les 3 primeres pàgines (requadres blaus) abans de la classe. 
 
 <!-- [Diapositives de classe](problemes/11P_slides.pdf) -->
+
+## 13P: Teoremes vectorials 3D
+
+[Enunciats](problemes/13P_enunciats.pdf) | [Solucions](problemes/13P.pdf) - Versions preliminars, en revisió!
 
 ## Bibliografia
 
