@@ -143,7 +143,7 @@ els comentaris que calguin, d'acord amb el que expliqui a classe. Mireu de llegi
 
 ## 13P: Teoremes vectorials 3D
 
-[Enunciats](problemes/13P_enunciats.pdf) | [Solucions](problemes/13P.pdf) - Versions preliminars, en revisió!
+[Enunciats](problemes/13P_enunciats.pdf) + [Solucions](problemes/13P.pdf) - Versions preliminars, en revisió!
 
 ## Bibliografia
 
