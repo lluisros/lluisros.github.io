@@ -137,7 +137,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 ## 12P: Teoremes vectorials 2D
 
 [Lliçó resumida](problemes/12P.pdf) - Actualitzat 14 MAIG 21:07. Només penjo els càlculs i ja afegireu 
-els comentaris que calguin, d'acord amb el que expliqui a classe. Mireu de llegir-vos les 3 primeres pàgines (requadres blaus) abans de la classe. 
+els comentaris que calguin, d'acord amb el que expliqui a classe. 
 
 <!-- [Diapositives de classe](problemes/11P_slides.pdf) -->
 
