@@ -145,6 +145,8 @@ els comentaris que calguin, d'acord amb el que expliqui a classe. Mireu de llegi
 
 [Enunciats](problemes/13P_enunciats.pdf) + [Solucions](problemes/13P.pdf) - Actualitzat 20 MAIG 23:50. Versions preliminars, en revisió.
 
+[Recordatori sobre com modelitzar contactes puntuals](problemes/13P_cp.pdf).
+
 ## Bibliografia
 
 Wikimec:
