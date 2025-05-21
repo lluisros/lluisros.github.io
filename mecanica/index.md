@@ -143,7 +143,7 @@ els comentaris que calguin, d'acord amb el que expliqui a classe. Mireu de llegi
 
 ## 13P: Teoremes vectorials 3D
 
-[Enunciats](problemes/13P_enunciats.pdf) + [Solucions](problemes/13P.pdf) - Actualitzat 20 MAIG 23:50. Versions preliminars, en revisió.
+[Enunciats](problemes/13P_enunciats.pdf) + [Solucions](problemes/13P.pdf) - Actualitzat 21 MAIG 21:55. Afegit el càlcul de parells motor en el problema de la closca.
 
 [Recordatori sobre com modelitzar contactes puntuals](problemes/13P_cp.pdf).
 
