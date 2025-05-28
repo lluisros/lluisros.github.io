@@ -145,11 +145,9 @@ els comentaris que calguin, d'acord amb el que expliqui a classe.
 
 [Recordatori sobre com modelitzar contactes puntuals](problemes/13P_cp.pdf).
 
-## 13P: Teoremes vectorials 3D
+## 14P: Teoremes vectorials 3D
 
-[Enunciats](problemes/14P_enunciats.pdf) + [Solucions](problemes/14P.pdf) - Actualitzat 27 MAIG 15:30. Afegit el càlcul de parells motor en el problema de la closca. Arreglat un error en el problema del disc rodant sobre plataforma (velocitat angular de la base en la derivada analítica del moment cinètic), i afegits petits comentaris.
-
-[Recordatori sobre com modelitzar contactes puntuals](problemes/13P_cp.pdf).
+[Enunciats](problemes/14P_enunciats.pdf) + [Solucions](problemes/14P.pdf) - Actualitzat 28 MAIG 14:00.
 
 ## Bibliografia
 
