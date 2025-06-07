@@ -141,7 +141,7 @@ els comentaris que calguin, d'acord amb el que expliqui a classe.
 
 ## 13P: Teoremes vectorials 3D
 
-[Enunciats](problemes/13P_enunciats.pdf) + [Solucions](problemes/13P.pdf) - Actualitzat 27 MAIG 15:30. Afegit el càlcul de parells motor en el problema de la closca. Arreglat un error en el problema del disc rodant sobre plataforma (velocitat angular de la base en la derivada analítica del moment cinètic), i afegits petits comentaris.
+[Enunciats](problemes/13P_enunciats.pdf) + [Solucions](problemes/13P.pdf) - Actualitzat 7 JUNY 21:57: Afegit el càlcul del parell motor en el problema del disc rodant sobre plataforma. MAIG 15:30: Afegit el càlcul de parells motor en el problema de la closca. Arreglat un error en el problema del disc rodant sobre plataforma (velocitat angular de la base en la derivada analítica del moment cinètic), i afegits petits comentaris.
 
 [Recordatori sobre com modelitzar contactes puntuals](problemes/13P_cp.pdf).
 
