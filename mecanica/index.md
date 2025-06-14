@@ -147,7 +147,7 @@ els comentaris que calguin, d'acord amb el que expliqui a classe.
 
 ## 14P: Teoremes vectorials 3D
 
-[Enunciats](problemes/14P_enunciats.pdf) + [Solucions](problemes/14P.pdf) - Actualitzat 28 MAIG 14:00.
+[Enunciats](problemes/14P_enunciats.pdf) + [Solucions](problemes/14P.pdf) - Actualitzat 14 JUNY 03:00. Arreglats errors en (1) el càlcul de T al problema de la bola giratòria, i (2) el càlcul de l'acceleració de G respecte T en el problema del pèndol anular giratori.
 
 ## Bibliografia
 
