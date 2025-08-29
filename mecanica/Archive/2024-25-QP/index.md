@@ -1,6 +1,8 @@
 <!-- Markdown comments are html ones -->
 
-# Problemes G10 i G40 #
+# CURS ARXIVAT! #
+
+Problemes G10 i G40
 
 Mecànica: Curs 2024/25 (Q2)
 
