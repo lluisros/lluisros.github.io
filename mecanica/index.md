@@ -18,13 +18,13 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 
 | Preparcials | Postparcials |
 | ----------  | ------------ |
-| [1P: Coords. + DMR + GL](#1p-coordenades-dmr-i-gl)                            | 8P: Enllaç PS + molles i amortidors   |
+| [1P: Definició de coords., DMR i GL](#1p-coordenades-dmr-i-gl)                            | 8P: Enllaç PS + molles i amortidors   |
 | [2P: Deriv. geomètrica i analítica](#2p-derivació-analítica-i-geomètrica)     | 9P: Dinàmica de la partícula          |
 | 3P: Angles d'Euler + Ex. de derivació                                         | 10P: Geometria de masses              |
-| 4P: Composició de mov.                                                        | 11P: Teoremes vectorials I            |
-| 5P: Cinem. sòlid rígid 3D                                                     | 12P: Teoremes vectorials II           |
-| 6P: Cinem. sòlid rígid 2D + Vehicles                                          | 13P: Teoremes vectorials III          |
-| 7P: Exercicis de repàs                                                        | 14P: Teoremes vectorials IV           |
+| 4P: Composició de mov.        | 11P: Teoremes vectorials I            |
+| 5P: CSR 3D                    | 12P: Teoremes vectorials II           |
+| 6P: CSR 2D i de vehicles      | 13P: Teoremes vectorials III          |
+| 7P: Exercicis de repàs        | 14P: Teoremes vectorials IV           |
 
 ## Recomanacions
 
