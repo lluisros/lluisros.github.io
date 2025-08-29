@@ -60,7 +60,7 @@
 
 <h1 id="faq">FAQ</h1>
 
-<p>Preguntes freqüents que sorgeixen als grups G10 i G40 de problemes de mecànica.</p>
+<p>Preguntes freqüents que sorgeixen als grups G10 i G50 de problemes de mecànica.</p>
 
 <!-- Bon curs a tots!  -->
 
@@ -69,8 +69,8 @@
 <p>iP = Sessió de la setmana i-èssima</p>
 
 <ul>
-  <li><a href="#1p-derivació-geomètrica">1P: Derivació geomètrica</a></li>
-  <li><a href="#2p-derivació-analítica">2P: Derivació analítica</a></li>
+  <li><a href="#1p">1P: Def. de coordenades, DMR i GL </a></li>
+  <li><a href="#2p-derivació-analítica">2P: Derivació geomètrica i analítica </a></li>
   <li><a href="#3p-angles-deuler">3P: Angles d’Euler</a></li>
   <li><a href="#4p-composició-de-moviments">4P: Composició de moviments</a></li>
   <li><a href="#5p-cinemàtica-del-sòlid-rígid-3d">5P: Cinemàtica del sòlid rígid 3D</a></li>
@@ -81,25 +81,37 @@
 <!-- 1P -------------------->
 <!-------------------------->
 
-<h2 id="1p-derivació-geomètrica">1P: Derivació geomètrica</h2>
+<h2 id="1p">1P: Def. de coords, DMR i GL </h2>
 
 <p><strong>Dieu que un vector té valor i direcció, però sempre ens han dit que té mòdul, direcció i sentit. Com es reconcilien les dues caracteritzacions?</strong></p>
 
 <p style="margin-left: 15px;"> A l’assignatura representem un vector amb una fletxa i un valor indicat a sobre. La fletxa indica la “direcció i el sentit genèric positiu” del vector, és a dir la direcció i el sentit del vector, tal i com us els han ensenyat sempre fins ara. El valor és, diguem-ho així, el “mòdul amb signe”. Si el signe és positiu, vol dir que el vector apunta cap on indica la fletxa. Si és negatiu, apunta en sentit contrari. A l’assignatura acostumem a dir que un vector ve donat “pel seu valor i la seva direcció”, però en realitat volem dir “pel seu valor i la seva direcció <em>amb sentit genèric positiu</em>”. Per no fer-ho tan llarg diem simplement “pel seu valor i direcció”. És un petit abús de llenguatge que permet agilitzar les descripcions.</p> <p style="margin-left: 15px;">En alguns exercicis parlarem de la direcció d’un vector per a referir-nos a l’orientació de la seva recta suport, sense sentit associat. Per context ja quedarà clar que ens estem referint a això, i no a la “direcció amb sentit genèric positiu del vector”.</p>
 
+<!-------------------------->
+<!-- 2P -------------------->
+<!-------------------------->
+
 <h2 id="2p-derivació-analítica">2P: Derivació analítica</h2>
+
+Pendent d'afegir-hi preguntes.
+
+<!-------------------------->
+<!-- 3P -------------------->
+<!-------------------------->
+
+<h2 id="3p-angles-deuler">3P: Angles d’Euler i Exercicis de derivació </h2>
+
+<p><strong>En l’exercici del dau fet a 3P, els eixos psipunt, thetapunt i 
+  phipunt de la configuració final es troben en una singularitat. Vol dir 
+  això que l’eix thetapunt en realitat no està definit? </strong></p>
+
+  <p style="margin-left: 15px;">No, no ho vol dir! L’eix thetapunt sí que està definit en aquest problema, perquè ens diuen la seqüència de rotacions que pateix el dau fins arribar a la configuració final. Si no ens la diguessin, i haguéssim de deduir on és aquest eix a partir de l’orientació final dels eixos psipunt i phipunt, és cert que thetapunt quedaria indeterminat, perquè ha de ser en la intersecció dels plans “ortogonal a phipunt” i “ortogonal a psipunt”, que en la configuració final del dau coincideixen per causa de la singularitat. Les singularitats dels angles d’Euler tenen impacte en la simulació dinàmica de sistemes multisòlid, però en aquest curs no entrarem en aquests aspectes avançats. Els problemes que donen aquestes singularitats es poden resoldre utilitzant dues famílies d’angles d’Euler diferents, i saltant de l’una a l’altra quan arribem a una singularitat, o bé utilitzant quaternions. </p>
+
+
 
 <p><strong>Com és el moviment del bloc sobre semicilindre?</strong></p>
 
 <p style="margin-left: 15px;"> El podeu veure en <a href="https://photos.google.com/album/AF1QipMwtAKJR_1lLREM0lkbpE-AfzR3fE5-bd3UdFmH/photo/AF1QipOOFT9VMHwl1CxThObyVPg6wyLDQOLaC_8zI9Us">aquest vídeo!</a> </p>
-
-<h2 id="3p-angles-deuler">3P: Angles d’Euler</h2>
-
-<p><strong>En l’exercici del dau fet a 3P, els eixos psipunt, thetapunt i 
-  phipunt de la configuració final es troben en una singularitat. Vol dir 
-  això que l’eix thetapunt en realitat no està definit?</strong></p>
-
-  <p style="margin-left: 15px;">No, no ho vol dir! L’eix thetapunt sí que està definit en aquest problema, perquè ens diuen la seqüència de rotacions que pateix el dau fins arribar a la configuració final. Si no ens la diguessin, i haguéssim de deduir on és aquest eix a partir de l’orientació final dels eixos psipunt i phipunt, és cert que thetapunt quedaria indeterminat, perquè ha de ser en la intersecció dels plans “ortogonal a phipunt” i “ortogonal a psipunt”, que en la configuració final del dau coincideixen per causa de la singularitat. Les singularitats dels angles d’Euler tenen impacte en la simulació dinàmica de sistemes multisòlid, però en aquest curs no entrarem en aquests aspectes avançats. Els problemes que donen aquestes singularitats es poden resoldre utilitzant dues famílies d’angles d’Euler diferents, i saltant de l’una a l’altra quan arribem a una singularitat, o bé utilitzant quaternions.</p>
 
 <!-------------------------->
 <!-- 4P -------------------->

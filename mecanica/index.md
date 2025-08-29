@@ -4,7 +4,7 @@
 
 Mecànica: Curs 2025/26 (Q1)
 
-[Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/grau-en-enginyeria-en-tecnologies-industrials)  
+[Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/fitxa-geti)  
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
 En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en els grups G10 i G50 de mecànica. Com que disposeu dels enunciats de tots els problemes, amb indicació de quan els resoldrem, els podeu treballar a priori si voleu, abans de cada sessió. També penjaré material extra, com una llista d'abreviacions, un formulari, un FAQ, i algun vídeo o explicació addicional). Bon curs a tots!
@@ -159,6 +159,6 @@ Llibres de referència:
 * [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf)
 * [Full informatiu](https://atenea.upc.edu/pluginfile.php/6389778/mod_resource/content/146/MEC%20-%20Full%20informatiu%202024-25%20QP.pdf)
 * [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
-* [Calendari ETSEIB primavera 2025 (primavera)](https://etseib.upc.edu/ca/estudis/calendaris/calendari-academic-graus-2024_25.pdf)
+* [Calendari ETSEIB primavera 2025 (primavera)](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf)
 * [FAQ - Preguntes freqüents](faqp.html)
 * [Edició prèvia 2024-25 QP](Arxiu/2024-25-QP/index.md).
