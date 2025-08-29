@@ -1,12 +1,14 @@
 <!-- Markdown comments are html ones -->
 
-# Problemes G10 i G40 #
+# Problemes G10 i G50 #
 
-Mecànica: Curs 2025/26 (Q1)
+Mecànica: Curs 2025/26 (Tardor)
 
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/fitxa-geti)  
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
+
+En aquesta web aniré penjant les solucions als exercicis que farem en els grups G10 i G50 de mecànica (els enunciats els trobareu a Atenea). En cada exercici indiquem la sessió en que es farà per tal que el pogueu treballar anticipadament. Les solucions aquí penjades us poden ajudar, però intenteu resoldre els exercicis per la vostra banda abans de mirar-les.
 
 <!-- 
 En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en els grups G10 i G50 de mecànica. Com que disposeu dels enunciats de tots els problemes, amb indicació de quan els resoldrem, els podeu treballar a priori si voleu, abans de cada sessió. També penjaré material extra, com una llista d'abreviacions, un formulari, un FAQ, i algun vídeo o explicació addicional. Bon curs a tots!
@@ -18,7 +20,7 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 
 | Preparcials | Postparcials |
 | ----------  | ------------ |
-| [1P: Introducció](#1p-coordenades-dmr-i-gl)                            | 8P: Enllaç PS + molles i amortidors   |
+| [1P: Introducció](#1p-introducció)                            | 8P: Enllaç PS + molles i amortidors   |
 | [2P: Derivació geomètrica i analítica](#2p-derivació-analítica-i-geomètrica)     | 9P: Dinàmica de la partícula          |
 | 3P: Angles d'Euler                                         | 10P: Geometria de masses              |
 | 4P: Composició de moviments        | 11P: Teoremes vectorials I            |
@@ -31,7 +33,7 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 Abans de cada sessió:
 
 1. Estudieu bé la teoria impartida aquella setmana.
-2. Llegiu amb cura els enunciats que toquen, entenent com es mou el sistema.
+2. Llegiu amb cura els enunciats, entenent com es mou el sistema.
 2. Intenteu resoldre les parts que pugueu.
 
 Durant la sessió:
