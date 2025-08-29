@@ -169,3 +169,4 @@ Llibres de referència:
 * [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
 * [Calendari ETSEIB primavera 2025 (primavera)](https://etseib.upc.edu/ca/estudis/calendaris/calendari-academic-graus-2024_25.pdf)
 * [FAQ - Preguntes freqüents](faqp.html)
+* [Edició prèvia 2024-25 QP](Arxiu/2024-25-QP/index.md).
