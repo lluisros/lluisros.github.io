@@ -1,10 +1,10 @@
 <!-- Markdown comments are html ones -->
 
-# CURS ARXIVAT! #
+# ARXIVAT: CURS 2024-25 Primavera #
 
-Problemes G10 i G40
+Problemes de mecànica: G10 i G40
 
-Mecànica: Curs 2024/25 (Q2)
+<!-- Mecànica: Curs 2024/25 (Q2) -->
 
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/grau-en-enginyeria-en-tecnologies-industrials)  
 [Departament d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)

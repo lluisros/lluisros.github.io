@@ -7,23 +7,23 @@ Mecànica: Curs 2025/26 (Q1)
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/fitxa-geti)  
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en els grups G10 i G50 de mecànica. Com que disposeu dels enunciats de tots els problemes, amb indicació de quan els resoldrem, els podeu treballar a priori si voleu, abans de cada sessió. També penjaré material extra, com una llista d'abreviacions, un formulari, un FAQ, i algun vídeo o explicació addicional). Bon curs a tots!
+
+<!-- 
+En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en els grups G10 i G50 de mecànica. Com que disposeu dels enunciats de tots els problemes, amb indicació de quan els resoldrem, els podeu treballar a priori si voleu, abans de cada sessió. També penjaré material extra, com una llista d'abreviacions, un formulari, un FAQ, i algun vídeo o explicació addicional. Bon curs a tots!
+-->
 
 ## Índex
 
-[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf) - [Wikimec](https://mec.etseib.upc.edu) 
-
-<!-- - [Catàleg forces](problemes/cataleg-forces.pdf) -->
-
+[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf) - [Wikimec](https://mec.etseib.upc.edu)
 
 | Preparcials | Postparcials |
 | ----------  | ------------ |
-| [1P: Definició de coords., DMR i GL](#1p-coordenades-dmr-i-gl)                            | 8P: Enllaç PS + molles i amortidors   |
-| [2P: Deriv. geomètrica i analítica](#2p-derivació-analítica-i-geomètrica)     | 9P: Dinàmica de la partícula          |
-| 3P: Angles d'Euler + Ex. de derivació                                         | 10P: Geometria de masses              |
-| 4P: Composició de mov.        | 11P: Teoremes vectorials I            |
+| [1P: Introducció](#1p-coordenades-dmr-i-gl)                            | 8P: Enllaç PS + molles i amortidors   |
+| [2P: Derivació geomètrica i analítica](#2p-derivació-analítica-i-geomètrica)     | 9P: Dinàmica de la partícula          |
+| 3P: Angles d'Euler                                         | 10P: Geometria de masses              |
+| 4P: Composició de moviments        | 11P: Teoremes vectorials I            |
 | 5P: CSR 3D                    | 12P: Teoremes vectorials II           |
-| 6P: CSR 2D i de vehicles      | 13P: Teoremes vectorials III          |
+| 6P: CSR 2D + Cinemàt. de vehicles      | 13P: Teoremes vectorials III          |
 | 7P: Exercicis de repàs        | 14P: Teoremes vectorials IV           |
 
 ## Recomanacions
@@ -45,7 +45,7 @@ Després de la sessió:
 3. Contrasteu les vostres solucions amb les penjades.
 4. Feu el treball autònom que es proposa a Atenea.
 
-## 1P: Coordenades, DMR i GL
+## 1P: Introducció
 
 [Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 29 AGO 19:00.
 
@@ -156,9 +156,13 @@ Llibres de referència:
 * J. Agulló i Batlle, ["Mecànica de la partícula i del sòlid rígid"](https://drive.google.com/file/d/1N22VNGK_2FQnVZzZuqxPn2JlbAflULm6/view), Publicacions OK punt, 2002.  
 
 ## Enllaços
-* [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf)
+* [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf).
+* [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf).
+* [FAQ - Preguntes freqüents](faqp.html).
+* [Edició prèvia 2024-25 QP](Arxiu/2024-25-QP/index.md).
+
+<!--
 * [Full informatiu](https://atenea.upc.edu/pluginfile.php/6389778/mod_resource/content/146/MEC%20-%20Full%20informatiu%202024-25%20QP.pdf)
 * [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
-* [Calendari ETSEIB primavera 2025 (primavera)](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf)
-* [FAQ - Preguntes freqüents](faqp.html)
-* [Edició prèvia 2024-25 QP](Arxiu/2024-25-QP/index.md).
+-->
+
