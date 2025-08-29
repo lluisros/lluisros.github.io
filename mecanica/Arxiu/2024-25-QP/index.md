@@ -18,7 +18,7 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 
 ## Índex
 
-[FAQ](faqp.html) - [Formulari](problemes/formulari_2024-25_QP.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Catàleg forces](problemes/cataleg-forces.pdf)
+[FAQ](faqp.html) - [Formulari](problemes/formulari.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Catàleg forces](problemes/cataleg-forces.pdf)
 
 <!-- iP = Sessió de la setmana i-èssima: 
 
@@ -166,7 +166,7 @@ Llibres de referència:
 * J. Agulló i Batlle, ["Mecànica de la partícula i del sòlid rígid"](https://drive.google.com/file/d/1N22VNGK_2FQnVZzZuqxPn2JlbAflULm6/view), Publicacions OK punt, 2002.  
 
 ## Enllaços
-* [Formulari](problemes/formulari_2024-25_QP.pdf)
+* [Formulari](problemes/formulari.pdf)
 * [Full informatiu](full_informatiu.pdf)
 * [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
 * [Calendari ETSEIB primavera 2025 (primavera)](calendari_graus_2024_25.pdf)

@@ -2,17 +2,12 @@
 
 # Problemes G10 i G40 #
 
-Mecànica: Curs 2024/25 (Q2)
+Mecànica: Curs 2025/26 (Q1)
 
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/grau-en-enginyeria-en-tecnologies-industrials)  
-[Departament d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
+[Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta web anunciaré els problemes que farem cada setmana per 
-tal que els pogueu treballar anticipadament. També hi penjaré un  resum 
-de les seves solucions, amb pistes breus que us hi poden conduir. Sovint no hi trobareu el procediment detallat perquè cal que els resolgueu vosaltres
-per la vostra banda, afegint-hi les explicacions que donarem a classe.
-
-<!-- Bon curs a tots!  -->
+En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en els grups G10 i G50 de mecànica. Com que disposeu dels enunciats de tots els problemes, amb indicació de quan els resoldrem, els podeu treballar a priori si voleu, abans de cada sessió. També penjaré material extra, com una llista d'abreviacions, un formulari, un FAQ, i algun vídeo o explicació addicional). Bon curs a tots!
 
 ## Índex
 
@@ -33,50 +28,56 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 
 
 | Preparcials | Postparcials |
-| ---------- | -------- |
-| [1P: Deriv. geomètrica](#1p-derivació-geomètrica) | [9P: Geometria de masses](#9p-geometria-de-masses) |
-| [2P: Deriv. analítica](#2p-derivació-analítica) | [10P: Oscil i punts equilibri](#10p-oscillacions-i-punts-dequilibri) |
-| [3P: Angles d'Euler](#3p-angles-deuler) | [11P: Teor. vectorials 3D](#11p-teoremes-vectorials-3d) |
-| [4P: Composició de mov.](#4p-composició-de-moviments) | [12P: Teor. vectorials 2D](#12p-teoremes-vectorials-2d)  |
-| [5P: Cinem. sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d) | [13P: Teor. vectorials 3D](#13p-teoremes-vectorials-3d)  |
-| [6P: Cinem. sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d) | [14P: Teor. vectorials 3D](#14p-teoremes-vectorials-3d)  |
-| [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-enllaç-ps)  |  |
-| [8P: Problemes de repàs](#8p-problemes-de-repàs) |   |
-
-
+| ----------  | ------------ |
+| [1P: Coords. + DMR + GL](#1p-coordenades-dmr-i-gl)                       | 8P: Enllaç PS + molles i amortidors   |
+| [2P: Deriv. geomètrica i analítica](#2p-derivació-analítica-i-geomètrica)     | 9P: Dinàmica de la partícula     |
+| 3P: Angles d'Euler + Ex. de derivació   | 10P: Geometria de masses       |
+| 4P: Composició de mov.                                                        | 11P: Teoremes vectorials     |
+| 5P: Cinem. sòlid rígid 3D | 13P: Teor. vectorials 3D                          | 12P: Teoremes vectorials     |
+| 6P: Cinem. sòlid rígid 2D + Vehicles | 14P: Teor. vectorials 3D               | 13P: Teoremes vectorials     |
+| 7P: Exercicis de repàs                                                        | 14P: Teoremes vectorials     |
 
 ## Recomanacions
 
 Abans de cada sessió:
 
 1. Estudieu bé la teoria impartida aquella setmana.
-2. Llegiu amb cura els enunciats, entenent com es mou el sistema.
+2. Llegiu amb cura els enunciats que toquen, entenent com es mou el sistema.
 2. Intenteu resoldre les parts que pugueu.
 
+Durant la sessió:
+
+1. Preneu apunts breus.
+2. Pregunteu dubtes que us sorgeixin. 
+
 Després de la sessió: 
-1. Refeu els exercicis incorporant el que hem fet a classe.
+1. Refeu els exercicis entenent-los a fons.
 2. Resoleu els apartats que s'han posat com a deures.
-3. Feu el treball autònom que es proposa a Atenea.
+3. Contrasteu les vostres solucions amb les penjades.
+4. Feu el treball autònom que es proposa a Atenea.
 
-## 1P: Derivació geomètrica
+## 1P: Coordenades, DMR i GL
 
-[Problemes 1P](problemes/1P.pdf) - Actualitzat 13 FEB 23:50.
+[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 29 AGO 19:00.
 
+<!--
 
 Teoria necessària: 
-[Introducció](https://mec.etseib.upc.edu/ca/index.php?title=Introducci%C3%B3) + [Càlcul vectorial (fins a V.2 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial) + [C1 (fins a C1.3 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic) + [C2 (fins a rotació simple inclòs, a C2.4)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic).
+[Introducció](https://mec.etseib.upc.edu/ca/index.php?title=Introducci%C3%B3) + [Càlcul vectorial (V.1 i V.2 excepte derivació geomètrica)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial) + [C1 (fins a C1.3 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic)
 
-## 2P: Derivació analítica
+-->
 
-[Problemes 2P](problemes/2P.pdf) - Actualitzat 23 FEB 22:50.
+## 2P: Derivació analítica i geomètrica
 
-[Solució TP1-G10](problemes/TP1-G10.pdf) + [Solució TP1-G40](problemes/TP1-G40.pdf) - Actualitzat 23 FEB 22:30
+[Solucions 2P](problemes/2P_sols.pdf) - Actualitzat 29 AGO 19:00.
 
-Teoria necessària: [Càlcul vectorial (a partir de V.3)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector).
+<!--
+
+Teoria necessària: [Càlcul vectorial (de V.2 fins al final)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector) + [C2 (tot)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic).
 
 
 
-## 3P: Angles d'Euler
+## 3P: Angles d'Euler + Ex. de derivació
 
 [Problemes 3P](problemes/3P.pdf) - Actualitzat 3 MAR 23:40.
 
@@ -124,7 +125,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 [Lliçó completa](problemes/10P.pdf) - Actualitzat 24 MAIG 15:17
 
-<!-- [Diapositives de classe](problemes/10P_slides.pdf) -->
+[Diapositives de classe](problemes/10P_slides.pdf)
 
 ## 11P: Teoremes vectorials 3D
 
@@ -137,7 +138,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 [Lliçó resumida](problemes/12P.pdf) - Actualitzat 14 MAIG 21:07. Només penjo els càlculs i ja afegireu 
 els comentaris que calguin, d'acord amb el que expliqui a classe. 
 
-<!-- [Diapositives de classe](problemes/11P_slides.pdf) -->
+[Diapositives de classe](problemes/11P_slides.pdf)
 
 ## 13P: Teoremes vectorials 3D
 
@@ -148,6 +149,8 @@ els comentaris que calguin, d'acord amb el que expliqui a classe.
 ## 14P: Teoremes vectorials 3D
 
 [Enunciats](problemes/14P_enunciats.pdf) + [Solucions](problemes/14P.pdf) - Actualitzat 14 JUNY 03:00. Arreglats errors en (1) el càlcul de T al problema de la bola giratòria, i (2) el càlcul de l'acceleració de G respecte T en el problema del pèndol anular giratori.
+
+-->
 
 ## Bibliografia
 
