@@ -126,8 +126,6 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 [Lliçó completa](problemes/10P.pdf) - Actualitzat 24 MAIG 15:17
 
-<!-- [Diapositives de classe](problemes/10P_slides.pdf) -->
-
 ## 11P: Teoremes vectorials 3D
 
 [Lliçó completa](problemes/11P.pdf) - Actualitzat 11 MAIG 21:17 (afegit el càlcul de l'apartat (d) del 2n problema)
@@ -136,10 +134,9 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 12P: Teoremes vectorials 2D
 
-[Lliçó resumida](problemes/12P.pdf) - Actualitzat 14 MAIG 21:07. Només penjo els càlculs i ja afegireu 
-els comentaris que calguin, d'acord amb el que expliqui a classe. 
+[Lliçó resumida](problemes/12P.pdf) - Actualitzat 14 MAIG 21:07. Només penjo els càlculs i ja afegireu els comentaris que calguin, d'acord amb el que expliqui a classe.
 
-<!-- [Diapositives de classe](problemes/11P_slides.pdf) -->
+[Diapositives de classe](problemes/11P_slides.pdf)
 
 ## 13P: Teoremes vectorials 3D
 
