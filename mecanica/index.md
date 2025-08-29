@@ -11,20 +11,9 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 
 ## Índex
 
-[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Catàleg forces](problemes/cataleg-forces.pdf)
+[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf) - [Wikimec](https://mec.etseib.upc.edu) 
 
-<!-- iP = Sessió de la setmana i-èssima: 
-
-+ [1P: Derivació geomètrica](#1p-derivació-geomètrica)
-+ [2P: Derivació analítica](#2p-derivació-analítica)  
-+ [3P: Angles d'Euler](#3p-angles-deuler)  
-+ [4P: Composició de moviments](#4p-composició-de-moviments)  
-+ [5P: Cinemàtica del sòlid rígid 3D](#5p-cinemàtica-del-sòlid-rígid-3d)  
-+ [6P: Cinemàtica del sòlid rígid 2D](#6p-cinemàtica-del-sòlid-rígid-2d)   
-+ [7P: Molles, amortidors i forces enllaç](#7p-molles-amortidors-i-enllaç-ps)
-+ [8P: Problemes de repàs](#8p-problemes-de-repàs)
-
--->
+<!-- - [Catàleg forces](problemes/cataleg-forces.pdf) -->
 
 
 | Preparcials | Postparcials |
@@ -51,8 +40,8 @@ Durant la sessió:
 2. Pregunteu dubtes que us sorgeixin. 
 
 Després de la sessió: 
-1. Refeu els exercicis entenent-los a fons.
-2. Resoleu els apartats que s'han posat com a deures.
+1. Refeu els exercicis vosaltres, entenent-los a fons.
+2. Resoleu els apartats que s'hagin deixat com a deures.
 3. Contrasteu les vostres solucions amb les penjades.
 4. Feu el treball autònom que es proposa a Atenea.
 
