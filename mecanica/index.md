@@ -7,8 +7,11 @@ Mecànica: Curs 2025/26 (Tardor)
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/fitxa-geti)  
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
+En aquesta web hi trobareu material relatiu els grups G10 i G50 de problemes de Mecànica, com ara solucions, FAQ, formulari, abreviacions, o transparències utilitzades a classe. És essencial que treballeu els exercicis per la vostra banda, abans de consultar les solucions aquí penjades.
 
-En aquesta web aniré penjant les solucions als exercicis que farem en els grups G10 i G50 de mecànica (els enunciats els trobareu a Atenea). En cada exercici indiquem la sessió en que es farà per tal que el pogueu treballar anticipadament. Les solucions aquí penjades us poden ajudar, però intenteu resoldre els exercicis per la vostra banda abans de mirar-les.
+<!-- 
+En aquesta web aniré penjant les solucions als exercicis que farem en els grups G10 i G50 de mecànica (en trobareu els enunciats a Atenea). En cada exercici indiquem la sessió en que es farà per tal que el pogueu treballar anticipadament. Les solucions aquí penjades us poden ajudar, però intenteu resoldre els exercicis per la vostra banda abans de mirar-les.
+-->
 
 <!-- 
 En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en els grups G10 i G50 de mecànica. Com que disposeu dels enunciats de tots els problemes, amb indicació de quan els resoldrem, els podeu treballar a priori si voleu, abans de cada sessió. També penjaré material extra, com una llista d'abreviacions, un formulari, un FAQ, i algun vídeo o explicació addicional. Bon curs a tots!
@@ -16,7 +19,7 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 
 ## Índex
 
-[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf) - [Wikimec](https://mec.etseib.upc.edu)
+[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Abreviacions](abreviacions.pdf) 
 
 | Preparcials | Postparcials |
 | ----------  | ------------ |
