@@ -69,9 +69,13 @@ Teoria necessària:
 
 Teoria necessària: [Càlcul vectorial (de V.2 fins al final)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector) + [C2 (tot)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic).
 
+-->
 
 
 ## 3P: Angles d'Euler + Ex. de derivació
+
+Pendent de penjar material.
+<!--
 
 [Problemes 3P](problemes/3P.pdf) - Actualitzat 3 MAR 23:40.
 
