@@ -124,6 +124,7 @@ Llibres de referència:
 ## Enllaços
 * [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf).
 * [Full informatiu](https://atenea.upc.edu/pluginfile.php/6613016/mod_resource/content/151/MEC%20-%20Full%20informatiu%202025-26%20QT.pdf).
+* [Horaris](horaris.png)
 * [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf).
 * [FAQ - Preguntes freqüents](faqp.html).
 * [Edició prèvia 2024-25 QP](Arxiu/2024-25-QP/index.md).
