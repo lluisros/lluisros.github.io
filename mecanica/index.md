@@ -99,8 +99,15 @@ Pendent de penjar-hi material.
 
 Wikimec:
 
-* [https://mec.etseib.upc.edu](https://mec.etseib.upc.edu) (Català)
+* [https://mec.etseib.upc.edu](https://mec.etseib.upc.edu)
+
+<!-- 
 * [https://mec.etseib.upc.edu/en](https://mec.etseib.upc.edu/en) (Anglès)
+-->
+
+Exercicis resolts:
+
+* J. Agulló i Batlle, ["Mecànica: resolucions de qüestions i problemes"](https://drive.google.com/file/d/1Pnyjt3wqPv5TnCYW_k2xzqRdjOkGmIhm/view). Publicacions OK Punt, 2005.
 
 Llibres de referència:
 
@@ -111,6 +118,7 @@ Llibres de referència:
 
 ## Enllaços
 * [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf).
+* [Full informatiu](https://atenea.upc.edu/pluginfile.php/6613016/mod_resource/content/151/MEC%20-%20Full%20informatiu%202025-26%20QT.pdf).
 * [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf).
 * [FAQ - Preguntes freqüents](faqp.html).
 * [Edició prèvia 2024-25 QP](Arxiu/2024-25-QP/index.md).
