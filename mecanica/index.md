@@ -7,7 +7,7 @@ Mecànica: Curs 2025/26 (Tardor)
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/fitxa-geti)  
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta web hi penjaré material relatiu els grups G10 i G50 de problemes de Mecànica. Hi trobareu solucions d'exercicis, un FAQ, el formulari de l'assignatura, una llista d'abreviacions, o transparències utilitzades a classe, entre altres. Recordeu: és essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí publicades.
+En aquesta web hi penjaré material relatiu els grups G10 i G50 de problemes de Mecànica: solucions d'exercicis, un FAQ, el formulari de l'assignatura, una llista d'abreviacions, o transparències de classe, entre d'altres. És essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí publicades.
 
 <!-- 
 En aquesta web aniré penjant les solucions als exercicis que farem en els grups G10 i G50 de mecànica (en trobareu els enunciats a Atenea). En cada exercici indiquem la sessió en que es farà per tal que el pogueu treballar anticipadament. Les solucions aquí penjades us poden ajudar, però intenteu resoldre els exercicis per la vostra banda abans de mirar-les.
@@ -29,7 +29,7 @@ iP = Sessió de la setmana i-èssima
 | ----------  | ------------ |
 | [1P: Introducció](#1p-introducció) | 8P: Enllaç PS + molles i amortidors   |
 | [2P: Derivació geomètrica i analítica](#2p-derivació-analítica-i-geomètrica)     | 9P: Dinàmica de la partícula          |
-| 3P: Angles d'Euler + Ex. de derivació                                         | 10P: Geometria de masses              |
+| 3P: Derivació + Angles d'Euler | 10P: Geometria de masses              |
 | 4P: Composició de moviments        | 11P: Teoremes vectorials I            |
 | 5P: CSR 3D                    | 12P: Teoremes vectorials II           |
 | 6P: CSR 2D + Cinemàt. de vehicles      | 13P: Teoremes vectorials III          |
@@ -56,7 +56,7 @@ Després de la sessió:
 
 ## 1P: Introducció
 
-[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 29 AGO 19:00.
+[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 8 SEP 13:50.
 
 <!--
 Teoria necessària: 
@@ -65,13 +65,12 @@ Teoria necessària:
 
 ## 2P: Derivació analítica i geomètrica
 
-[Solucions 2P](problemes/2P_sols.pdf) - Actualitzat 29 AGO 19:00.
+[Solucions 2P](problemes/2P_sols.pdf)
 
 <!--
 Teoria necessària: [Càlcul vectorial (de V.2 fins al final)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial#V.3_Representaci%C3%B3_anal%C3%ADtica_d%E2%80%99un_vector) + [C2 (tot)](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic).
 -->
-
-## 3P: Angles d'Euler + Ex. de derivació
+## 3P: Derivació + angles d'Euler
 
 Pendent de penjar-hi material.
 
