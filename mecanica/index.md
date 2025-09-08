@@ -110,6 +110,8 @@ Wikimec:
 
 Exercicis resolts:
 
+* Tots els de la [Wikimec](https://mec.etseib.upc.edu) i del treball autònom d'Atenea.
+
 * J. Agulló i Batlle, ["Mecànica: resolucions de qüestions i problemes"](https://drive.google.com/file/d/1Pnyjt3wqPv5TnCYW_k2xzqRdjOkGmIhm/view). Publicacions OK Punt, 2005.
 
 Llibres de referència:
