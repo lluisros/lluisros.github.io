@@ -21,7 +21,7 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 
 
 
-[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Abreviacions](abreviacions.pdf) 
+[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Abreviacions](abreviacions.pdf) 
 
 iP = Sessió de la setmana i-èssima
 
@@ -122,7 +122,7 @@ Llibres de referència:
 * J. Agulló i Batlle, ["Mecànica de la partícula i del sòlid rígid"](https://drive.google.com/file/d/1N22VNGK_2FQnVZzZuqxPn2JlbAflULm6/view), Publicacions OK punt, 2002.  
 
 ## Enllaços
-* [Formulari](https://atenea.upc.edu/pluginfile.php/6389786/mod_resource/content/84/MEC%20-%20Formulari%202024-25%20QP.pdf).
+* [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf).
 * [Full informatiu](https://atenea.upc.edu/pluginfile.php/6613016/mod_resource/content/151/MEC%20-%20Full%20informatiu%202025-26%20QT.pdf).
 * [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf).
 * [FAQ - Preguntes freqüents](faqp.html).
