@@ -7,7 +7,7 @@ Mecànica: Curs 2025/26 (Tardor)
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/fitxa-geti)  
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta web hi penjaré material relatiu els grups G10 i G50 de problemes de Mecànica: solucions d'exercicis, un FAQ, el formulari, abreviacions que utilitzo, o transparències de classe, entre d'altres. És essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí publicades.
+En aquesta web hi penjaré material relatiu els grups G10 i G50 de problemes de Mecànica: els exercicis que farem, les seves solucions, un FAQ, el formulari, abreviacions que utilitzo, o transparències de classe, entre d'altres. És essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí publicades.
 
 <!-- 
 En aquesta web aniré penjant les solucions als exercicis que farem en els grups G10 i G50 de mecànica (en trobareu els enunciats a Atenea). En cada exercici indiquem la sessió en que es farà per tal que el pogueu treballar anticipadament. Les solucions aquí penjades us poden ajudar, però intenteu resoldre els exercicis per la vostra banda abans de mirar-les.
@@ -21,14 +21,14 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 
 
 
-[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Abreviacions](abreviacions.pdf) 
+[Enunciats](https://atenea.upc.edu/pluginfile.php/6613027/mod_resource/content/24/2025-26%20QT%20Material%20Estudiants%20pre-parcials%20-%20CAT.pdf) - [FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Abreviacions](abreviacions.pdf) 
 
 iP = Sessió de la setmana i-èssima
 
 | Preparcials | Postparcials |
 | ----------  | ------------ |
 | [1P: Introducció](#1p-introducció) | 8P: Enllaç PS + molles i amortidors   |
-| [2P: Derivació geomètrica i analítica](#2p-derivació-analítica-i-geomètrica)     | 9P: Dinàmica de la partícula          |
+| 2P: Derivació geomètrica i analítica   | 9P: Dinàmica de la partícula          |
 | 3P: Derivació + Angles d'Euler | 10P: Geometria de masses              |
 | 4P: Composició de moviments        | 11P: Teoremes vectorials I            |
 | 5P: CSR 3D                    | 12P: Teoremes vectorials II           |
@@ -63,7 +63,7 @@ Teoria necessària:
 [Introducció](https://mec.etseib.upc.edu/ca/index.php?title=Introducci%C3%B3) + [Càlcul vectorial (V.1 i V.2 excepte derivació geomètrica)](https://mec.etseib.upc.edu/ca/index.php?title=C%C3%A0lcul_vectorial) + [C1 (fins a C1.3 inclòs)](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic)
 -->
 
-## 2P: Derivació analítica i geomètrica
+## 2P: Derivació geomètrica i analítica
 
 Pendent de penjar-hi material.
 <!-- 
