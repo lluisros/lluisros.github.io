@@ -7,7 +7,7 @@ Mecànica: Curs 2025/26 (Tardor)
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/fitxa-geti)  
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-En aquesta web hi trobareu material relatiu els grups G10 i G50 de problemes de Mecànica: els exercicis que farem en cada sessió, les seves solucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
+En aquesta web hi trobareu material relatiu als grups G10 i G50 de problemes de Mecànica: els exercicis que farem en cada sessió, les seves solucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
 
 <!-- 
 En aquesta web aniré penjant les solucions als exercicis que farem en els grups G10 i G50 de mecànica (en trobareu els enunciats a Atenea). En cada exercici indiquem la sessió en que es farà per tal que el pogueu treballar anticipadament. Les solucions aquí penjades us poden ajudar, però intenteu resoldre els exercicis per la vostra banda abans de mirar-les.
@@ -56,7 +56,7 @@ Després de la sessió:
 
 ## 1P: Introducció
 
-[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 9 SEP 19:50.
+[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 14 SEP 13:20.
 
 <!--
 Teoria necessària: 
