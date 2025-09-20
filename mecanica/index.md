@@ -29,7 +29,7 @@ iP = Sessió de la setmana i-èssima
 | ----------  | ------------ |
 | [1P: Introducció](#1p-introducció) | 8P: Enllaç PS + molles i amortidors   |
 | [2P: Derivació geomètrica i analítica](#2p-derivació-geomètrica-i-analítica)   | 9P: Dinàmica de la partícula          |
-| 3P: Derivació + Angles d'Euler | 10P: Geometria de masses              |
+| [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler) | 10P: Geometria de masses              |
 | 4P: Composició de moviments        | 11P: Teoremes vectorials I            |
 | 5P: CSR 3D                    | 12P: Teoremes vectorials II           |
 | 6P: CSR 2D + Cinemàt. de vehicles      | 13P: Teoremes vectorials III          |
@@ -73,7 +73,7 @@ Teoria necessària: [Càlcul vectorial (de V.2 fins al final)](https://mec.etsei
 -->
 ## 3P: Derivació + angles d'Euler
 
-Pendent de penjar-hi material.
+[Solucions 3P](problemes/3P_sols.pdf) - Versió preliminar de 20 SET 17:20.
 
 <!--
 Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic#C1.4_Orientaci%C3%B3_d'un_s%C3%B2lid_r%C3%ADgid_amb_moviment_a_l'espai) + [C2.4](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.4_Velocitat_angular_d%E2%80%99un_s%C3%B2lid_r%C3%ADgid).
