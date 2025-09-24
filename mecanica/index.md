@@ -73,11 +73,12 @@ Teoria necessària: [Càlcul vectorial (de V.2 fins al final)](https://mec.etsei
 -->
 ## 3P: Derivació + angles d'Euler
 
-[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 23 SET 20:40.
+[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 24 SET 21:35.
 
-[Vídeo del moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
-
-[Vídeo sobre els angles d'Euler al giroscopi](https://www.youtube.com/watch?v=ON0VWB34Dso).
+Vídeos:
+* [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
+* [Pilotatge amb línia de control](https://www.youtube.com/watch?v=wZavLFRsMHg&t=179s).
+* [Angles d'Euler al giroscopi](https://www.youtube.com/watch?v=ON0VWB34Dso).
 <!--
 Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic#C1.4_Orientaci%C3%B3_d'un_s%C3%B2lid_r%C3%ADgid_amb_moviment_a_l'espai) + [C2.4](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.4_Velocitat_angular_d%E2%80%99un_s%C3%B2lid_r%C3%ADgid).
 -->
