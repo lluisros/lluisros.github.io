@@ -30,7 +30,7 @@ iP = Sessió de la setmana i-èssima
 | [1P: Introducció](#1p-introducció) | 8P: Enllaç PS + molles i amortidors   |
 | [2P: Derivació geomètrica i analítica](#2p-derivació-geomètrica-i-analítica)   | 9P: Dinàmica de la partícula          |
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler) | 10P: Geometria de masses              |
-| 4P: Composició de moviments        | 11P: Teoremes vectorials I            |
+| [4P: Composició de moviments](#4p-composició-de-moviments)        | 11P: Teoremes vectorials I            |
 | 5P: CSR 3D                    | 12P: Teoremes vectorials II           |
 | 6P: CSR 2D + Cinemàt. de vehicles      | 13P: Teoremes vectorials III          |
 | 7P: Exercicis de repàs        | 14P: Teoremes vectorials IV           |
@@ -85,8 +85,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 4P: Composició de moviments
 
-Pendent de penjar-hi material.
-
+[Solucions 4P](problemes/4P_sols.pdf) - Penjat 27 SET 19:10.
 
 ## 5P: Cinemàtica del sòlid rígid 3D
 
