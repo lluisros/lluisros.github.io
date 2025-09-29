@@ -87,7 +87,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 4P: Composició de moviments
 
-[Solucions 4P](problemes/4P_sols.pdf) - Penjat 27 SET 19:10.
+[Solucions 4P](problemes/4P_sols.pdf) - Actualitzat 29 SET 18:20.
 
 ## 5P: Cinemàtica del sòlid rígid 3D
 
