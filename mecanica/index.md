@@ -75,6 +75,8 @@ Teoria necessària: [Càlcul vectorial (de V.2 fins al final)](https://mec.etsei
 
 [Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 24 SET 21:35.
 
+[Exercici extra de càlcul d'una acceleració angular](problemes/3P_extra.pdf)
+
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
 * [Pilotatge amb línia de control](https://www.youtube.com/watch?v=wZavLFRsMHg&t=179s).
