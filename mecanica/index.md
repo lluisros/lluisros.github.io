@@ -89,6 +89,8 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 [Solucions 4P](problemes/4P_sols.pdf) - Actualitzat 3 OCT 13:05.
 
+[Diapositives de 4P](problemes/4P_slides.pdf)
+
 ## 5P: Cinemàtica del sòlid rígid 3D
 
 Pendent de penjar-hi material.
