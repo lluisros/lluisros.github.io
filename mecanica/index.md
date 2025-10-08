@@ -93,7 +93,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 5P: Cinemàtica del sòlid rígid 3D
 
-[Solucions 5P](problemes/5P_sols.pdf) - Versió preliminar 8 OCT 13:15
+[Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 8 OCT 14:05
 
 ## 6P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
