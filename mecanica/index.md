@@ -73,9 +73,9 @@ Teoria necessària: [Càlcul vectorial (de V.2 fins al final)](https://mec.etsei
 -->
 ## 3P: Derivació + angles d'Euler
 
-[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 24 SET 21:35.
+[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 24 SET 21:35
 
-[Exercici extra de càlcul d'una acceleració angular](problemes/3P_extra.pdf)
+[Exercici extra de càlcul d'una acceleració angular](problemes/3P_extra.pdf) - Actualitzat 11 OCT 19:20
 
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
