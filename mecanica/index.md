@@ -97,7 +97,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 6P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
-Pendent de penjar-hi material.
+[Solucions 6P](problemes/6P_sols.pdf) - Versió preliminar 12 OCT 23:50
 
 ## 7P: Exercicis de repàs
 
