@@ -101,6 +101,8 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 [Solucions 6P](problemes/6P_sols.pdf) - Versió preliminar 13 OCT 20:45
 
+[Animació Geogebra del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - Cliqueu "Play" a baix a l'esquerra.
+
 ## 7P: Exercicis de repàs
 
 Pendent de penjar-hi material.
