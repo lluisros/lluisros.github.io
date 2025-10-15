@@ -99,7 +99,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 6P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
-[Solucions 6P](problemes/6P_sols.pdf) - Versió preliminar 13 OCT 20:45
+[Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 15 OCT 13:49
 
 [Animació Geogebra del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - Cliqueu "Play" a baix a l'esquerra.
 
