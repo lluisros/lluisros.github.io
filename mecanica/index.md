@@ -99,7 +99,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 6P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
-[Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 15 OCT 21:00. Aquest cap de setmana actualitzaré aquest PDF novament, canviant la part d'introducció a cinemàtica de vehicles per a fer-la més clara. Ara ja hi ha tota la informació, però quedarà tot més fàcil d'estudiar. Stay tuned!
+[Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 18 OCT 22:15. He millorat la introducció a cinemàtica de vehicles. Prego que us ho mireu.
 
 [Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf) - Actualitzat 18 Oct 13:35. Potser n'afegiré algun més, més endavant.
 
