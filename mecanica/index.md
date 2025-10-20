@@ -107,7 +107,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 7P: Exercicis de repàs
 
-Pendent de penjar-hi material.
+Pendent de penjar-hi les solucions.
 
 ## Bibliografia
 
