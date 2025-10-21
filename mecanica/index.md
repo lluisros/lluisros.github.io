@@ -97,6 +97,8 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 [Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 19 OCT 14:35. Ara, l'últim problema de la bola està resolt per tres vies diferents.
 
+[Exercici extra de CSR 3D](problemes/5P_extra.pdf) - Pujat 21 Oct 19:35.
+
 ## 6P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
 [Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 18 OCT 22:50. He ampliat l'explicació del 3er exercici (important) i millorat la introducció a cinemàtica de vehicles (també important). Prego que us ho mireu.
@@ -108,6 +110,8 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 ## 7P: Exercicis de repàs
 
 Pendent de penjar-hi les solucions.
+
+[Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt)
 
 ## Bibliografia
 
