@@ -109,7 +109,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 7P: Exercicis de repàs
 
-[Solucions 7P](problemes/7P_sols.pdf) - 1a versió pujada 22 OCT 21:05
+[Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 24 OCT 13:57. Ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola resp. T, i després per composició de moviments.
 
 [Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt). Cliqueu "Play" a baix a l'esquerra. He suposat que la barra vermella és infinita, i negligit les col·lisions entre sòlids.
 
