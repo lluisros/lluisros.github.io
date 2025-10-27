@@ -109,7 +109,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 7P: Exercicis de repàs
 
-[Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 25 OCT 01:05 per arreglar lleu error en l'acceleració de Coriolis del darrer exercici. A banda d'això, ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola respecte T (via més geomètrica i intuïtiva, potser), i després per composició de moviments.
+[Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 27 OCT 14:10 per millorar la descripció del moviment del vehicle (1er exercici). Actualitzat 25 OCT 01:05 per arreglar lleu error en l'acceleració de Coriolis del darrer exercici. A més, ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola respecte T (via més geomètrica i intuïtiva), i després per composició de moviments.
 
 [Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt). Cliqueu "Play" a baix a l'esquerra. He suposat que la barra vermella és infinita, i negligit les col·lisions entre sòlids.
 
