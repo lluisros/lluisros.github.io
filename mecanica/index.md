@@ -33,7 +33,7 @@ iP = Sessió de la setmana i-èssima
 | [4P: Composició de moviments](#4p-composició-de-moviments)        | 11P: Teoremes vectorials I            |
 | [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)                    | 12P: Teoremes vectorials II           |
 | [6P: CSR 2D + Cinemàtica de vehicles](#6p-cinemàtica-del-sòlid-rígid-2d--cinemàtica-de-vehicles)      | 13P: Teoremes vectorials III          |
-| [7P: Exercicis de repàs](#7p-exercicis-de-repàs)        | 14P: Teoremes vectorials IV           |
+| [7P: Exercicis globals de cinemàtica](#7p-exercicis-i-qüestions-globals-de-cinemàtica)        | 14P: Teoremes vectorials IV           |
 
 ## Recomanacions
 
@@ -107,7 +107,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 [Animació Geogebra del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - Cliqueu "Play" a baix a l'esquerra.
 
-## 7P: Exercicis de repàs
+## 7P: Exercicis i qüestions globals de cinemàtica
 
 [Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 27 OCT 14:10 per millorar la descripció del moviment del vehicle (1er exercici). Actualitzat 25 OCT 01:05 per arreglar lleu error en l'acceleració de Coriolis del darrer exercici. A més, ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola respecte T (via més geomètrica i intuïtiva), i després per composició de moviments.
 
