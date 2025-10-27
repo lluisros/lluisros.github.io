@@ -97,13 +97,13 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 [Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 19 OCT 14:35. Ara, l'últim problema de la bola està resolt per tres vies diferents.
 
-[Exercici extra de CSR 3D](problemes/5P_extra.pdf) - Pujat 21 Oct 19:35.
+[Exercici extra de CSR 3D](problemes/5P_extra.pdf) - Actualitzat 27 OCT 23:40
 
 ## 6P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
 [Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 22 OCT 10:55 per eliminar una lleu errada a la pàg. 19. Actualitzat 18 OCT 22:50 per ampliar l'explicació del 3er exercici (important) i millorar la introducció a cinemàtica de vehicles (també important). Prego que us ho mireu.
 
-[Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf) - Actualitzat 18 Oct 13:35. Potser n'afegiré algun més, més endavant.
+[Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf) - Actualitzat 27 Oct 23:50.
 
 [Animació Geogebra del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - Cliqueu "Play" a baix a l'esquerra.
 
