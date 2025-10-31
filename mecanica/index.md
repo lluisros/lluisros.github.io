@@ -9,6 +9,8 @@ Mecànica: Curs 2025/26 (Tardor)
 
 En aquesta web hi trobareu material relatiu als grups G10 i G50 de problemes de Mecànica: els exercicis que farem en cada sessió, les seves solucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
 
+Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/6613027/mod_resource/content/24/2025-26%20QT%20Material%20Estudiants%20pre-parcials%20-%20CAT.pdf) - [Postparcials](https://atenea.upc.edu/pluginfile.php/6613028/mod_resource/content/25/2025-26%20QT%20Material%20Estudiants%20post-parcials%20-%20CAT.pdf)
+
 <!-- 
 En aquesta web aniré penjant les solucions als exercicis que farem en els grups G10 i G50 de mecànica (en trobareu els enunciats a Atenea). En cada exercici indiquem la sessió en que es farà per tal que el pogueu treballar anticipadament. Les solucions aquí penjades us poden ajudar, però intenteu resoldre els exercicis per la vostra banda abans de mirar-les.
 -->
@@ -19,15 +21,13 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 
 ## Índex
 
-
-
-[Enunciats](https://atenea.upc.edu/pluginfile.php/6613027/mod_resource/content/24/2025-26%20QT%20Material%20Estudiants%20pre-parcials%20-%20CAT.pdf) - [FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Abreviacions](abreviacions.pdf) 
+[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Abreviacions](abreviacions.pdf) - [Catàleg forces](problemes/cataleg-forces.pdf)
 
 iP = Sessió de la setmana i-èssima
 
 | Preparcials | Postparcials |
 | ----------  | ------------ |
-| [1P: Introducció](#1p-introducció) | 8P: Enllaç PS + molles i amortidors   |
+| [1P: Introducció](#1p-introducció) | [8P: Molles i amortidors + Enllaç P-S](#8p-molles-i-amortidors-i-enllaç-partícula-superfície)   |
 | [2P: Derivació geomètrica i analítica](#2p-derivació-geomètrica-i-analítica)   | 9P: Dinàmica de la partícula          |
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler) | 10P: Geometria de masses              |
 | [4P: Composició de moviments](#4p-composició-de-moviments)        | 11P: Teoremes vectorials I            |
@@ -109,9 +109,13 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 7P: Exercicis i qüestions globals de cinemàtica
 
-[Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 29 OCT 23:07 per eliminar un error lleu. 27 OCT 14:10 per millorar la descripció del moviment del vehicle (1er exercici). Actualitzat 25 OCT 01:05 per arreglar petit error en l'acceleració de Coriolis del darrer exercici. A més, ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola respecte T (via més geomètrica i intuïtiva), i després per composició de moviments.
+[Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 29 OCT 23:07. He millorat la descripció del moviment del vehicle del 1er exercici, i de la cinemàtica de la seva roda del darrere. A més, ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola respecte T (via més geomètrica i intuïtiva), i després per composició de moviments.
 
 [Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt). Cliqueu "Play" a baix a l'esquerra. He suposat que la barra vermella és infinita, i negligit les col·lisions entre sòlids.
+
+## 8P: Molles i amortidors, i enllaç partícula-superfície
+
+[Solucions 8P](problemes/8P_sols.pdf) - Versió preliminar de 31 OCT 19:30.
 
 ## Bibliografia
 
