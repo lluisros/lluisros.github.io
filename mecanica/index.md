@@ -117,6 +117,8 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 [Solucions 8P](problemes/8P_sols.pdf) - Versió preliminar de 31 OCT 19:30.
 
+[Exercicis extra de molles i amortidors](problemes/8P_extra.pdf) - Penjat 3 NOV 18:15
+
 ## Bibliografia
 
 Wikimec:
