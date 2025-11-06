@@ -115,9 +115,11 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 8P: Molles i amortidors, i enllaç partícula-superfície
 
-[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 3 NOV 20:45
+[Solucions 8P](problemes/8P_sols.pdf)
 
-[Exercicis extra de molles i amortidors](problemes/8P_extra.pdf) - Penjat 3 NOV 18:15
+[Exercicis extra de molles i amortidors](problemes/8P_extra.pdf)
+
+Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 ## Bibliografia
 
