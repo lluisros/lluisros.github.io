@@ -28,7 +28,7 @@ iP = Sessió de la setmana i-èssima
 | Preparcials | Postparcials |
 | ----------  | ------------ |
 | [1P: Introducció](#1p-introducció) | [8P: Molles i amortidors + Enllaç P-S](#8p-molles-i-amortidors-i-enllaç-partícula-superfície)   |
-| [2P: Derivació geomètrica i analítica](#2p-derivació-geomètrica-i-analítica)   | 9P: Dinàmica de la partícula          |
+| [2P: Derivació geomètrica i analítica](#2p-derivació-geomètrica-i-analítica)   | [9P: Oscil·lacions i punts d'equilibri](#9p-oscillacions-i-punts-dequilibri)          |
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler) | 10P: Geometria de masses              |
 | [4P: Composició de moviments](#4p-composició-de-moviments)        | 11P: Teoremes vectorials I            |
 | [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)                    | 12P: Teoremes vectorials II           |
@@ -122,6 +122,10 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 [Solucions 8P](problemes/8P_sols.pdf). Actualitzat 9 NOV 20:50
 
 [Exercicis extra de molles i amortidors](problemes/8P_extra.pdf)
+
+## 9P: Oscil·lacions i punts d'equilibri
+
+[Solucions 9P](problemes/9P_sols.pdf) - Versió preliminar.
 
 ## Bibliografia
 
