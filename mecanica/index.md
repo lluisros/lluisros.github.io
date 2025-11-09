@@ -115,11 +115,13 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 8P: Molles i amortidors, i enllaç partícula-superfície
 
+Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
+
+[Transparències de molles i amortidors](problemes/8P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe (alguns potser ho preferireu).
+
 [Solucions 8P](problemes/8P_sols.pdf)
 
 [Exercicis extra de molles i amortidors](problemes/8P_extra.pdf)
-
-Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 ## Bibliografia
 
