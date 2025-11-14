@@ -127,6 +127,14 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 [Solucions 9P](problemes/9P_sols.pdf) - Actualitzat 14 NOV 19:00
 
+## Exemple d'examen final
+
+En poso un, però a la web de Mecànica a Atenea n'hi teniu molts, amb resolucions incloses:
+
+- [Exemple de problemes breus](examens/pbreus_final_juny_2025.pdf)
+- [Exemple de problema global](examens/pglobal_final_juny_2025.pdf)
+
+
 ## Bibliografia
 
 Wikimec:
