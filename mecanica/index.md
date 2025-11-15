@@ -125,7 +125,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 ## 9P: Oscil·lacions i punts d'equilibri
 
-[Solucions 9P](problemes/9P_sols.pdf) - Actualitzat 14 NOV 19:00
+[Solucions 9P](problemes/9P_sols.pdf) - Actualitzat 15 NOV 10:30
 
 ## Exemple d'examen final
 
