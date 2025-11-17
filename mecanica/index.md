@@ -29,7 +29,7 @@ iP = Sessió de la setmana i-èssima
 | ----------  | ------------ |
 | [1P: Introducció](#1p-introducció) | [8P: Molles i amortidors + Enllaç P-S](#8p-molles-i-amortidors-i-enllaç-partícula-superfície)   |
 | [2P: Derivació geomètrica i analítica](#2p-derivació-geomètrica-i-analítica)   | [9P: Oscil·lacions i punts d'equilibri](#9p-oscillacions-i-punts-dequilibri)          |
-| [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler) | 10P: Geometria de masses              |
+| [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler) | [10P: Geometria de masses](#10p-geometria-de-masses)              |
 | [4P: Composició de moviments](#4p-composició-de-moviments)        | 11P: Teoremes vectorials I            |
 | [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)                    | 12P: Teoremes vectorials II           |
 | [6P: CSR 2D + Cinemàtica de vehicles](#6p-cinemàtica-del-sòlid-rígid-2d--cinemàtica-de-vehicles)      | 13P: Teoremes vectorials III          |
@@ -126,6 +126,10 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 ## 9P: Oscil·lacions i punts d'equilibri
 
 [Solucions 9P](problemes/9P_sols.pdf) - Actualitzat 15 NOV 10:30
+
+## 10P: Geometria de masses
+
+[Solucions 10P](problemes/10P_sols.pdf) - Penjat 17 NOV 22:45
 
 ## Exemple d'examen final
 
