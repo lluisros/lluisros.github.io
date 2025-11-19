@@ -127,6 +127,8 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 [Solucions 9P](problemes/9P_sols.pdf) - Actualitzat 15 NOV 10:30
 
+[Transparències de classe](problemes/10P_slides.pdf).
+
 ## 10P: Geometria de masses
 
 [Solucions 10P](problemes/10P_sols.pdf) - Penjat 17 NOV 22:45
