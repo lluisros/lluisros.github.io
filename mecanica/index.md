@@ -119,7 +119,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 [Transparències de molles i amortidors](problemes/8P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe (alguns potser ho preferireu). Actualitzat 9 NOV 20:50
 
-[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 9 NOV 20:50
+[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 19 NOV 11:10.
 
 [Exercicis extra de molles i amortidors](problemes/8P_extra.pdf) - Actualitzat 11 NOV 18:20
 
