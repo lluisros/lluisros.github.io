@@ -30,7 +30,7 @@ iP = Sessió de la setmana i-èssima
 | [1P: Introducció](#1p-introducció) | [8P: Molles i amortidors + Enllaç P-S](#8p-molles-i-amortidors-i-enllaç-partícula-superfície)   |
 | [2P: Derivació geomètrica i analítica](#2p-derivació-geomètrica-i-analítica)   | [9P: Oscil·lacions i punts d'equilibri](#9p-oscillacions-i-punts-dequilibri)          |
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler) | [10P: Geometria de masses](#10p-geometria-de-masses)              |
-| [4P: Composició de moviments](#4p-composició-de-moviments)        | 11P: Teoremes vectorials I            |
+| [4P: Composició de moviments](#4p-composició-de-moviments)        | [11P: Teoremes vectorials I](#11p-teoremes-vectorials-i)            |
 | [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)                    | 12P: Teoremes vectorials II           |
 | [6P: CSR 2D + Cinemàtica de vehicles](#6p-cinemàtica-del-sòlid-rígid-2d--cinemàtica-de-vehicles)      | 13P: Teoremes vectorials III          |
 | [7P: Exercicis globals de cinemàtica](#7p-exercicis-i-qüestions-globals-de-cinemàtica)        | 14P: Teoremes vectorials IV           |
@@ -132,6 +132,12 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 [Solucions 10P](problemes/10P_sols.pdf) - Actualitzat 23 NOV 19:00
 
 [Transparències de classe](problemes/10P_slides.pdf) - Actualitzat 21 NOV 10:15
+
+## 11P: Teoremes vectorials I
+
+[Solucions 11P](problemes/11P_sols.pdf) - Versió preliminar de 26 NOV 11:45
+
+[Transparències de classe](problemes/11P_slides.pdf) - Versió preliminar de 26 NOV 11:45
 
 ## Exemple d'examen final
 
