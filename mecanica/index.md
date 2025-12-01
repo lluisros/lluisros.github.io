@@ -135,17 +135,20 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 ## 11P: Teoremes vectorials I
 
-[Solucions 11P](problemes/11P_sols.pdf) - Actualitzat 26 NOV 21:55
+[Solucions 11P](problemes/11P_sols.pdf) - Actualitzat 1 DEC 11:35
 
-[Transparències de classe](problemes/11P_slides.pdf) - Actualitzat 26 NOV 21:55
+[Transparències de classe](problemes/11P_slides.pdf) - Actualitzat 1 DEC 11:35
 
 ## Exemple d'examen final
 
-En poso un, però a la web de Mecànica a Atenea n'hi teniu molts, amb resolucions incloses:
+En penjo un, però a la web de Mecànica a Atenea n'hi teniu molts, amb resolucions incloses.
 
-- [Exemple de problemes breus](examens/pbreus_final_juny_2025.pdf)
-- [Exemple de problema global](examens/pglobal_final_juny_2025.pdf)
+L'examen final consta de dues parts de 1h i 45' cadascuna. A la primera se us demana de resoldre 5 problemes breus, i a la segona un problema global:
 
+- [Exemple de primera part (nota "PB")](examens/pbreus_final_juny_2025.pdf)
+- [Exemple de segona part (nota "PG")](examens/pglobal_final_juny_2025.pdf)
+
+Ho teniu tot explicat al [full informatiu](https://atenea.upc.edu/pluginfile.php/6613016/mod_resource/content/151/MEC%20-%20Full%20informatiu%202025-26%20QT.pdf).
 
 ## Bibliografia
 
