@@ -31,7 +31,7 @@ iP = Sessió de la setmana i-èssima
 | [2P: Derivació geomètrica i analítica](#2p-derivació-geomètrica-i-analítica)   | [9P: Oscil·lacions i punts d'equilibri](#9p-oscillacions-i-punts-dequilibri)          |
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler) | [10P: Geometria de masses](#10p-geometria-de-masses)              |
 | [4P: Composició de moviments](#4p-composició-de-moviments)        | [11P: Teoremes vectorials I](#11p-teoremes-vectorials-i)            |
-| [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)                    | 12P: Teoremes vectorials II           |
+| [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)                    | [12P: Teoremes vectorials II](#12p-teoremes-vectorials-ii)           |
 | [6P: CSR 2D + Cinemàtica de vehicles](#6p-cinemàtica-del-sòlid-rígid-2d--cinemàtica-de-vehicles)      | 13P: Teoremes vectorials III          |
 | [7P: Exercicis globals de cinemàtica](#7p-exercicis-i-qüestions-globals-de-cinemàtica)        | 14P: Teoremes vectorials IV           |
 
@@ -138,6 +138,12 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 [Solucions 11P](problemes/11P_sols.pdf) - Actualitzat 1 DEC 11:35
 
 [Transparències de classe](problemes/11P_slides.pdf) - Actualitzat 1 DEC 11:35
+
+## 12P: Teoremes vectorials II
+
+[Solucions 12P](problemes/12P_sols.pdf) - Versió preliminar 3 DEC 09:30
+
+[Transparències de classe](problemes/12P_slides.pdf) - Versió preliminar 3 DEC 09:30
 
 ## Exemple d'examen final
 
