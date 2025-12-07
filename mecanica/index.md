@@ -141,9 +141,9 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 ## 12P: Teoremes vectorials II
 
-[Solucions 12P](problemes/12P_sols.pdf) - Actualitzat 4 DEC 14:30
+[Solucions 12P](problemes/12P_sols.pdf) - Actualitzat 7 DEC 13:45
 
-[Transparències de classe](problemes/12P_slides.pdf) - Actualitzat 4 DEC 14:30
+[Transparències de classe](problemes/12P_slides.pdf) - Actualitzat 7 DEC 13:45
 
 ## Exemple d'examen final
 
