@@ -32,7 +32,7 @@ iP = Sessió de la setmana i-èssima
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler) | [10P: Geometria de masses](#10p-geometria-de-masses)              |
 | [4P: Composició de moviments](#4p-composició-de-moviments)        | [11P: Teoremes vectorials I](#11p-teoremes-vectorials-i)            |
 | [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)                    | [12P: Teoremes vectorials II](#12p-teoremes-vectorials-ii)           |
-| [6P: CSR 2D + Cinemàtica de vehicles](#6p-cinemàtica-del-sòlid-rígid-2d--cinemàtica-de-vehicles)      | 13P: Teoremes vectorials III          |
+| [6P: CSR 2D + Cinemàtica de vehicles](#6p-cinemàtica-del-sòlid-rígid-2d--cinemàtica-de-vehicles)      | [13P: Teoremes vectorials III](#13p-teoremes-vectorials-iii)          |
 | [7P: Exercicis globals de cinemàtica](#7p-exercicis-i-qüestions-globals-de-cinemàtica)        | 14P: Teoremes vectorials IV           |
 
 ## Recomanacions
