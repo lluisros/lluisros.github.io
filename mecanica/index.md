@@ -150,7 +150,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 [Enunciats](problemes/13P_enunciats.pdf) + [Solucions 13P](problemes/13P_sols.pdf) - Actualitzat 9 DEC 20:10
 
-[Transparències de classe](problemes/13P_slides.pdf) - Actualitzat 10 DEC 20:35
+[Transparències de classe](problemes/13P_slides.pdf) - Actualitzat 10 DEC 22:25
 
 ## Exemple d'examen final
 
