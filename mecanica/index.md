@@ -156,6 +156,8 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 [Solucions 14P](problemes/14P_sols.pdf) - Versió preliminar 17 DEC 00:45
 
+[Transparències de classe](problemes/14P_slides.pdf) - Versió preliminar 17 DEC 15:25.
+
 ## Exemple d'examen final
 
 En penjo un, però a la web de Mecànica a Atenea n'hi teniu molts, amb resolucions incloses.
