@@ -150,7 +150,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 [Enunciats](problemes/13P_enunciats.pdf) + [Solucions 13P](problemes/13P_sols.pdf) - Actualitzat 13 DEC 20:20 (afegides dues preguntes freqüents sobre el torsor indirecte de T sobre P1).
 
-[Transparències de classe](problemes/13P_slides.pdf) - Actualitzat 11 DEC 13:55.
+[Transparències de classe](problemes/13P_slides.pdf) - Actualitzat 11 DEC 19:50 (versió definitiva crec :)
 
 ## 14P: Teoremes vectorials IV
 
