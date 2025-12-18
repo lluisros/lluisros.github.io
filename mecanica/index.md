@@ -154,9 +154,9 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 ## 14P: Teoremes vectorials IV
 
-[Solucions 14P](problemes/14P_sols.pdf) - Actualitzat 11 DEC 21:40
+[Solucions 14P](problemes/14P_sols.pdf) - Actualitzat 18 DEC 14:45
 
-[Transparències de classe](problemes/14P_slides.pdf) - Actualitzat 11 DEC 19:50 (versió definitiva crec :)
+[Transparències de classe](problemes/14P_slides.pdf) - Actualitzat 17 DEC 19:50 (versió definitiva crec :)
 
 ## Exemple d'examen final
 
