@@ -119,7 +119,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 [Transparències de molles i amortidors](problemes/8P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe (alguns potser ho preferireu). Actualitzat 9 NOV 20:50
 
-[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 19 NOV 11:10.
+[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 19 NOV 11:10
 
 [Exercicis extra de molles i amortidors](problemes/8P_extra.pdf) - Actualitzat 11 NOV 18:20
 
@@ -141,7 +141,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 ## 12P: Teoremes vectorials II
 
-[Solucions 12P](problemes/12P_sols.pdf) - Actualitzat 23 DEC 19:55 (millora en la pregunta freqüent del problema "sistema en marxa enrere").
+[Solucions 12P](problemes/12P_sols.pdf) - Actualitzat 23 DEC 19:55 (millora en la pregunta freqüent del problema "sistema en marxa enrere")
 
 [Transparències de classe](problemes/12P_slides.pdf) - Actualitzat 7 DEC 13:45
 
@@ -154,9 +154,9 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 ## 14P: Teoremes vectorials IV
 
-[Solucions 14P](problemes/14P_sols.pdf) - Actualitzat 23 DEC 19:50 (afegida la solució del problema del disc rodant sobre plataforma).
+[Solucions 14P](problemes/14P_sols.pdf) - Actualitzat 23 DEC 19:50 (afegida la solució del problema del disc rodant sobre plataforma)
 
-[Transparències de classe](problemes/14P_slides.pdf) - Actualitzat 17 DEC 19:50 (versió definitiva crec :)
+[Transparències de classe](problemes/14P_slides.pdf) - Actualitzat 17 DEC 19:50
 
 ## Exemple d'examen final
 
