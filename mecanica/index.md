@@ -164,8 +164,8 @@ En penjo un, però a la web de Mecànica a Atenea n'hi teniu molts, amb resoluci
 
 L'examen final consta de dues parts de 1h i 45' cadascuna. A la primera se us demana de resoldre 5 problemes breus, i a la segona un problema global:
 
-- [Exemple de primera part (nota "PB")](examens/pbreus_final_juny_2025.pdf)
-- [Exemple de segona part (nota "PG")](examens/pglobal_final_juny_2025.pdf)
+- Exemple de 1a part (nota "PB"): [Enunciats](examens/pbreus_final_juny_2025.pdf) i  [Resolucions](examens/pbreus_final_juny_2025_sols.pdf).
+- Exemple de 2a part (nota "PG"): [Enunciat](examens/pglobal_final_juny_2025.pdf) i [Resolució](pglobal_final_juny_2025_sol.pdf).
 
 Ho teniu tot explicat al [full informatiu](https://atenea.upc.edu/pluginfile.php/6613016/mod_resource/content/151/MEC%20-%20Full%20informatiu%202025-26%20QT.pdf).
 
