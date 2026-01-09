@@ -101,11 +101,11 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 6P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
-[Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 22 OCT 10:55 per eliminar una lleu errada a la pàg. 19. Actualitzat 18 OCT 22:50 per ampliar l'explicació del 3er exercici (important) i millorar la introducció a cinemàtica de vehicles (també important). Prego que us ho mireu.
+[Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 22 OCT 10:55.
 
 [Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf) - Actualitzat 27 Oct 23:50.
 
-[Animació Geogebra del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - Cliqueu "Play" a baix a l'esquerra.
+[Animació Geogebra del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - "Play" a baix a l'esquerra!
 
 ## 7P: Exercicis i qüestions globals de cinemàtica
 
@@ -117,7 +117,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
-[Transparències de molles i amortidors](problemes/8P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe (alguns potser ho preferireu). Actualitzat 9 NOV 20:50
+[Transparències de molles i amortidors](problemes/8P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe. Actualitzat 9 NOV 20:50
 
 [Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 19 NOV 11:10
 
@@ -154,22 +154,9 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 ## 14P: Teoremes vectorials IV
 
-[Solucions 14P](problemes/14P_sols.pdf) - Actualitzat 29 DEC 14:20 (corregits errors en taula de la pàg. 42). Actualitzat 23 DEC 19:50 (afegida la solució del problema del disc rodant sobre plataforma).
+[Solucions 14P](problemes/14P_sols.pdf) - Actualitzat 29 DEC 14:20.
 
 [Transparències de classe](problemes/14P_slides.pdf) - Actualitzat 17 DEC 19:50
-
-[Exercicis extra de reforç](problemes/14P_extra.pdf).
-
-## Exemple d'examen final
-
-En penjo un, però a la web de Mecànica a Atenea n'hi teniu molts, amb resolucions incloses.
-
-L'examen final consta de dues parts de 1h i 45' cadascuna. A la primera se us demana de resoldre 5 problemes breus, i a la segona un problema global:
-
-- Exemple de 1a part (nota "PB"): [Enunciats](examens/pbreus_final_juny_2025.pdf) i  [Resolucions](examens/pbreus_final_juny_2025_sols.pdf).
-- Exemple de 2a part (nota "PG"): [Enunciat](examens/pglobal_final_juny_2025.pdf) i [Resolució](pglobal_final_juny_2025_sol.pdf).
-
-Ho teniu tot explicat al [full informatiu](https://atenea.upc.edu/pluginfile.php/6613016/mod_resource/content/151/MEC%20-%20Full%20informatiu%202025-26%20QT.pdf).
 
 ## Bibliografia
 
