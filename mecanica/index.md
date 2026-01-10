@@ -95,7 +95,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 5P: Cinemàtica del sòlid rígid 3D
 
-[Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 19 OCT 14:35. Ara, l'últim problema de la bola està resolt per tres vies diferents.
+[Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 19 OCT 14:35. Ara, l'últim problema de la bola es resol per tres vies diferents.
 
 [Exercici extra de CSR 3D](problemes/5P_extra.pdf) - Actualitzat 27 OCT 23:40
 
@@ -111,7 +111,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 7P: Exercicis i qüestions globals de cinemàtica
 
-[Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 29 OCT 23:07. He millorat la descripció del moviment del vehicle del 1er exercici, i de la cinemàtica de la seva roda del darrere. A més, ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola respecte T (via més geomètrica i intuïtiva), i després per composició de moviments.
+[Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 29 OCT 23:07. He detallat més la descripció del moviment del vehicle del 1er exercici, i de la cinemàtica de la seva roda del darrere. A més, ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola respecte T (via més geomètrica i intuïtiva), i després per composició de moviments.
 
 
 
