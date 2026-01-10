@@ -43,10 +43,12 @@ Abans de cada sessió:
 2. Llegiu amb cura els enunciats, entenent com es mou el sistema.
 2. Intenteu resoldre les parts que pugueu.
 
+<!-- 
 Durant la sessió:
 
 1. Preneu apunts breus.
 2. Pregunteu dubtes que us sorgeixin. 
+-->
 
 Després de la sessió: 
 1. Refeu els exercicis vosaltres, entenent-los a fons.
