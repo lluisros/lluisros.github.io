@@ -105,13 +105,15 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 [Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf) - Actualitzat 27 Oct 23:50.
 
-[Animació Geogebra del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - "Play" a baix a l'esquerra!
+[Animació del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - "Play" a baix a l'esquerra!
+
+[Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt) - "Play" a baix a l'esquerra. He suposat que la barra és infinita, i negligit les col·lisions entre sòlids.
 
 ## 7P: Exercicis i qüestions globals de cinemàtica
 
 [Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 29 OCT 23:07. He millorat la descripció del moviment del vehicle del 1er exercici, i de la cinemàtica de la seva roda del darrere. A més, ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola respecte T (via més geomètrica i intuïtiva), i després per composició de moviments.
 
-[Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt). Cliqueu "Play" a baix a l'esquerra. He suposat que la barra vermella és infinita, i negligit les col·lisions entre sòlids.
+
 
 ## 8P: Molles i amortidors, i enllaç partícula-superfície
 
