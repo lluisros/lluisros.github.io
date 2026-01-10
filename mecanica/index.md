@@ -21,7 +21,7 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 
 ## Índex
 
-[FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Abreviacions](abreviacions.pdf) - [Catàleg forces](problemes/cataleg-forces.pdf)
+[Wikimec](https://mec.etseib.upc.edu) - [FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf) - [Abreviacions](abreviacions.pdf) - [Catàleg forces](problemes/cataleg-forces.pdf)
 
 iP = Sessió de la setmana i-èssima
 
@@ -93,13 +93,13 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 [Diapositives de 4P](problemes/4P_slides.pdf)
 
-[Exercici extra de composició de moviments](problemes/4P_extra.pdf) - Actualitzat 27 OCT 23:30
+[Exercicis extra de composició de moviments](problemes/4P_extra.pdf) - Actualitzat 27 OCT 23:30.
 
 ## 5P: Cinemàtica del sòlid rígid 3D
 
 [Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 19 OCT 14:35. Ara, l'últim problema de la bola es resol per tres vies diferents.
 
-[Exercici extra de CSR 3D](problemes/5P_extra.pdf) - Actualitzat 27 OCT 23:40
+[Exercicis extra de CSR 3D](problemes/5P_extra.pdf) - Actualitzat 27 OCT 23:40.
 
 ## 6P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
@@ -109,7 +109,7 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 [Animació del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - "Play" a baix a l'esquerra!
 
-[Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt) - "Play" a baix a l'esquerra. He suposat que la barra és infinita, i negligit les col·lisions entre sòlids.
+[Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt) - "Play" a baix a l'esquerra. S'ha suposat que la barra és infinita, i que no hi ha col·lisions entre sòlids.
 
 ## 7P: Exercicis i qüestions globals de cinemàtica
 
@@ -119,35 +119,35 @@ Teoria necessària: [C1, a partir de C1.4](https://mec.etseib.upc.edu/ca/index.p
 
 ## 8P: Molles i amortidors, i enllaç partícula-superfície
 
-Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
+Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
-[Transparències de molles i amortidors](problemes/8P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe. Actualitzat 9 NOV 20:50
+[Transparències de molles i amortidors](problemes/8P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe. Actualitzat 9 NOV 20:50.
 
-[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 19 NOV 11:10
+[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 19 NOV 11:10.
 
 [Exercicis extra de molles i amortidors](problemes/8P_extra.pdf) - Actualitzat 29 DEC 23:25. Arreglat lleu error del darrer exercici.
 
 ## 9P: Oscil·lacions i punts d'equilibri
 
-[Solucions 9P](problemes/9P_sols.pdf) - Actualitzat 15 NOV 10:30
+[Solucions 9P](problemes/9P_sols.pdf) - Actualitzat 15 NOV 10:30.
 
 ## 10P: Geometria de masses
 
-[Solucions 10P](problemes/10P_sols.pdf) - Actualitzat 23 NOV 19:00
+[Solucions 10P](problemes/10P_sols.pdf) - Actualitzat 23 NOV 19:00.
 
-[Transparències de classe](problemes/10P_slides.pdf) - Actualitzat 21 NOV 10:15
+[Transparències de classe](problemes/10P_slides.pdf) - Actualitzat 21 NOV 10:15.
 
 ## 11P: Teoremes vectorials I
 
-[Solucions 11P](problemes/11P_sols.pdf) - Actualitzat 1 DEC 11:35
+[Solucions 11P](problemes/11P_sols.pdf) - Actualitzat 1 DEC 11:35.
 
-[Transparències de classe](problemes/11P_slides.pdf) - Actualitzat 1 DEC 11:35
+[Transparències de classe](problemes/11P_slides.pdf) - Actualitzat 1 DEC 11:35.
 
 ## 12P: Teoremes vectorials II
 
 [Solucions 12P](problemes/12P_sols.pdf) - Actualitzat 23 DEC 19:55 (millora en la pregunta freqüent del problema "sistema en marxa enrere")
 
-[Transparències de classe](problemes/12P_slides.pdf) - Actualitzat 7 DEC 13:45
+[Transparències de classe](problemes/12P_slides.pdf) - Actualitzat 7 DEC 13:45.
 
 ## 13P: Teoremes vectorials III
 
@@ -160,7 +160,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8
 
 [Solucions 14P](problemes/14P_sols.pdf) - Actualitzat 29 DEC 14:20.
 
-[Transparències de classe](problemes/14P_slides.pdf) - Actualitzat 17 DEC 19:50
+[Transparències de classe](problemes/14P_slides.pdf) - Actualitzat 17 DEC 19:50.
 
 ## Bibliografia
 
@@ -186,12 +186,13 @@ Llibres de referència:
 * J. Agulló i Batlle, ["Mecànica de la partícula i del sòlid rígid"](https://drive.google.com/file/d/1N22VNGK_2FQnVZzZuqxPn2JlbAflULm6/view), Publicacions OK punt, 2002.  
 
 ## Enllaços
-* [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf).
-* [Full informatiu](https://atenea.upc.edu/pluginfile.php/6613016/mod_resource/content/151/MEC%20-%20Full%20informatiu%202025-26%20QT.pdf).
-* [Horaris](horaris.png).
-* [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf).
-* [FAQ - Preguntes freqüents](faqp.html).
-* [Edició prèvia 2024-25 QP](Arxiu/2024-25-QP/index.md).
+* [Wikimec](https://mec.etseib.upc.edu)
+* [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf)
+* [Full informatiu](https://atenea.upc.edu/pluginfile.php/6613016/mod_resource/content/151/MEC%20-%20Full%20informatiu%202025-26%20QT.pdf)
+* [Horaris](horaris.png)
+* [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf)
+* [FAQ](faqp.html)
+* [Edició 2024-25 QP](Arxiu/2024-25-QP/index.md)
 
 <!--
 * [Full informatiu](https://atenea.upc.edu/pluginfile.php/6389778/mod_resource/content/146/MEC%20-%20Full%20informatiu%202024-25%20QP.pdf)
