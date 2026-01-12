@@ -120,7 +120,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 9P: Geometria de masses
 
-[Lliçó completa](problemes/9P.pdf) + [Diapositives de classe](problemes/9P_slides.pdf) - Actualitzat 27 MAI 16:37 (correcció de petits errors a l'exemple D5.9 + petits detalls afegits a la definició de rotor simètric/esfèric + precisió sobre casos en que el tensor d'inèrcia és constant).
+[Lliçó completa](problemes/9P.pdf) + [Diapositives de classe](problemes/9P_slides.pdf) - Actualitzat 27 MAI 16:37.
 
 ## 10P: Oscil·lacions i punts d'equilibri
 
@@ -134,7 +134,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 12P: Teoremes vectorials 2D
 
-[Lliçó resumida](problemes/12P.pdf) - Actualitzat 14 MAIG 21:07. Només penjo els càlculs i ja afegireu els comentaris que calguin, d'acord amb el que expliqui a classe.
+[Lliçó resumida](problemes/12P.pdf) - Actualitzat 14 MAIG 21:07.
 
 [Diapositives de classe](problemes/11P_slides.pdf)
 
