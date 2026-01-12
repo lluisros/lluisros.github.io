@@ -192,10 +192,14 @@ Llibres de referència:
 * [Horaris](horaris.png)
 * [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf)
 * [FAQ](faqp.html)
-* [Edició 2024-25 QP](Arxiu/2024-25-QP/index.md)
 
 <!--
+
+* [Edició 2024-25 QP](Arxiu/2024-25-QP/index.md)
+
+
 * [Full informatiu](https://atenea.upc.edu/pluginfile.php/6389778/mod_resource/content/146/MEC%20-%20Full%20informatiu%202024-25%20QP.pdf)
 * [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
+
 -->
 
