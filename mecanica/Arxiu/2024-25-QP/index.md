@@ -18,7 +18,7 @@ per la vostra banda, afegint-hi les explicacions que donarem a classe.
 
 ## Índex
 
-[FAQ](faqp.html) - [Formulari](problemes/formulari.pdf) - [Wikimec](https://mec.etseib.upc.edu) - [Catàleg forces](problemes/cataleg-forces.pdf)
+[Wikimec](https://mec.etseib.upc.edu) - [FAQ](faqp.html) - [Formulari](problemes/formulari.pdf) - [Catàleg forces](problemes/cataleg-forces.pdf)
 
 <!-- iP = Sessió de la setmana i-èssima: 
 
@@ -140,7 +140,7 @@ Teoria necessària: [D1 fins a D1.6](https://mec.etseib.upc.edu/ca/index.php?tit
 
 ## 13P: Teoremes vectorials 3D
 
-[Enunciats](problemes/13P_enunciats.pdf) + [Solucions](problemes/13P.pdf) - Actualitzat 7 JUNY 21:57: Afegit el càlcul del parell motor en el problema del disc rodant sobre plataforma. MAIG 15:30: Afegit el càlcul de parells motor en el problema de la closca. Arreglat un error en el problema del disc rodant sobre plataforma (velocitat angular de la base en la derivada analítica del moment cinètic), i afegits petits comentaris.
+[Enunciats](problemes/13P_enunciats.pdf) + [Solucions](problemes/13P.pdf) - Actualitzat 7 JUNY 21:57: Afegit el càlcul del parell motor en el problema del disc rodant sobre plataforma. MAIG 15:30: Afegit el càlcul de parells motor en el problema de la closca.
 
 [Recordatori sobre com modelitzar contactes puntuals](problemes/13P_cp.pdf).
 
