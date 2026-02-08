@@ -4,7 +4,7 @@
 
 # Problemes G10 i G50 #
 
-Mecànica: Curs 2025/26 (Tardor)
+Mecànica: Curs 2025-26 Q1 (Tardor)
 
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/fitxa-geti)  
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
