@@ -9,14 +9,16 @@ Mecànica: Curs 2025-26 Q2 (Primavera)
 
 Benvinguts! En aquesta web hi trobareu material relatiu als grups G20 i G40 de problemes de Mecànica: els exercicis que farem en cada sessió, les seves solucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
 
-Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/6869470/mod_resource/content/27/2025-26%20QP%20Material%20pre-parcials.pdf)
+[Full informatiu](full_informatiu.pdf) + [decàleg](decaleg.pdf)
+
+Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/6869470/mod_resource/content/27/2025-26%20QP%20Material%20pre-parcials.pdf) - Postparcials
 
 ## Índex
 
-[Wikimec](https://mec.etseib.upc.edu) - [FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6869469/mod_resource/content/91/MEC%20-%20Formulari%202025-26%20QP.pdf) - [Abreviacions](abreviacions.pdf) 
+[Wikimec](https://mec.etseib.upc.edu) - [FAQ](faqp.html) - [Formulari](formulari.pdf) - [Abreviacions](abreviacions.pdf) 
 
 <!-- 
-- [Catàleg forces](problemes/cataleg-forces.pdf)
+- [Catàleg forces](cataleg-forces.pdf)
 -->
 
 iP = Sessió de la setmana i-èssima
