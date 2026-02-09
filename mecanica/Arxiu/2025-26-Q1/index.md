@@ -11,7 +11,7 @@ Mecànica: Curs 2025-26 Q1 (Tardor)
 
 En aquesta web hi trobareu material relatiu als grups G10 i G50 de problemes de Mecànica: els exercicis que farem en cada sessió, les seves solucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
 
-Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/6613027/mod_resource/content/24/2025-26%20QT%20Material%20Estudiants%20pre-parcials%20-%20CAT.pdf) - [Postparcials](https://atenea.upc.edu/pluginfile.php/6613028/mod_resource/content/25/2025-26%20QT%20Material%20Estudiants%20post-parcials%20-%20CAT.pdf)
+Enunciats per dur a classe: [Preparcials](material-preparcials-estudiants.pdf) - [Postparcials](material-postparcials-estudiants.pdf)
 
 <!-- 
 En aquesta web aniré penjant les solucions als exercicis que farem en els grups G10 i G50 de mecànica (en trobareu els enunciats a Atenea). En cada exercici indiquem la sessió en que es farà per tal que el pogueu treballar anticipadament. Les solucions aquí penjades us poden ajudar, però intenteu resoldre els exercicis per la vostra banda abans de mirar-les.
@@ -23,7 +23,7 @@ En aquesta web penjaré solucions d'exercicis fets, o deixats com a deures, en e
 
 ## Índex
 
-[Wikimec](https://mec.etseib.upc.edu) - [FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf) - [Abreviacions](abreviacions.pdf) - [Catàleg forces](problemes/cataleg-forces.pdf)
+[Wikimec](https://mec.etseib.upc.edu) - [FAQ](faqp.html) - [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf) - [Abreviacions](abreviacions.pdf) - [Catàleg forces](cataleg-forces.pdf)
 
 iP = Sessió de la setmana i-èssima
 

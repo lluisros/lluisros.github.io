@@ -181,9 +181,7 @@ Llibres de referència:
 * [FAQ](faqp.html)
 
 
-* Edicions anteriors: 
-    - [2025-26 Q1](Arxiu/2025-26-Q1/index.md)
-    - [2024-25 Q2](Arxiu/2024-25-Q2/index.md)
+* Edicions anteriors: [[2025-26 Q1](Arxiu/2025-26-Q1/index.md)] - [[2024-25 Q2](Arxiu/2024-25-Q2/index.md)]
 
 
 <!--
