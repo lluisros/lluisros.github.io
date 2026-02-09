@@ -175,9 +175,9 @@ Llibres de referència:
 
 ## Enllaços
 * [Wikimec](https://mec.etseib.upc.edu)
-* [Formulari](https://atenea.upc.edu/pluginfile.php/6613026/mod_resource/content/89/MEC%20-%20Formulari%202025-26%20QT.pdf)
-* [Full informatiu](https://atenea.upc.edu/pluginfile.php/6869459/mod_resource/content/152/MEC%20-%20Full%20informatiu%202025-26%20QP.pdf)
-* [Decàleg de bones pràctiques als exàmens](decaleg.pdf)
+* [Formulari](formulari.pdf)
+* [Full informatiu](full_informatiu.pdf)
+* [Decàleg per als exàmens](decaleg.pdf)
 * [Horaris](horaris.pdf)
 * [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf)
 * [FAQ](faqp.html)
