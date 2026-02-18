@@ -56,7 +56,7 @@ Després de la sessió:
 
 ## 1P: Bases i derivació analítica
 
-[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 14 SET 13:20
+[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 18 FEB 22:40
 
 <!-- 
 
