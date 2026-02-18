@@ -181,10 +181,7 @@ Llibres de referència:
 * [Horaris](horaris.pdf)
 * [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf)
 * [FAQ](faqp.html)
-
-
 * Edicions anteriors: [[2025-26 Q1](Arxiu/2025-26-Q1/index.md)] - [[2024-25 Q2](Arxiu/2024-25-Q2/index.md)]
-
 
 <!--
 
