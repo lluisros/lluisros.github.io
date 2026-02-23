@@ -26,7 +26,7 @@ iP = Sessió de la setmana i-èssima
 | Preparcials | Postparcials |
 | ----------  | ------------ |
 | [1P: Bases i derivació analítica](#1p-bases-i-derivació-analítica) | 7P: Molles i amortidors + Enllaç P-S |
-| 2P: Derivació + Angles d'Euler   | 8P: Oscil·lacions i punts d'equilibri    |
+| [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | 8P: Oscil·lacions i punts d'equilibri    |
 | 3P: Composició de moviments | 9P: Geometria de masses |
 | 4P: CSR 3D        | 10P: Teoremes vectorials I |
 | 5P: CSR 2D + Cinemàtica de vehicles                    | 11P: Teoremes vectorials II |
@@ -56,24 +56,20 @@ Després de la sessió:
 
 ## 1P: Bases i derivació analítica
 
-[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 18 FEB 23:05
+[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 23 FEB 20:40
 
-<!-- 
+## 2P: Derivació + angles d'Euler
 
-## 2P: Derivació geomètrica i analítica
-
-[Solucions 2P](problemes/2P_sols.pdf) - Actualitzat 22 SET 21:26
-
-## 3P: Derivació + angles d'Euler
-
-[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 24 SET 21:35
-
-[Exercici extra de càlcul d'una acceleració angular](problemes/3P_extra.pdf) - Actualitzat 11 OCT 19:20
+[Solucions 3P](problemes/2P_sols.pdf) - Versió preliminar
 
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
 * [Pilotatge amb línia de control](https://www.youtube.com/watch?v=wZavLFRsMHg&t=179s).
 * [Angles d'Euler al giroscopi](https://www.youtube.com/watch?v=ON0VWB34Dso).
+
+<!-- 
+
+[Exercici extra de càlcul d'una acceleració angular](problemes/3P_extra.pdf) - Actualitzat 11 OCT 19:20
 
 ## 4P: Composició de moviments
 
