@@ -60,7 +60,7 @@ Després de la sessió:
 
 ## 2P: Derivació + angles d'Euler
 
-[Solucions 3P](problemes/2P_sols.pdf) - Versió preliminar
+[Solucions 2P](problemes/2P_sols.pdf) - Actualitzat 26 FEB 21:09
 
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
