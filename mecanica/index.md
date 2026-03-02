@@ -27,7 +27,7 @@ iP = Sessió de la setmana i-èssima
 | ----------  | ------------ |
 | [1P: Bases i derivació analítica](#1p-bases-i-derivació-analítica) | 7P: Molles i amortidors + Enllaç P-S |
 | [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | 8P: Oscil·lacions i punts d'equilibri    |
-| 3P: Composició de moviments | 9P: Geometria de masses |
+| [3P: Composició de moviments](#3p-composició-de-moviments) | 9P: Geometria de masses |
 | 4P: CSR 3D        | 10P: Teoremes vectorials I |
 | 5P: CSR 2D + Cinemàtica de vehicles                    | 11P: Teoremes vectorials II |
 | 6P: Exercicis globals de cinemàtica  | 12P: Teoremes vectorials III |
@@ -73,13 +73,21 @@ Vídeos:
 
 [Exercici extra de càlcul d'una acceleració angular](problemes/3P_extra.pdf) - Actualitzat 11 OCT 19:20
 
-## 4P: Composició de moviments
+-->
 
-[Solucions 4P](problemes/4P_sols.pdf) - Actualitzat 3 OCT 13:05.
+## 3P: Composició de moviments
 
+[Solucions 3P](problemes/3P_sols.pdf) - Versió preliminar 2 MAR 19:35
+
+<!-- 
 [Diapositives de 4P](problemes/4P_slides.pdf)
 
 [Exercicis extra de composició de moviments](problemes/4P_extra.pdf) - Actualitzat 27 OCT 23:30.
+-->
+
+
+
+<!-- 
 
 ## 5P: Cinemàtica del sòlid rígid 3D
 
