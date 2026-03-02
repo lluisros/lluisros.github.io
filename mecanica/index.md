@@ -62,6 +62,8 @@ Després de la sessió:
 
 [Solucions 2P](problemes/2P_sols.pdf) - Actualitzat 26 FEB 21:09
 
+[Exercici extra que combina derivació i angles d'Euler](problemes/2P_extra.pdf) - Penjat 2 MAR 19:25
+
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
 * [Pilotatge amb línia de control](https://www.youtube.com/watch?v=wZavLFRsMHg&t=179s).
