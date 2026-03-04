@@ -62,7 +62,7 @@ Després de la sessió:
 
 [Solucions 2P](problemes/2P_sols.pdf) - Actualitzat 26 FEB 21:09
 
-[Exercici extra que combina derivació i angles d'Euler](problemes/2P_extra.pdf) - Penjat 2 MAR 19:25
+[Exercicis extra sobre angles d'Euler](problemes/2P_extra.pdf) - Actualitzat 4 MAR 15:05
 
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
