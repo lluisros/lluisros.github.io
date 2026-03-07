@@ -79,8 +79,10 @@ Vídeos:
 
 [Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 3 MAR 20:25
 
+
+[Diapositives de 3P](problemes/3P_slides.pdf).
+
 <!-- 
-[Diapositives de 4P](problemes/4P_slides.pdf)
 
 [Exercicis extra de composició de moviments](problemes/4P_extra.pdf) - Actualitzat 27 OCT 23:30.
 -->
