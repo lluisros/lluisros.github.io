@@ -77,7 +77,7 @@ Vídeos:
 
 ## 3P: Composició de moviments
 
-[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 3 MAR 20:25
+[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 9 MAR 18:18
 
 
 [Diapositives de 3P](problemes/3P_slides.pdf).
