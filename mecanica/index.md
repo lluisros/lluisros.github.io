@@ -190,6 +190,37 @@ Llibres de referència:
 * [FAQ](faqp.html)
 * Edicions anteriors: [[2025-26 Q1](Arxiu/2025-26-Q1/index.md)] - [[2024-25 Q2](Arxiu/2024-25-Q2/index.md)]
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 
 * [Full informatiu](https://atenea.upc.edu/pluginfile.php/6389778/mod_resource/content/146/MEC%20-%20Full%20informatiu%202024-25%20QP.pdf)
