@@ -28,7 +28,7 @@ iP = Sessió de la setmana i-èssima
 | [1P: Bases i derivació analítica](#1p-bases-i-derivació-analítica) | 7P: Molles i amortidors + Enllaç P-S |
 | [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | 8P: Oscil·lacions i punts d'equilibri    |
 | [3P: Composició de moviments](#3p-composició-de-moviments) | 9P: Geometria de masses |
-| 4P: CSR 3D        | 10P: Teoremes vectorials I |
+| [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | 10P: Teoremes vectorials I |
 | 5P: CSR 2D + Cinemàtica de vehicles                    | 11P: Teoremes vectorials II |
 | 6P: Exercicis globals de cinemàtica  | 12P: Teoremes vectorials III |
 |         | 13P: Teoremes vectorials IV |
@@ -88,12 +88,11 @@ Vídeos:
 -->
 
 
+## 4P: Cinemàtica del sòlid rígid 3D
+
+[Solucions 4P](problemes/4P_sols.pdf) - Versió preliminar 10 MAR 13:10
 
 <!-- 
-
-## 5P: Cinemàtica del sòlid rígid 3D
-
-[Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 19 OCT 14:35. Ara, l'últim problema de la bola es resol per tres vies diferents.
 
 [Exercicis extra de CSR 3D](problemes/5P_extra.pdf) - Actualitzat 27 OCT 23:40.
 
