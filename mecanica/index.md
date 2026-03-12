@@ -90,7 +90,7 @@ Vídeos:
 
 ## 4P: Cinemàtica del sòlid rígid 3D
 
-[Solucions 4P](problemes/4P_sols.pdf) - Versió preliminar 10 MAR 13:10
+[Solucions 4P](problemes/4P_sols.pdf) - Actualitzat 12 MAR 21:05
 
 <!-- 
 
