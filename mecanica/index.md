@@ -29,7 +29,7 @@ iP = Sessió de la setmana i-èssima
 | [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | 8P: Oscil·lacions i punts d'equilibri    |
 | [3P: Composició de moviments](#3p-composició-de-moviments) | 9P: Geometria de masses |
 | [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | 10P: Teoremes vectorials I |
-| 5P: CSR 2D + Cinemàtica de vehicles                    | 11P: Teoremes vectorials II |
+| [5P: CSR 2D + Cinemàtica de vehicles](#5p-cinemàtica-del-sòlid-rígid-2d--cinemàtica-de-vehicles)                    | 11P: Teoremes vectorials II |
 | 6P: Exercicis globals de cinemàtica  | 12P: Teoremes vectorials III |
 |         | 13P: Teoremes vectorials IV |
 
@@ -96,15 +96,21 @@ Vídeos:
 
 [Exercicis extra de CSR 3D](problemes/5P_extra.pdf) - Actualitzat 27 OCT 23:40.
 
-## 6P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
+-->
 
-[Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 22 OCT 10:55.
+## 5P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
+[Solucions 5P](problemes/5P_sols.pdf) - Versió preliminar 16 MAR 23:55
+
+<!-- 
 [Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf) - Actualitzat 27 Oct 23:50.
+-->
 
 [Animació del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - "Play" a baix a l'esquerra!
 
 [Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt) - "Play" a baix a l'esquerra. S'ha suposat que la barra és infinita, i que no hi ha col·lisions entre sòlids.
+
+<!-- 
 
 ## 7P: Exercicis i qüestions globals de cinemàtica
 
