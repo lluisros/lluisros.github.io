@@ -88,7 +88,7 @@ Vídeos:
 
 [Solucions 5P](problemes/5P_sols.pdf) - Versió preliminar 18 MAR 20:30
 
-[Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf).
+[Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/5P_extra.pdf).
 
 [Animació del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - "Play" a baix a l'esquerra!
 
