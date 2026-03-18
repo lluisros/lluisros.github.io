@@ -100,7 +100,7 @@ Vídeos:
 
 ## 5P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
-[Solucions 5P](problemes/5P_sols.pdf) - Versió preliminar 16 MAR 23:55
+[Solucions 5P](problemes/5P_sols.pdf) - Versió preliminar 18 MAR 20:30
 
 <!-- 
 [Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf) - Actualitzat 27 Oct 23:50.
