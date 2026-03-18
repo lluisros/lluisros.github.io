@@ -69,12 +69,6 @@ Vídeos:
 * [Pilotatge amb línia de control](https://www.youtube.com/watch?v=wZavLFRsMHg&t=179s).
 * [Angles d'Euler al giroscopi](https://www.youtube.com/watch?v=ON0VWB34Dso).
 
-<!-- 
-
-[Exercici extra de càlcul d'una acceleració angular](problemes/3P_extra.pdf) - Actualitzat 11 OCT 19:20
-
--->
-
 ## 3P: Composició de moviments
 
 [Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 9 MAR 18:18
@@ -82,29 +76,19 @@ Vídeos:
 
 [Diapositives de 3P](problemes/3P_slides.pdf).
 
-<!-- 
-
-[Exercicis extra de composició de moviments](problemes/4P_extra.pdf) - Actualitzat 27 OCT 23:30.
--->
-
+[Exercicis extra de composició de moviments](problemes/3P_extra.pdf).
 
 ## 4P: Cinemàtica del sòlid rígid 3D
 
 [Solucions 4P](problemes/4P_sols.pdf) - Actualitzat 12 MAR 21:05
 
-<!-- 
-
-[Exercicis extra de CSR 3D](problemes/5P_extra.pdf) - Actualitzat 27 OCT 23:40.
-
--->
+[Exercicis extra de CSR 3D](problemes/4P_extra.pdf).
 
 ## 5P: Cinemàtica del sòlid rígid 2D + cinemàtica de vehicles
 
 [Solucions 5P](problemes/5P_sols.pdf) - Versió preliminar 18 MAR 20:30
 
-<!-- 
-[Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf) - Actualitzat 27 Oct 23:50.
--->
+[Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/6P_extra.pdf).
 
 [Animació del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - "Play" a baix a l'esquerra!
 
