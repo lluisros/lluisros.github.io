@@ -94,6 +94,8 @@ Vídeos:
 
 [Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt) - "Play" a baix a l'esquerra. S'ha suposat que la barra és infinita, i que no hi ha col·lisions entre sòlids.
 
+[Animació de la bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false).
+
 <!-- 
 
 ## 7P: Exercicis i qüestions globals de cinemàtica
