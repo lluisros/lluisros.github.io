@@ -100,7 +100,7 @@ Animacions:
 
 ## 6P: Exercicis globals de cinemàtica
 
-[Solucions 6P](problemes/6P_sols.pdf) - Primera versió de 24 MAR 15:28.
+[Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 24 MAR 17:54.
 
 [Exercicis extra de cinemàtica](problemes/6P_extra.pdf).
 
