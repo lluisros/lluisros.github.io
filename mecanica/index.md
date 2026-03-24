@@ -86,15 +86,15 @@ Vídeos:
 
 ## 5P: CSR 2D + cinemàtica de vehicles
 
-[Solucions 5P](problemes/5P_sols.pdf) - Versió preliminar 18 MAR 20:30
+[Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 24 MAR 13:30
 
 [Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/5P_extra.pdf).
 
-[Animació del disc rodolant](https://www.geogebra.org/classic/tkb7md6s) - "Play" a baix a l'esquerra!
+Animacions: 
 
-[Animació de la barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt) - "Play" a baix a l'esquerra. S'ha suposat que la barra és infinita, i que no hi ha col·lisions entre sòlids.
-
-[Animació de la bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false).
+* [Disc rodolant](https://www.geogebra.org/classic/tkb7md6s): Feu "Play" a baix a l'esquerra!
+* [Barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt): Feu "Play" a baix a l'esquerra! S'ha suposat que la barra és infinita, i que no hi ha col·lisions entre sòlids.
+* [Bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false): Desplaceu H per a veure la trajectòria del punt del pedal.
 
 <!-- 
 
