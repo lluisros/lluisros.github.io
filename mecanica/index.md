@@ -30,7 +30,7 @@ iP = Sessió de la setmana i-èssima
 | [3P: Composició de moviments](#3p-composició-de-moviments) | 9P: Geometria de masses |
 | [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | 10P: Teoremes vectorials I |
 | [5P: CSR 2D + Cinemàtica de vehicles](#5p-csr-2d--cinemàtica-de-vehicles)                    | 11P: Teoremes vectorials II |
-| 6P: Exercicis globals de cinemàtica  | 12P: Teoremes vectorials III |
+| [6P: Exercicis globals de cinemàtica](#6p-exercicis-globals-de-cinemàtica)  | 12P: Teoremes vectorials III |
 |         | 13P: Teoremes vectorials IV |
 
 ## Recomanacions
@@ -92,15 +92,17 @@ Vídeos:
 
 Animacions: 
 
-* [Disc rodolant](https://www.geogebra.org/classic/tkb7md6s): Feu "Play" a baix a l'esquerra!
-* [Barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt): Feu "Play" a baix a l'esquerra! S'ha suposat que la barra és infinita, i que no hi ha col·lisions entre sòlids.
-* [Bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false): Desplaceu H per a veure la trajectòria del punt del pedal.
+* [Disc rodolant](https://www.geogebra.org/classic/tkb7md6s): "Play" a baix a l'esquerra!
+* [Barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt): "Play" a baix a l'esquerra! S'ha suposat una barra infinita i que no hi ha col·lisions entre sòlids.
+* [Bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false): Desplaceu H per a veure la trajectòria del pedal.
 
-<!-- 
+ 
 
-## 7P: Exercicis i qüestions globals de cinemàtica
+## 6P: Exercicis globals de cinemàtica
 
-[Solucions 7P](problemes/7P_sols.pdf) - Actualitzat 29 OCT 23:07. He detallat més la descripció del moviment del vehicle del 1er exercici, i de la cinemàtica de la seva roda del darrere. A més, ara el primer problema de la bola es resol per dues vies: primer trobant l'EI de la bola respecte T (via més geomètrica i intuïtiva), i després per composició de moviments.
+[Solucions 6P](problemes/6P_sols.pdf) - Primera versió de 24 MAR 15:28.
+
+<!--
 
 ## 8P: Molles i amortidors, i enllaç partícula-superfície
 
