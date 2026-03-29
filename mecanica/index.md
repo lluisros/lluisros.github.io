@@ -76,7 +76,7 @@ Vídeos:
 
 [Diapositives de 3P](problemes/3P_slides.pdf).
 
-[Exercicis extra de composició de moviments](problemes/3P_extra.pdf).
+[Exercicis extra de composició de moviments](problemes/3P_extra.pdf). Actualitzat 29 MAR 21:10
 
 ## 4P: Cinemàtica del sòlid rígid 3D
 
