@@ -25,7 +25,7 @@ iP = Sessió de la setmana i-èssima
 
 | Preparcials | Postparcials |
 | ----------  | ------------ |
-| [1P: Bases i derivació analítica](#1p-bases-i-derivació-analítica) | 7P: Molles i amortidors + Enllaç P-S |
+| [1P: Bases i derivació analítica](#1p-bases-i-derivació-analítica) | [7P: Molles i amortidors + Enllaç P-S](#7p-molles-i-amortidors-i-enllaç-partícula-superfície) |
 | [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | 8P: Oscil·lacions i punts d'equilibri    |
 | [3P: Composició de moviments](#3p-composició-de-moviments) | 9P: Geometria de masses |
 | [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | 10P: Teoremes vectorials I |
@@ -106,7 +106,8 @@ Animacions:
 
 
 
-## 8P: Molles i amortidors, i enllaç partícula-superfície
+
+## 7P: Molles i amortidors, i enllaç partícula-superfície
 
 Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
