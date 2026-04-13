@@ -104,17 +104,21 @@ Animacions:
 
 [Exercicis extra de cinemàtica](problemes/6P_extra.pdf).
 
-<!--
+
 
 ## 8P: Molles i amortidors, i enllaç partícula-superfície
 
 Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
-[Transparències de molles i amortidors](problemes/8P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe. Actualitzat 9 NOV 20:50.
+[Transparències de molles i amortidors](problemes/7P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe.
 
-[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 19 NOV 11:10.
+[Solucions 8P](problemes/7P_sols.pdf).
 
-[Exercicis extra de molles i amortidors](problemes/8P_extra.pdf) - Actualitzat 29 DEC 23:25. Arreglat lleu error del darrer exercici.
+<!--
+
+[Exercicis extra de molles i amortidors](problemes/8P_extra.pdf).
+
+
 
 ## 9P: Oscil·lacions i punts d'equilibri
 
