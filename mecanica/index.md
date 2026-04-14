@@ -109,11 +109,11 @@ Animacions:
 
 ## 7P: Molles i amortidors, i enllaç partícula-superfície
 
+Transparències de la teoria [amb notes explicatives](problemes/7P_slides_with_notes.pdf) i [sense](problemes/7P_slides.pdf).
+
+[Lliçó completa, amb resolucions dels exercicis](problemes/7P_sols.pdf).
+
 Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
-
-[Transparències de molles i amortidors](problemes/7P_mollam.pdf): s'hi presenten els criteris d'atracció i repulsió de manera deductiva tal i com he fet a classe.
-
-[Solucions 8P](problemes/7P_sols.pdf).
 
 <!--
 
