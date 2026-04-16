@@ -109,7 +109,7 @@ Animacions:
 
 ## 7P: Molles i amortidors, i enllaç partícula-superfície
 
-Transparències de la teoria [amb notes explicatives](problemes/7P_slides_with_notes.pdf) i [sense](problemes/7P_slides.pdf). Actualitzat 14 ABR 23:30.
+Transparències de la teoria [amb notes explicatives](problemes/7P_slides_with_notes.pdf) i [sense](problemes/7P_slides.pdf). Actualitzat 16 ABR 15:35.
 
 [Lliçó completa, amb resolucions dels exercicis](problemes/7P_sols.pdf). Actualitzat 14 ABR 23:30.
 
