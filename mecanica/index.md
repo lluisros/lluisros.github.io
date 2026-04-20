@@ -26,7 +26,7 @@ iP = Sessió de la setmana i-èssima
 | Preparcials | Postparcials |
 | ----------  | ------------ |
 | [1P: Bases i derivació analítica](#1p-bases-i-derivació-analítica) | [7P: Molles i amortidors + Enllaç P-S](#7p-molles-i-amortidors-i-enllaç-partícula-superfície) |
-| [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | 8P: Oscil·lacions i punts d'equilibri    |
+| [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | [8P: Oscil·lacions i punts d'equilibri](#8p-oscillacions-i-punts-dequilibri)    |
 | [3P: Composició de moviments](#3p-composició-de-moviments) | 9P: Geometria de masses |
 | [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | 10P: Teoremes vectorials I |
 | [5P: CSR 2D + Cinemàtica de vehicles](#5p-csr-2d--cinemàtica-de-vehicles)                    | 11P: Teoremes vectorials II |
@@ -115,15 +115,13 @@ Transparències de la teoria [amb notes explicatives](problemes/7P_slides_with_n
 
 Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
+[Exercicis extra de molles i amortidors](problemes/7P_extra.pdf).
+
+## 8P: Oscil·lacions i punts d'equilibri
+
+[Solucions 8P](problemes/8P_sols.pdf) - Versió preliminar.
+
 <!--
-
-[Exercicis extra de molles i amortidors](problemes/8P_extra.pdf).
-
-
-
-## 9P: Oscil·lacions i punts d'equilibri
-
-[Solucions 9P](problemes/9P_sols.pdf) - Actualitzat 15 NOV 10:30.
 
 ## 10P: Geometria de masses
 
