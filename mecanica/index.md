@@ -27,7 +27,7 @@ iP = Sessió de la setmana i-èssima
 | ----------  | ------------ |
 | [1P: Bases i derivació analítica](#1p-bases-i-derivació-analítica) | [7P: Molles i amortidors + Enllaç P-S](#7p-molles-i-amortidors-i-enllaç-partícula-superfície) |
 | [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | [8P: Oscil·lacions i punts d'equilibri](#8p-oscillacions-i-punts-dequilibri)    |
-| [3P: Composició de moviments](#3p-composició-de-moviments) | [9P: Geometria de masses]() |
+| [3P: Composició de moviments](#3p-composició-de-moviments) | [9P: Geometria de masses](#9p-geometria-de-masses) |
 | [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | 10P: Teoremes vectorials I |
 | [5P: CSR 2D + Cinemàtica de vehicles](#5p-csr-2d--cinemàtica-de-vehicles)                    | 11P: Teoremes vectorials II |
 | [6P: Exercicis globals de cinemàtica](#6p-exercicis-globals-de-cinemàtica)  | 12P: Teoremes vectorials III |
@@ -96,15 +96,13 @@ Animacions:
 * [Barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt): "Play" a baix a l'esquerra! S'ha suposat una barra infinita i que no hi ha col·lisions entre sòlids.
 * [Bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false): Desplaceu H per a veure la trajectòria del pedal.
 
- 
+
 
 ## 6P: Exercicis globals de cinemàtica
 
 [Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 24 MAR 17:54.
 
 [Exercicis extra de cinemàtica](problemes/6P_extra.pdf).
-
-
 
 
 ## 7P: Molles i amortidors, i enllaç partícula-superfície
