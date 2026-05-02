@@ -124,7 +124,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Solucions 9P](problemes/9P_sols.pdf) - Penjat 28 ABR 14:45.
 
-[Transparències de classe](problemes/9P_slides.pdf) - Penjat 28 ABR 14:45.
+[Transparències de classe](problemes/9P_slides.pdf) - Actualitzades 2 MAIG 14:28.
 
 <!--
 
