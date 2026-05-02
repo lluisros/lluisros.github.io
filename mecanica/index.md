@@ -117,7 +117,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 ## 8P: Oscil·lacions i punts d'equilibri
 
-[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 28 ABR 14:25, amb canvis molt lleus.
+[Solucions 8P](problemes/8P_sols.pdf) - Actualitzat 28 ABR 14:25.
 
 
 ## 9P: Geometria de masses
