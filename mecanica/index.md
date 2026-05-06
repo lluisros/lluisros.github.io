@@ -130,7 +130,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 ## 10P: Teoremes vectorials I
 
-[Solucions 10P](problemes/10P_sols.pdf) - Penjat 5 MAIG 13:20
+[Solucions 10P](problemes/10P_sols.pdf) - Actualitzat 6 MAIG 23:30
 
 [Transparències de classe amb comentaris](problemes/10P_slides.pdf) - Actualitzat 6 MAIG 23:25
 
