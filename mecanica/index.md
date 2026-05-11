@@ -29,7 +29,7 @@ iP = Sessió de la setmana i-èssima
 | [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | [8P: Oscil·lacions i punts d'equilibri](#8p-oscillacions-i-punts-dequilibri)    |
 | [3P: Composició de moviments](#3p-composició-de-moviments) | [9P: Geometria de masses](#9p-geometria-de-masses) |
 | [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | [10P: Teoremes vectorials I](#10p-teoremes-vectorials-i) |
-| [5P: CSR 2D + Cinemàtica de vehicles](#5p-csr-2d--cinemàtica-de-vehicles)                    | 11P: Teoremes vectorials II |
+| [5P: CSR 2D + Cinemàtica de vehicles](#5p-csr-2d--cinemàtica-de-vehicles)                    | [11P: Teoremes vectorials II](#11p-teoremes-vectorials-ii) |
 | [6P: Exercicis globals de cinemàtica](#6p-exercicis-globals-de-cinemàtica)  | 12P: Teoremes vectorials III |
 |         | 13P: Teoremes vectorials IV |
 
@@ -136,7 +136,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 
 
-## 12P: Teoremes vectorials II
+## 11P: Teoremes vectorials II
 
 [Solucions 11P](problemes/11P_sols.pdf) - Penjat 11 MAIG 23:00
 
