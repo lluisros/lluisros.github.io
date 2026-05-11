@@ -134,13 +134,15 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Transparències de classe amb comentaris](problemes/10P_slides.pdf) - Actualitzat 7 MAIG 16:20
 
-<!--
+
 
 ## 12P: Teoremes vectorials II
 
-[Solucions 12P](problemes/12P_sols.pdf) - Actualitzat 23 DEC 19:55 (millora en la pregunta freqüent del problema "sistema en marxa enrere")
+[Solucions 11P](problemes/11P_sols.pdf) - Penjat 11 MAIG 23:00
 
-[Transparències de classe](problemes/12P_slides.pdf) - Actualitzat 7 DEC 13:45.
+[Transparències de suport](problemes/11P_slides.pdf) - Penjat 11 MAIG 23:00
+
+<!--
 
 ## 13P: Teoremes vectorials III
 
