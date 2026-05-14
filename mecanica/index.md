@@ -138,7 +138,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 ## 11P: Teoremes vectorials II
 
-[Solucions 11P](problemes/11P_sols.pdf) - Actualitzat 13 MAIG 23:10
+[Solucions 11P](problemes/11P_sols.pdf) - Actualitzat 14 MAIG 12:00
 
 [Transparències de suport](problemes/11P_slides.pdf) - Actualitzat 13 MAIG 23:10
 
