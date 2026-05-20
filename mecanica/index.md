@@ -11,7 +11,9 @@ Benvinguts! En aquesta web hi trobareu material relatiu als grups G20 i G40 de p
 
 [Full informatiu](full_informatiu.pdf) + [decàleg](decaleg.pdf)
 
+<!-- 
 Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/6869470/mod_resource/content/27/2025-26%20QP%20Material%20pre-parcials.pdf) - Postparcials
+-->
 
 ## Índex
 
@@ -147,9 +149,9 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 ## 12P: Teoremes vectorials III
 
 
-[Enunciats](problemes/12P_enunciats.pdf) + [Solucions 12P](problemes/12P_sols.pdf) - Penjat 20 MAIG 14:00
+[Enunciats](problemes/12P_enunciats.pdf) + [Solucions 12P](problemes/12P_sols.pdf) - Actualitzat 20 MAIG 23:48.
 
-[Transparències de suport](problemes/12P_slides.pdf) - Penjat 20 MAIG 14:00. Trobareu versions comentades de les primeres transparències al principi de [12P_sols.pdf](problemes/12P_sols.pdf).
+[Transparències de suport](problemes/12P_slides.pdf) - Actualitzat 20 MAIG 23:48. Vegeu versions comentades de les primeres transparències a [12P_sols.pdf](problemes/12P_sols.pdf).
 
 <!--
 
