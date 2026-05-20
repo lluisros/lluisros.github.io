@@ -30,7 +30,7 @@ iP = Sessió de la setmana i-èssima
 | [3P: Composició de moviments](#3p-composició-de-moviments) | [9P: Geometria de masses](#9p-geometria-de-masses) |
 | [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | [10P: Teoremes vectorials I](#10p-teoremes-vectorials-i) |
 | [5P: CSR 2D + Cinemàtica de vehicles](#5p-csr-2d--cinemàtica-de-vehicles)                    | [11P: Teoremes vectorials II](#11p-teoremes-vectorials-ii) |
-| [6P: Exercicis globals de cinemàtica](#6p-exercicis-globals-de-cinemàtica)  | 12P: Teoremes vectorials III |
+| [6P: Exercicis globals de cinemàtica](#6p-exercicis-globals-de-cinemàtica)  | [12P: Teoremes vectorials III](#12p-teoremes-vectorials-iii) |
 |         | 13P: Teoremes vectorials IV |
 
 ## Recomanacions
@@ -142,14 +142,16 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Transparències de suport](problemes/11P_slides.pdf) - Actualitzat 13 MAIG 23:10
 
+
+
+## 12P: Teoremes vectorials III
+
+
+[Enunciats](problemes/12P_enunciats.pdf) + [Solucions 12P](problemes/12P_sols.pdf) - Penjat 20 MAIG 14:00
+
+[Transparències de suport](problemes/12P_slides.pdf) - Penjat 20 MAIG 14:00. Trobareu versions comentades de les primeres transparències al principi de [12P_sols.pdf](problemes/12P_sols.pdf).
+
 <!--
-
-## 13P: Teoremes vectorials III
-
-
-[Enunciats](problemes/13P_enunciats.pdf) + [Solucions 13P](problemes/13P_sols.pdf) - Actualitzat 13 DEC 20:20 (afegides dues preguntes freqüents sobre el torsor indirecte de T sobre P1).
-
-[Transparències de classe](problemes/13P_slides.pdf) - Actualitzat 11 DEC 13:55.
 
 ## 14P: Teoremes vectorials IV
 
