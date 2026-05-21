@@ -149,9 +149,9 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 ## 12P: Teoremes vectorials III
 
 
-[Enunciats](problemes/12P_enunciats.pdf) + [Solucions 12P](problemes/12P_sols.pdf) - Actualitzat 21 MAIG 13:47.
+[Enunciats](problemes/12P_enunciats.pdf) + [Solucions 12P](problemes/12P_sols.pdf) - Actualitzat 21 MAIG 18:55.
 
-[Transparències de suport](problemes/12P_slides.pdf) - Actualitzat 21 MAIG 13:47. Vegeu versions comentades de les primeres transparències a [12P_sols.pdf](problemes/12P_sols.pdf).
+[Transparències de suport](problemes/12P_slides.pdf) - Actualitzat 21 MAIG 18:55. Vegeu versions comentades de les primeres transparències a [12P_sols.pdf](problemes/12P_sols.pdf).
 
 <!--
 
