@@ -156,7 +156,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 ## 13P: Teoremes vectorials IV
 
-[Solucions 13P](problemes/13P_sols.pdf) - Penjat 27 Maig 14:20.
+[Solucions 13P](problemes/13P_sols.pdf) - Actualitzat 27 Maig 19:17.
 
 [Transparències de classe](problemes/13P_slides.pdf) - Penjat 27 Maig 14:20.
 
