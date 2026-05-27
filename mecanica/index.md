@@ -33,7 +33,7 @@ iP = Sessió de la setmana i-èssima
 | [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | [10P: Teoremes vectorials I](#10p-teoremes-vectorials-i) |
 | [5P: CSR 2D + Cinemàtica de vehicles](#5p-csr-2d--cinemàtica-de-vehicles)                    | [11P: Teoremes vectorials II](#11p-teoremes-vectorials-ii) |
 | [6P: Exercicis globals de cinemàtica](#6p-exercicis-globals-de-cinemàtica)  | [12P: Teoremes vectorials III](#12p-teoremes-vectorials-iii) |
-|         | 13P: Teoremes vectorials IV |
+|         | [13P: Teoremes vectorials IV](#13p-teoremes-vectorials-iv) |
 
 ## Recomanacions
 
@@ -153,13 +153,14 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Transparències de suport](problemes/12P_slides.pdf) - Actualitzat 21 MAIG 19:23. Vegeu versions comentades de les primeres transparències a [12P_sols.pdf](problemes/12P_sols.pdf).
 
+
+## 13P: Teoremes vectorials IV
+
+[Solucions 13P](problemes/13P_sols.pdf) - Penjat 27 Maig 14:20.
+
+[Transparències de classe](problemes/13P_slides.pdf) - Penjat 27 Maig 14:20.
+
 <!--
-
-## 14P: Teoremes vectorials IV
-
-[Solucions 14P](problemes/14P_sols.pdf) - Actualitzat 29 DEC 14:20.
-
-[Transparències de classe](problemes/14P_slides.pdf) - Actualitzat 17 DEC 19:50.
 
 -->
 
