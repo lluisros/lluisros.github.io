@@ -33,7 +33,7 @@ iP = Sessió de la setmana i-èssima
 | [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | [10P: Teoremes vectorials I](#10p-teoremes-vectorials-i) |
 | [5P: CSR 2D + Cinemàtica de vehicles](#5p-csr-2d--cinemàtica-de-vehicles)                    | [11P: Teoremes vectorials II](#11p-teoremes-vectorials-ii) |
 | [6P: Exercicis globals de cinemàtica](#6p-exercicis-globals-de-cinemàtica)  | [12P: Teoremes vectorials III](#12p-teoremes-vectorials-iii) |
-|         | [13P: Teoremes vectorials IV](#13p-teoremes-vectorials-iv) |
+| Examen Parcial: 7 abril, 8:00   | [13P: Teoremes vectorials IV](#13p-teoremes-vectorials-iv) |
 
 ## Recomanacions
 
