@@ -158,7 +158,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Solucions 13P](problemes/13P_sols.pdf) - Actualitzat 27 Maig 23:16.
 
-[Transparències de classe](problemes/13P_slides.pdf) - Actualitzat 28 MAIG 20:53.
+[Transparències de classe](problemes/13P_slides.pdf) - Actualitzat 28 MAIG 22:00.
 
 <!--
 
