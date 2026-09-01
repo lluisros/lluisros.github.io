@@ -36,7 +36,7 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 | 5P: CSR 3D        | 11P: Teoremes vectorials I |
 | 6P: CSR 2D + Cinemàtica de vehicles                    | 12P: Teoremes vectorials II |
 | 7P: Exercicis globals de cinemàtica | 14P: Teoremes vectorials III |
-| Examen Parcial: 7 abril, 8:00   | 15P: Teoremes vectorials IV |
+| Examen Parcial: 27 octubre, 11:00   | 15P: Teoremes vectorials IV |
 
 Aclariment: Tal i com hem numerat les sessions (vegeu full informatiu) aquest quadrimestre no hi haurà sessions 1P ni 13P, però el contingut del curs és anàleg al de cursos anteriors.
 
