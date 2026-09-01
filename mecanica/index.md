@@ -38,8 +38,8 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 | 7P: Exercicis globals de cinemàtica | 14P: Teoremes vectorials III |
 | Examen Parcial: 7 abril, 8:00   | 15P: Teoremes vectorials IV |
 
-Aclariment: Tal i com hem numerat les sessions d'aquest quadrimestre (vegeu full informatiu) no hi haurà sessions 1P ni 13P, però el contingut i organització del curs són semblants a les de cursos anteriors.
-s
+Aclariment: Tal i com hem numerat les sessions (vegeu full informatiu) aquest quadrimestre no hi haurà sessions 1P ni 13P, però el contingut del curs és anàleg al de cursos anteriors.
+
 ## Recomanacions
 
 Abans de cada sessió:
