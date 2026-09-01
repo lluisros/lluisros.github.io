@@ -10,7 +10,7 @@ Mecànica: Curs 2026-27 Q1 (Tardor)
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
 Benvinguts! En aquesta web hi trobareu material relatiu als grups G30 i G50 de problemes de Mecànica: els exercicis que farem en cada sessió, les seves solucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És ESSENCIAL que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
-
+ 
 
 [Full informatiu](full_informatiu.pdf) + [Guia de bones pràctiques](bones_practiques.pdf)
 
