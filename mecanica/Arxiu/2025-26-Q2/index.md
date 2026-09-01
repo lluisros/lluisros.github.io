@@ -1,16 +1,15 @@
 <!-- Markdown comments are html ones -->
 
-# Problemes G30 i G50 #
+# ARXIVAT: CURS 2025-26 Primavera #
 
-Mecànica: Curs 2026-27 Q1 (Tardor)
+# Problemes G20 i G40 #
 
-![alt text](pissarra.jpg)
+Mecànica: Curs 2025-26 Q2 (Primavera)
 
 [Grau en Enginyeria en Tecnologies Industrials](https://etseib.upc.edu/ca/estudis/graus/fitxa-geti)  
 [Dep. d'Enginyeria Mecànica](https://em.upc.edu/ca), [UPC-BarcelonaTech](http://www.upc.edu)
 
-Benvinguts! En aquesta web hi trobareu material relatiu als grups G30 i G50 de problemes de Mecànica: els exercicis que farem en cada sessió, les seves solucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És ESSENCIAL que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
-
+Benvinguts! En aquesta web hi trobareu material relatiu als grups G20 i G40 de problemes de Mecànica: els exercicis que farem en cada sessió, les seves solucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És essencial que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
 
 [Full informatiu](full_informatiu.pdf) + [decàleg](decaleg.pdf)
 
@@ -26,20 +25,18 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 - [Catàleg forces](cataleg-forces.pdf)
 -->
 
-
+iP = Sessió de la setmana i-èssima
 
 | Preparcials | Postparcials |
 | ----------  | ------------ |
-| [2P: Bases i derivació analítica](#1p-bases-i-derivació-analítica) | 8P: Molles i amortidors + Enllaç PS |
-| 3P: Derivació + Angles d'Euler  | 9P: Oscil·lacions i punts d'equilibri    |
-| 4P: Composició de moviments | 10P: Geometria de masses |
-| 5P: CSR 3D        | 11P: Teoremes vectorials I |
-| 6P: CSR 2D + Cinemàtica de vehicles                    | 12P: Teoremes vectorials II |
-| 7P: Exercicis globals de cinemàtica | 14P: Teoremes vectorials III |
-| Examen Parcial: 7 abril, 8:00   | 15P: Teoremes vectorials IV |
+| [1P: Bases i derivació analítica](#1p-bases-i-derivació-analítica) | [7P: Molles i amortidors + Enllaç P-S](#7p-molles-i-amortidors-i-enllaç-partícula-superfície) |
+| [2P: Derivació + Angles d'Euler](#2p-derivació--angles-deuler)   | [8P: Oscil·lacions i punts d'equilibri](#8p-oscillacions-i-punts-dequilibri)    |
+| [3P: Composició de moviments](#3p-composició-de-moviments) | [9P: Geometria de masses](#9p-geometria-de-masses) |
+| [4P: CSR 3D](#4p-cinemàtica-del-sòlid-rígid-3d)        | [10P: Teoremes vectorials I](#10p-teoremes-vectorials-i) |
+| [5P: CSR 2D + Cinemàtica de vehicles](#5p-csr-2d--cinemàtica-de-vehicles)                    | [11P: Teoremes vectorials II](#11p-teoremes-vectorials-ii) |
+| [6P: Exercicis globals de cinemàtica](#6p-exercicis-globals-de-cinemàtica)  | [12P: Teoremes vectorials III](#12p-teoremes-vectorials-iii) |
+| Examen Parcial: 7 abril, 8:00   | [13P: Teoremes vectorials IV](#13p-teoremes-vectorials-iv) |
 
-Aclariment: Tal i com hem numerat les sessions d'aquest quadrimestre (vegeu full informatiu) no hi haurà sessions 1P ni 13P, però el contingut i organització del curs són semblants a les de cursos anteriors.
-s
 ## Recomanacions
 
 Abans de cada sessió:
@@ -61,12 +58,9 @@ Després de la sessió:
 3. Contrasteu les vostres solucions amb les penjades.
 4. Feu el treball autònom que es proposa a Atenea.
 
+## 1P: Bases i derivació analítica
 
-## 2P: Bases i derivació analítica
-
-[Solucions 2P](problemes/2P_sols.pdf)
-
-<!-- 
+[Solucions 1P](problemes/1P_sols.pdf) - Actualitzat 23 FEB 20:40
 
 ## 2P: Derivació + angles d'Euler
 
@@ -168,6 +162,8 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Transparències de classe](problemes/13P_slides.pdf) - Actualitzat 28 MAIG 22:00.
 
+<!--
+
 -->
 
 ## Bibliografia
@@ -201,7 +197,7 @@ Llibres de referència:
 * [Horaris](horaris.pdf)
 * [Calendari ETSEIB 2025-26](https://etseib.upc.edu/ca/curs-actual/calendaris-1/calendari-academic-graus-2025_26.pdf)
 * [FAQ](faqp.html)
-* Edicions anteriors: [[2025-26 Q2](Arxiu/2025-26-Q2/index.md)] - [[2025-26 Q1](Arxiu/2025-26-Q1/index.md)] - [[2024-25 Q2](Arxiu/2024-25-Q2/index.md)]
+* Edicions anteriors: [[2025-26 Q1](Arxiu/2025-26-Q1/index.md)] - [[2024-25 Q2](Arxiu/2024-25-Q2/index.md)]
 
 <br>
 <br>
@@ -232,4 +228,12 @@ Llibres de referència:
 
 
 
+
+
+<!--
+
+* [Full informatiu](https://atenea.upc.edu/pluginfile.php/6389778/mod_resource/content/146/MEC%20-%20Full%20informatiu%202024-25%20QP.pdf)
+* [Horaris de Mecànica 2024 - 2025 (primavera)](horaris_2024_25.pdf)
+
+-->
 
