@@ -12,7 +12,7 @@ Mecànica: Curs 2026-27 Q1 (Tardor)
 Benvinguts! En aquesta pàgina hi trobareu material relatiu als grups G30 i G50 de problemes de Mecànica: els exercicis que farem, les seves solucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És ESSENCIAL que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
  
 
-[Full informatiu](full_informatiu.pdf) + [Guia de bones pràctiques](bones_practiques.pdf)
+[Full informatiu](full_informatiu.pdf) - [Guia de bones pràctiques](bones_practiques.pdf)
 
 <!-- 
 Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/6869470/mod_resource/content/27/2025-26%20QP%20Material%20pre-parcials.pdf) - Postparcials
@@ -38,7 +38,7 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 | 7P: Exercicis globals de cinemàtica | 14P: Teoremes vectorials III |
 | Examen Parcial: 27 octubre, 11:00   | 15P: Teoremes vectorials IV |
 
-Aclariment: Tal i com hem numerat les sessions (vegeu full informatiu) aquest quadrimestre no hi haurà sessions 1P ni 13P, però el contingut del curs és anàleg al de cursos anteriors.
+
 
 ## Recomanacions
 
@@ -65,6 +65,8 @@ Després de la sessió:
 ## 2P: Bases i derivació analítica
 
 [Solucions 2P](problemes/2P_sols.pdf)
+
+Aclariment: Tal i com hem numerat les sessions (vegeu "Planificació docent" al [full informatiu](full_informatiu.pdf)) aquest quadrimestre no hi haurà sessions 1P ni 13P, però el contingut del curs és anàleg al de cursos anteriors.
 
 <!-- 
 
@@ -197,8 +199,8 @@ Llibres de referència:
 * [Wikimec](https://mec.etseib.upc.edu)
 * [Formulari](formulari.pdf)
 * [Full informatiu](full_informatiu.pdf)
-* [Decàleg per als exàmens](decaleg.pdf)
-* [Horaris](horaris.pdf)
+* [Guia de bones pràctiques](decaleg.pdf)
+* [Horaris i aules](horaris.pdf)
 * [Calendari ETSEIB 2026-27](calendari.pdf)
 * [FAQ](faqp.html)
 * Edicions anteriors: [[2025-26 Q2](Arxiu/2025-26-Q2/index.md)] - [[2025-26 Q1](Arxiu/2025-26-Q1/index.md)] - [[2024-25 Q2](Arxiu/2024-25-Q2/index.md)]
