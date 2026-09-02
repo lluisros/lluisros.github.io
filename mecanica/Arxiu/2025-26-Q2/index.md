@@ -1,6 +1,11 @@
 <!-- Markdown comments are html ones -->
 
-# ARXIVAT: CURS 2025-26 Primavera #
+<!-- Most markdown renderers will render this HTML image -->
+<img src="arxivat.png" alt="Arxivat" width="60%">
+
+# CURS 2025-26 - Primavera #
+
+Pàgina antiga de problemes de mecànica pels grups G20 i G40 del curs 2025-26 (primavera). Estarà disponible online mentre no em calgui fer espai a Github.
 
 # Problemes G20 i G40 #
 

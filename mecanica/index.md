@@ -199,7 +199,7 @@ Llibres de referència:
 * [Wikimec](https://mec.etseib.upc.edu)
 * [Formulari](formulari.pdf)
 * [Full informatiu](full_informatiu.pdf)
-* [Guia de bones pràctiques](decaleg.pdf)
+* [Guia de bones pràctiques](bones_practiques.pdf)
 * [Horaris i aules](horaris.pdf)
 * [Calendari ETSEIB 2026-27](calendari.pdf)
 * [FAQ](faqp.html)

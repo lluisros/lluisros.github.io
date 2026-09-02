@@ -1,8 +1,12 @@
 <!-- Markdown comments are html ones -->
 
-# ARXIVAT: CURS 2024-25 Primavera #
+<img src="arxivat.png" alt="Arxivat" width="60%">
 
-Problemes de mecànica: G10 i G40
+# CURS 2024-25 Primavera #
+
+Pàgina antiga de problemes de mecànica pels grups G10 i G40 del curs 2024-25 (primavera). Estarà disponible online mentre no em calgui fer espai a Github.
+
+# Problemes G10 i G40 #
 
 <!-- Mecànica: Curs 2024/25 (Q2) -->
 
