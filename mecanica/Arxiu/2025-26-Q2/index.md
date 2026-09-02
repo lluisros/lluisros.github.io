@@ -3,9 +3,11 @@
 <!-- Most markdown renderers will render this HTML image -->
 <img src="arxivat.png" alt="Arxivat" width="60%">
 
+[Tornar a la versió actual del curs](https://lluisros.github.io/mecanica/)
+
 # CURS 2025-26 - Primavera #
 
-Pàgina antiga de problemes de mecànica pels grups G20 i G40 del curs 2025-26 (primavera). Estarà disponible online mentre no em calgui fer espai a Github.
+Aquesta és l'antiga pàgina de problemes de mecànica pels grups G20 i G40 del curs 2025-26 (primavera). Estarà disponible online mentre no em calgui fer espai a Github.
 
 # Problemes G20 i G40 #
 

@@ -3,9 +3,11 @@
 <!-- Most markdown renderers will render this HTML image -->
 <img src="arxivat.png" alt="Arxivat" width="60%">
 
+[Tornar a la versió actual del curs](https://lluisros.github.io/mecanica/)
+
 # CURS 2025-26 Tardor #
 
-Pàgina antiga de problemes de mecànica pels grups G10 i G50 del curs 2025-26 (tardor). Estarà disponible online mentre no em calgui fer espai a Github.
+Aquesta és l'antiga pàgina de problemes de mecànica pels grups G10 i G50 del curs 2025-26 (tardor). Estarà disponible online mentre no em calgui fer espai a Github.
 
 # Problemes G10 i G50 #
 
