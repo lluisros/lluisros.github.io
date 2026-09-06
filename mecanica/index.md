@@ -66,17 +66,17 @@ Després de la sessió:
 
 ## 2P: Bases i derivació analítica
 
-[Solucions 2P](problemes/2P_sols.pdf)
+[Solucions 2P](problemes/2P_sols.pdf) + [Repàs del producte vectorial](problemes/producte_vectorial.pdf)
 
 Aclariment: Tal i com hem numerat les sessions (vegeu "Planificació docent" al [full informatiu](full_informatiu.pdf)) aquest quadrimestre no hi haurà sessions 1P ni 13P, però el contingut del curs és anàleg al de cursos anteriors.
 
-<!-- 
+<!--
 
 ## 3P: Derivació + angles d'Euler
 
-[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 26 FEB 21:09
+[Solucions 3P](problemes/3P_sols.pdf)
 
-[Exercicis extra sobre angles d'Euler](problemes/3P_extra.pdf) - Actualitzat 4 MAR 15:05
+[Exercicis extra sobre angles d'Euler](problemes/3P_extra.pdf)
 
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
