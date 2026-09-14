@@ -204,6 +204,7 @@ Llibres de referència:
 * [Guia de bones pràctiques](bones_practiques.pdf)
 * [Horaris i aules](horaris.pdf)
 * [Calendari ETSEIB 2026-27](calendari.pdf)
+* [Planificació classes 2026-27](planificacio.pdf)
 * [FAQ](faqp.html)
 * Edicions anteriors: [[2025-26 Q2](Arxiu/2025-26-Q2/index.md)] - [[2025-26 Q1](Arxiu/2025-26-Q1/index.md)] - [[2024-25 Q2](Arxiu/2024-25-Q2/index.md)]
 
