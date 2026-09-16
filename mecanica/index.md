@@ -71,9 +71,7 @@ Després de la sessió:
 
 [Repàs del producte vectorial](problemes/producte_vectorial.pdf)
 
-[Exercicis de l'antena telescòpica](problemes/2P_antena.pdf) - Treballeu-los si podeu!
-
-
+[Exercicis extra de l'antena telescòpica](problemes/2P_antena.pdf)
 
 <!--
 
