@@ -67,11 +67,11 @@ Després de la sessió:
 
 ## 2P: Bases i derivació analítica
 
-[Solucions 2P](problemes/2P_sols.pdf)
+[Solucions 2P](problemes/2P_sols.pdf) - Conté la teoria de derivació analítica i solucions als exercicis de la sessió 2P.
 
 [Repàs del producte vectorial](problemes/producte_vectorial.pdf)
 
-[Exercicis extra de l'antena telescòpica](problemes/2P_antena.pdf)
+[Exercicis extra de l'antena telescòpica](problemes/2P_antena.pdf) - Feu-los per reforçar els conceptes vistos fins ara a teoria i problemes: posició, orientació, diagrama de moviments relatius, i derivació temporal (geomètrica o analítica).
 
 <!--
 
