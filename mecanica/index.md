@@ -41,6 +41,7 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 | Examen Parcial: 27 octubre, 11:00   | 15P: Teoremes vectorials IV |
 
 
+Aclariment: Tal i com hem numerat les sessions (vegeu "Planificació docent" al [full informatiu](full_informatiu.pdf)) aquest quadrimestre no hi haurà sessions 1P ni 13P, però el contingut del curs és anàleg al de cursos anteriors.
 
 ## Recomanacions
 
@@ -66,9 +67,13 @@ Després de la sessió:
 
 ## 2P: Bases i derivació analítica
 
-[Solucions 2P](problemes/2P_sols.pdf) + [Repàs del producte vectorial](problemes/producte_vectorial.pdf)
+[Solucions 2P](problemes/2P_sols.pdf)
 
-Aclariment: Tal i com hem numerat les sessions (vegeu "Planificació docent" al [full informatiu](full_informatiu.pdf)) aquest quadrimestre no hi haurà sessions 1P ni 13P, però el contingut del curs és anàleg al de cursos anteriors.
+[Repàs del producte vectorial](problemes/producte_vectorial.pdf)
+
+[Exercicis de l'antena telescòpica](problemes/2P_antena.pdf) - Treballeu-los si podeu!
+
+
 
 <!--
 
