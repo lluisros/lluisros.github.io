@@ -77,6 +77,8 @@ Després de la sessió:
 
 ## 3P: Derivació + angles d'Euler
 
+Recomanació: Estudieu a fons la [teoria de rotacions d'Euler](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic#C1.4_Orientaci%C3%B3_d'un_s%C3%B2lid_r%C3%ADgid_amb_moviment_a_l'espai:~:text=Rotacions-,d%27Euler,-Les%20rotacions%20d%E2%80%99Euler) de Wikimec.
+
 [Solucions 3P](problemes/3P_sols.pdf)
 
 
