@@ -33,7 +33,7 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 | Preparcials | Postparcials |
 | ----------  | ------------ |
 | [2P: Bases i derivació analítica](#2p-bases-i-derivació-analítica) | 8P: Molles i amortidors + Enllaç PS |
-| 3P: Derivació + Angles d'Euler  | 9P: Oscil·lacions i punts d'equilibri    |
+| [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler)  | 9P: Oscil·lacions i punts d'equilibri    |
 | 4P: Composició de moviments | 10P: Geometria de masses |
 | 5P: CSR 3D        | 11P: Teoremes vectorials I |
 | 6P: CSR 2D + Cinemàtica de vehicles                    | 12P: Teoremes vectorials II |
@@ -73,18 +73,21 @@ Després de la sessió:
 
 [Exercicis extra de l'antena telescòpica](problemes/2P_antena.pdf) - Feu-los per reforçar els conceptes vistos fins ara a teoria i problemes: posició, orientació, diagrama de moviments relatius, i derivació temporal (geomètrica o analítica).
 
-<!--
+
 
 ## 3P: Derivació + angles d'Euler
 
 [Solucions 3P](problemes/3P_sols.pdf)
 
-[Exercicis extra sobre angles d'Euler](problemes/3P_extra.pdf)
 
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
 * [Pilotatge amb línia de control](https://www.youtube.com/watch?v=wZavLFRsMHg&t=179s).
 * [Angles d'Euler al giroscopi](https://www.youtube.com/watch?v=ON0VWB34Dso).
+
+<!--
+
+[Exercicis extra sobre angles d'Euler](problemes/3P_extra.pdf)
 
 ## 3P: Composició de moviments
 
