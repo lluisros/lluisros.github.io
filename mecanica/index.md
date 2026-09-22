@@ -81,7 +81,7 @@ Recomanació: Estudieu a fons la [teoria de rotacions d'Euler](https://mec.etsei
 
 [Solucions 3P](problemes/3P_sols.pdf)
 
-Quan hagueu consolidat [3P_sols.pdf](problemes/3P_sols.pdf), feu [aquests exercicis extra d'angles d'Euler](problemes/3P_extra.pdf). Mostren que la derivada analítica pot ser traïdora. Us caldrà tenir clara la [distinció entre vector foto i vector pel·lícula](problemes/3P_foto_peli.pdf), que ja s'ha treballat a teoria, però que repassarem a problemes la setmana vinent.
+Quan hagueu consolidat [3P_sols.pdf](problemes/3P_sols.pdf), feu [aquests exercicis extra d'angles d'Euler](problemes/3P_extra.pdf). Mostren que la derivada analítica pot ser traïdora. Us caldrà tenir clara la [distinció entre vector general i vector particularitzat](problemes/3P_foto_peli.pdf), que ja s'ha treballat a teoria, però que repassarem a problemes la setmana vinent.
 
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
