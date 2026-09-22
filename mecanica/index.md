@@ -71,7 +71,7 @@ Després de la sessió:
 
 [Repàs del producte vectorial](problemes/producte_vectorial.pdf)
 
-[Exercicis extra de l'antena telescòpica](problemes/2P_antena.pdf) - Feu-los per reforçar els conceptes vistos fins ara a teoria i problemes: posició, orientació, diagrama de moviments relatius, i derivació temporal (geomètrica o analítica).
+[Exercicis extra de l'antena telescòpica](problemes/2P_extra.pdf) - Feu-los per reforçar tots els conceptes vistos fins ara, i en particular els de posició, orientació, diagrama de moviments relatius, i derivació temporal (geomètrica o analítica).
 
 
 
@@ -81,6 +81,7 @@ Recomanació: Estudieu a fons la [teoria de rotacions d'Euler](https://mec.etsei
 
 [Solucions 3P](problemes/3P_sols.pdf)
 
+Quan hagueu consolidat [3P_sols.pdf](problemes/3P_sols.pdf), feu [aquests exercicis extra d'angles d'Euler](problemes/3P_extra.pdf). Mostren que la derivada analítica pot ser traïdora. Us caldrà tenir clara la [distinció entre vector foto i vector pel·lícula](problemes/3P_foto_peli.pdf).
 
 Vídeos:
 * [Moviment del bloc sobre semicilindre](https://youtu.be/tAMvFMHxPk0).
