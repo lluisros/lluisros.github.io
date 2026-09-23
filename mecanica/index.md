@@ -90,16 +90,13 @@ Vídeos:
 
 <!--
 
-[Exercicis extra sobre angles d'Euler](problemes/3P_extra.pdf)
+## 4P: Composició de moviments
 
-## 3P: Composició de moviments
+[Solucions 4P](problemes/4P_sols.pdf) + [Diapositives de 4P](problemes/4P_slides.pdf)
 
-[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 9 MAR 18:18
+[Exercicis extra relacionats amb composició de moviments](problemes/4P_extra.pdf)
 
-
-[Diapositives de 3P](problemes/3P_slides.pdf).
-
-[Exercicis extra de composició de moviments](problemes/3P_extra.pdf). Actualitzat 29 MAR 21:10
+[Enllaços més habituals](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.8_Enlla%C3%A7os_habituals_en_els_sistemes_mec%C3%A0nics)
 
 ## 4P: Cinemàtica del sòlid rígid 3D
 
