@@ -34,7 +34,7 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 | ----------  | ------------ |
 | [2P: Bases i derivació analítica](#2p-bases-i-derivació-analítica) | 8P: Molles i amortidors + Enllaç PS |
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler)  | 9P: Oscil·lacions i punts d'equilibri    |
-| 4P: Composició de moviments | 10P: Geometria de masses |
+| [4P: Composició de moviments](#4p-composició-de-moviments) | 10P: Geometria de masses |
 | 5P: CSR 3D        | 11P: Teoremes vectorials I |
 | 6P: CSR 2D + Cinemàtica de vehicles                    | 12P: Teoremes vectorials II |
 | 7P: Exercicis globals de cinemàtica | 14P: Teoremes vectorials III |
@@ -88,8 +88,6 @@ Vídeos:
 * [Pilotatge amb línia de control](https://www.youtube.com/watch?v=wZavLFRsMHg&t=179s).
 * Angles d'Euler [al giroscopi](https://www.youtube.com/watch?v=ON0VWB34Dso) i en [una roda](https://www.youtube.com/watch?v=EGT6BGDy-hw).
 
-<!--
-
 ## 4P: Composició de moviments
 
 [Solucions 4P](problemes/4P_sols.pdf) + [Diapositives de 4P](problemes/4P_slides.pdf)
@@ -97,6 +95,8 @@ Vídeos:
 [Exercicis extra relacionats amb composició de moviments](problemes/4P_extra.pdf)
 
 [Enllaços més habituals](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.8_Enlla%C3%A7os_habituals_en_els_sistemes_mec%C3%A0nics)
+
+<!--
 
 ## 4P: Cinemàtica del sòlid rígid 3D
 
