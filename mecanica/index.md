@@ -79,7 +79,7 @@ Després de la sessió:
 
 Recomanació: Estudieu a fons la [teoria de rotacions d'Euler](https://mec.etseib.upc.edu/ca/index.php?title=C1._Configuraci%C3%B3_d%27un_sistema_mec%C3%A0nic#C1.4_Orientaci%C3%B3_d'un_s%C3%B2lid_r%C3%ADgid_amb_moviment_a_l'espai:~:text=Rotacions-,d%27Euler,-Les%20rotacions%20d%E2%80%99Euler) de Wikimec.
 
-[Solucions 3P](problemes/3P_sols.pdf)
+[Solucions 3P](problemes/3P_sols.pdf) - Actualitzat 29/09/2026, 14:05.
 
 Quan hagueu consolidat [3P_sols.pdf](problemes/3P_sols.pdf), feu [aquests exercicis extra d'angles d'Euler](problemes/3P_extra.pdf). Mostren que la derivada analítica pot ser traïdora. Us caldrà tenir clara la [distinció entre vector general i vector particularitzat](problemes/3P_foto_peli.pdf), que ja s'ha treballat a teoria, però que repassarem a problemes la setmana vinent.
 
