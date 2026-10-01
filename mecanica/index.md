@@ -92,6 +92,8 @@ Vídeos:
 
 [Solucions 4P](problemes/4P_sols.pdf) + [Diapositives de 4P](problemes/4P_slides.pdf)
 
+[Solució a l'exercici de la sínia de la sessió 4T](problemes/4T_sinia.pdf) - Al G50 no es va poder fer. Feu-lo: és molt aclaridor! En aquest exercici, molts dieu que la cabina gira respecte del terra, però no és cert. La cabina només es trasllada respecte T, ja que manté el sostre paral·lel a T (si negligim les petites oscil·lacions que la cabina pugui tenir). Es diu que la cabina fa una **translació circular** ([vegeu Wikimec, Exemple C2-6.4](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#%E2%9C%8F%EF%B8%8F_Exemple_C2-6.4:_moviment_d%E2%80%99una_s%C3%ADnia:~:text=Exemple%20C2%2D6.4%3A-,moviment,-d%E2%80%99una%20s%C3%ADnia)). Conseqüència: la trajectòria de qualsevol punt P de la cabina és la mateixa que la de Q, però traslladada amb el vector QP, i per tant tots els punts de la cabina tenen la mateixa velocitat respecte de T (la de Q). 
+
 [Exercicis extra relacionats amb composició de moviments](problemes/4P_extra.pdf)
 
 [Enllaços més habituals](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.8_Enlla%C3%A7os_habituals_en_els_sistemes_mec%C3%A0nics)
