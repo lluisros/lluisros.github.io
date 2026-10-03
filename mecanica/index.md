@@ -100,13 +100,18 @@ Vídeos:
 
 
 
+
 ## 5P: Cinemàtica del sòlid rígid 3D
+
+Penjaré el material el dilluns 5 OCT.
+
+<!--
 
 [Solucions 5P](problemes/5P_sols.pdf)
 
 [Exercicis extra de CSR 3D](problemes/5P_extra.pdf).
 
-<!--
+
 
 ## 5P: CSR 2D + cinemàtica de vehicles
 
