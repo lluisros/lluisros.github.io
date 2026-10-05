@@ -99,16 +99,13 @@ Vídeos:
 [Taula dels enllaços més habituals](https://mec.etseib.upc.edu/ca/index.php?title=C2._Moviment_d%27un_sistema_mec%C3%A0nic#C2.8_Enlla%C3%A7os_habituals_en_els_sistemes_mec%C3%A0nics) - Cal saber-se-la!
 
 
-
-<!--
-
 ## 5P: Cinemàtica del sòlid rígid 3D
 
 [Solucions 5P](problemes/5P_sols.pdf)
 
 [Exercicis extra de CSR 3D](problemes/5P_extra.pdf).
 
-
+<!--
 
 ## 5P: CSR 2D + cinemàtica de vehicles
 
