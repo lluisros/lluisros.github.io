@@ -36,7 +36,7 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler)  | 9P: Oscil·lacions i punts d'equilibri    |
 | [4P: Composició de moviments](#4p-composició-de-moviments) | 10P: Geometria de masses |
 | [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)        | 11P: Teoremes vectorials I |
-| 6P: CSR 2D + Cinemàtica de vehicles                    | 12P: Teoremes vectorials II |
+| [6P: CSR 2D + Cinemàtica de vehicles](#6p-csr-2d--cinemàtica-de-vehicles)                    | 12P: Teoremes vectorials II |
 | 7P: Exercicis globals de cinemàtica | 14P: Teoremes vectorials III |
 | Examen Parcial: 27 octubre, 11:00   | 15P: Teoremes vectorials IV |
 
@@ -105,11 +105,20 @@ Vídeos:
 
 [Exercicis extra de CSR 3D](problemes/5P_extra.pdf).
 
+
+
+## 6P: CSR 2D + cinemàtica de vehicles
+
+Recordeu que la classe de divendres 16 OCT serà de teoria (sessió 6T). En aquesta sessió, els professors Josep Mª Font (G30) i Ana Barjau (G50) impartiran el contingut de l'apartat C5 de Wikimec ["Cinemàtica Plana del Sòlid Rígid")](https://mec.etseib.upc.edu/ca/index.php?title=C5._Cinem%C3%A0tica_plana_del_s%C3%B2lid_r%C3%ADgid). La classe de problemes associada a aquesta teoria (sessió 6P) serà el dilluns 19 OCT (pel G30 a l'aula 0.3 de 10 a 12h, i pel G50 a l'aula B2, de 16 a 18h).
+
+Abans de treballar els següents exercicis, estudieu a fons el contingut de la sessió 6T (o l'apartat C5 de Wikimec):
+
+[Solucions 6P](problemes/6P_sols.pdf).
+
+[Exercicis extra de CSR 3D](problemes/6P_extra.pdf).
+
 <!--
 
-## 5P: CSR 2D + cinemàtica de vehicles
-
-Penjaré el material el dilluns.
 
 [Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 24 MAR 13:30
 
