@@ -115,22 +115,16 @@ Abans de treballar els següents exercicis, estudieu a fons el contingut de la s
 
 [Solucions 6P](problemes/6P_sols.pdf).
 
-[Exercicis extra de CSR 3D](problemes/6P_extra.pdf).
+[Exercicis extra de CSR 2D](problemes/6P_extra.pdf).
 
-<!--
+Animacions relatives a alguns exercicis: 
 
-
-[Solucions 5P](problemes/5P_sols.pdf) - Actualitzat 24 MAR 13:30
-
-[Exercicis extra de CSR 2D i cinemàtica de vehicles](problemes/5P_extra.pdf).
-
-Animacions: 
-
-* [Disc rodolant](https://www.geogebra.org/classic/tkb7md6s): "Play" a baix a l'esquerra!
-* [Barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt): "Play" a baix a l'esquerra! S'ha suposat una barra infinita i que no hi ha col·lisions entre sòlids.
+* [Disc rodolant](https://www.geogebra.org/classic/tkb7md6s): "Play" a baix a l'esquerra.
+* [Barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt): "Play" a baix a l'esquerra. S'ha suposat una barra infinita i que no hi ha col·lisions entre sòlids.
 * [Bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false): Desplaceu H per a veure la trajectòria del pedal.
 
 
+<!--
 
 ## 6P: Exercicis globals de cinemàtica
 
