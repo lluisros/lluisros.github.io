@@ -121,7 +121,7 @@ Animacions relatives a alguns exercicis:
 
 * [Disc rodolant](https://www.geogebra.org/classic/tkb7md6s): "Play" a baix a l'esquerra.
 * [Barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt): "Play" a baix a l'esquerra. S'ha suposat una barra infinita i que no hi ha col·lisions entre sòlids.
-* [Bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false): Desplaceu el punt H per veure la trajectòria de l'extrem P del pedal. Fixeu-vos que la trajectòria de P, i per tant el seu radi de curvatura, són sempre els mateixos independentment de la velocitat de H. És per això que hem resolt l'exercici suposant que les rodes giren amb velocitat angular constant respecte T (no altera el resultat, i simplifica els càlculs).
+* [Bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false): Desplaceu el punt H per veure la trajectòria de l'extrem P del pedal. Fixeu-vos que la trajectòria de P, i per tant el seu radi de curvatura, són sempre els mateixos independentment de la velocitat de H. És per aquest motiu que hem resolt l'exercici suposant que les rodes giren amb òmega constant respecte T (no altera el resultat, i simplifica els càlculs).
 
 
 <!--
