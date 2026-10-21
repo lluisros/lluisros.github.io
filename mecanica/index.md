@@ -37,7 +37,7 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 | [4P: Composició de moviments](#4p-composició-de-moviments) | 10P: Geometria de masses |
 | [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)        | 11P: Teoremes vectorials I |
 | [6P: CSR 2D + Cinemàtica de vehicles](#6p-csr-2d--cinemàtica-de-vehicles)                    | 12P: Teoremes vectorials II |
-| 7P: Exercicis globals de cinemàtica | 14P: Teoremes vectorials III |
+| [7P: Exercicis globals de cinemàtica](#7p-exercicis-globals-de-cinemàtica) | 14P: Teoremes vectorials III |
 | Examen Parcial: 27 octubre, 11:00   | 15P: Teoremes vectorials IV |
 
 
@@ -109,29 +109,25 @@ Vídeos:
 
 ## 6P: CSR 2D + cinemàtica de vehicles
 
-Recordeu que la classe de divendres 16 OCT serà de teoria (sessió 6T). En aquesta sessió, els professors Josep Mª Font (G30) i Ana Barjau (G50) impartiran el contingut de l'apartat C5 de Wikimec ["Cinemàtica Plana del Sòlid Rígid")](https://mec.etseib.upc.edu/ca/index.php?title=C5._Cinem%C3%A0tica_plana_del_s%C3%B2lid_r%C3%ADgid). La classe de problemes associada a aquesta teoria (sessió 6P) serà el dilluns 19 OCT (pel G30 a l'aula 0.3 de 10 a 12h, i pel G50 a l'aula B2, de 16 a 18h).
-
-Abans de treballar els següents exercicis, estudieu a fons el contingut de la sessió 6T (o l'apartat C5 de Wikimec):
+La teoria d'aquesta sessió és a l'apartat C5 de Wikimec.
 
 [Solucions 6P](problemes/6P_sols.pdf).
 
-[Exercicis extra de CSR 2D](problemes/6P_extra.pdf).
+[Exercicis extra de CSR 2D](problemes/6P_extra.pdf). Al treball autònom d'Atenea hi ha més exercicis resolts de cinemàtica de vehicles.
 
-Animacions relatives a alguns exercicis: 
+Animacions relatives a alguns exercicis de 6P: 
 
 * [Disc rodolant](https://www.geogebra.org/classic/tkb7md6s): "Play" a baix a l'esquerra.
 * [Barra vermella que no gira](https://www.geogebra.org/classic/qfk7haxt): "Play" a baix a l'esquerra. S'ha suposat una barra infinita i que no hi ha col·lisions entre sòlids.
 * [Bicicleta](https://www.geogebra.org/material/iframe/id/fyx5j2wy/width/850/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false): Desplaceu el punt H per veure la trajectòria de l'extrem P del pedal. Fixeu-vos que la trajectòria de P, i per tant el seu radi de curvatura, són sempre els mateixos independentment de la velocitat de H. És per aquest motiu que hem resolt l'exercici suposant que les rodes giren amb òmega constant respecte T (no altera el resultat, i simplifica els càlculs).
 
+## 7P: Exercicis globals de cinemàtica
+
+[Solucions 7P](problemes/7P_sols.pdf).
+
+[Exercicis extra de cinemàtica](problemes/7P_extra.pdf).
 
 <!--
-
-## 6P: Exercicis globals de cinemàtica
-
-[Solucions 6P](problemes/6P_sols.pdf) - Actualitzat 24 MAR 17:54.
-
-[Exercicis extra de cinemàtica](problemes/6P_extra.pdf).
-
 
 ## 7P: Molles i amortidors, i enllaç partícula-superfície
 
