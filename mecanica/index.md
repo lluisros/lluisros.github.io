@@ -132,7 +132,7 @@ Animacions relatives a alguns exercicis de 6P:
 
 Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_notes.pdf) i [sense](problemes/8P_slides.pdf).
 
-[Lliçó completa](problemes/7P_sols.pdf) amb la teoria i les resolucions d'exercisis.
+[Lliçó completa](problemes/8P_sols.pdf) amb la teoria i les resolucions d'exercisis.
 
 Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
