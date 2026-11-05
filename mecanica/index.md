@@ -127,15 +127,16 @@ Animacions relatives a alguns exercicis de 6P:
 
 [Exercicis extra de cinemàtica](problemes/7P_extra.pdf).
 
-<!--
 
-## 7P: Molles i amortidors, i enllaç partícula-superfície
+## 8P: Molles i amortidors, i enllaç partícula-superfície
 
-Transparències de la teoria [amb notes explicatives](problemes/7P_slides_with_notes.pdf) i [sense](problemes/7P_slides.pdf). Actualitzat 16 ABR 21:35.
+Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_notes.pdf) i [sense](problemes/8P_slides.pdf).
 
-[Lliçó completa, amb resolucions dels exercicis](problemes/7P_sols.pdf). Actualitzat 16 ABR 21:35.
+[Lliçó completa](problemes/7P_sols.pdf) amb la teoria i les resolucions d'exercisis.
 
 Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
+
+<!--
 
 [Exercicis extra de molles i amortidors](problemes/7P_extra.pdf).
 
