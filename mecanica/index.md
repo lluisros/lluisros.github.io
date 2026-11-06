@@ -130,15 +130,15 @@ Animacions relatives a alguns exercicis de 6P:
 
 ## 8P: Molles i amortidors, i enllaç partícula-superfície
 
-Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_notes.pdf) i [sense](problemes/8P_slides.pdf).
-
-[Lliçó completa](problemes/8P_sols.pdf) amb la teoria i les resolucions d'exercisis.
+Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_notes.pdf) i [sense](problemes/8P_slides.pdf). 
 
 Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
-<!--
+[Lliçó 8P completa](problemes/8P_sols.pdf) (amb la teoria i les resolucions d'exercicis).
 
-[Exercicis extra de molles i amortidors](problemes/7P_extra.pdf).
+[Exercicis extra de molles i amortidors](problemes/8P_extra.pdf).
+
+<!--
 
 ## 8P: Oscil·lacions i punts d'equilibri
 
