@@ -142,6 +142,7 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Solucions 9P](problemes/9P_sols.pdf)
 
+
 <!--
 
 ## 9P: Geometria de masses
