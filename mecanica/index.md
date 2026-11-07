@@ -14,11 +14,7 @@ Mecànica: Curs 2026-27 Q1 (Tardor)
 Benvinguts! En aquesta pàgina hi trobareu material relatiu als grups G30 i G50 de problemes de Mecànica: els exercicis que farem, resolucions, un FAQ, el formulari oficial, abreviacions que utilitzo, o transparències de classe quan calguin, entre d'altres. És ESSENCIAL que treballeu els exercicis per la vostra banda abans de consultar les solucions aquí penjades.
 
 
-[Full informatiu](full_informatiu.pdf) - [Bones pràctiques](bones_practiques.pdf) - [Enunciats cinemàtica](https://atenea.upc.edu/pluginfile.php/7097793/mod_resource/content/28/2026-27%20QT%20Material%20pre-parcials.pdf)
-
-<!-- 
-Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/6869470/mod_resource/content/27/2025-26%20QP%20Material%20pre-parcials.pdf) - Postparcials
--->
+[Full informatiu](full_informatiu.pdf) - [Bones pràctiques](bones_practiques.pdf) - [Enunciats cinemàtica](https://atenea.upc.edu/pluginfile.php/7097793/mod_resource/content/28/2026-27%20QT%20Material%20pre-parcials.pdf) i [dinàmica](https://atenea.upc.edu/pluginfile.php/7097794/mod_resource/content/31/2026-27%20QT%20Material%20post-parcials%20-%20estudiants.pdf)
 
 ## Índex
 
@@ -33,7 +29,7 @@ Enunciats per dur a classe: [Preparcials](https://atenea.upc.edu/pluginfile.php/
 | Preparcials | Postparcials |
 | ----------  | ------------ |
 | [2P: Bases i derivació analítica](#2p-bases-i-derivació-analítica) | [8P: Molles i amortidors + Enllaç PS](#8p-molles-i-amortidors-i-enllaç-partícula-superfície) |
-| [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler)  | [9P: Oscil·lacions i punts d'equilibri]   |
+| [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler)  | [9P: Oscil·lacions i punts d'equilibri](#9p-oscillacions-i-punts-dequilibri)   |
 | [4P: Composició de moviments](#4p-composició-de-moviments) | 10P: Geometria de masses |
 | [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)        | 11P: Teoremes vectorials I |
 | [6P: CSR 2D + Cinemàtica de vehicles](#6p-csr-2d--cinemàtica-de-vehicles)                    | 12P: Teoremes vectorials II |
