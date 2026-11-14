@@ -30,7 +30,7 @@ Benvinguts! En aquesta pàgina hi trobareu material relatiu als grups G30 i G50 
 | ----------  | ------------ |
 | [2P: Bases i derivació analítica](#2p-bases-i-derivació-analítica) | [8P: Molles i amortidors + Enllaç PS](#8p-molles-i-amortidors-i-enllaç-partícula-superfície) |
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler)  | [9P: Oscil·lacions i punts d'equilibri](#9p-oscillacions-i-punts-dequilibri)   |
-| [4P: Composició de moviments](#4p-composició-de-moviments) | 10P: Geometria de masses |
+| [4P: Composició de moviments](#4p-composició-de-moviments) | [10P: Geometria de masses](#10p-geometria-de-masses) |
 | [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)        | 11P: Teoremes vectorials I |
 | [6P: CSR 2D + Cinemàtica de vehicles](#6p-csr-2d--cinemàtica-de-vehicles)                    | 12P: Teoremes vectorials II |
 | [7P: Exercicis globals de cinemàtica](#7p-exercicis-globals-de-cinemàtica) | 14P: Teoremes vectorials III |
@@ -126,9 +126,7 @@ Animacions relatives a alguns exercicis de 6P:
 
 ## 8P: Molles i amortidors, i enllaç partícula-superfície
 
-Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_notes.pdf) i [sense](problemes/8P_slides.pdf). 
-
-Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
+Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_notes.pdf) i [sense](problemes/8P_slides.pdf). La mateixa teoria és a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Lliçó 8P completa](problemes/8P_sols.pdf) (amb la teoria i les resolucions d'exercicis).
 
@@ -138,16 +136,13 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Solucions 9P](problemes/9P_sols.pdf)
 
+## 10P: Geometria de masses
+
+[Lliçó 10P completa](problemes/10P_sols.pdf) (amb la teoria i els exercicis resolts).
+
+[Transparències de classe](problemes/10P_slides.pdf)
 
 <!--
-
-## 9P: Geometria de masses
-
-[Solucions 9P](problemes/9P_sols.pdf) - Penjat 28 ABR 14:45.
-
-[Transparències de classe](problemes/9P_slides.pdf) - Actualitzades 3 MAIG 17:34. Crec que ja són les definitives!
-
-
 
 ## 10P: Teoremes vectorials I
 
@@ -155,15 +150,11 @@ Teoria corresponent a Wikimec: Seccions D2.4, D2.5, D2.7 i D2.8.
 
 [Transparències de classe amb comentaris](problemes/10P_slides.pdf) - Actualitzat 7 MAIG 16:20
 
-
-
 ## 11P: Teoremes vectorials II
 
 [Solucions 11P](problemes/11P_sols.pdf) - Actualitzat 14 MAIG 12:00
 
 [Transparències de suport](problemes/11P_slides.pdf) - Actualitzat 13 MAIG 23:10
-
-
 
 ## 12P: Teoremes vectorials III
 
