@@ -138,11 +138,13 @@ Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_n
 
 ## 10P: Geometria de masses
 
-[Lliçó 10P completa](problemes/10P_sols.pdf) (amb la teoria i els exercicis resolts).
+[Lliçó 10P completa](problemes/10P_sols.pdf) (teoria + exercicis resolts).
+
+<!--
 
 [Transparències de classe](problemes/10P_slides.pdf)
 
-<!--
+
 
 ## 10P: Teoremes vectorials I
 
