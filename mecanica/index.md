@@ -138,7 +138,10 @@ Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_n
 
 ## 10P: Geometria de masses
 
+[Transparències per dur a classe](problemes/10P_handouts.pdf). Dueu-les impreses, i completeu-les mentre explico.
+
 [Lliçó 10P completa](problemes/10P_sols.pdf) (teoria + exercicis resolts).
+
 
 <!--
 
