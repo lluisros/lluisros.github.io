@@ -134,7 +134,7 @@ Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_n
 
 ## 9P: Oscil·lacions i punts d'equilibri
 
-[Solucions 9P](problemes/9P_sols.pdf)
+[Solucions 9P](problemes/9P_sols.pdf). Actualitzat 21 NOV, 22:25
 
 ## 10P: Geometria de masses
 
