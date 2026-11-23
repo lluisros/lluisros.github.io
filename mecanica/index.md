@@ -37,7 +37,7 @@ Benvinguts! En aquesta pàgina hi trobareu material relatiu als grups G30 i G50 
 | Examen Parcial: 27 octubre, 11:00   | 15P: Teoremes vectorials IV |
 
 
-**Aclariment:** Tal i com hem numerat les sessions (vegeu "Planificació docent" al [full informatiu](full_informatiu.pdf)) aquest quadrimestre no hi haurà sessions 1P ni 13P, però el contingut del curs és anàleg al de cursos anteriors, amb l'excepció de que aquest quadrimestre no fem dinàmica en referències no Galileanes.
+**Aclariment:** Tal com hem numerat les sessions (vegeu "Planificació docent" al [full informatiu](full_informatiu.pdf)), aquest quadrimestre no hi haurà sessions 1P ni 13P, però el contingut del curs és anàleg al de cursos anteriors, amb l'excepció que aquest quadrimestre no fem dinàmica en referències no galileanes.
 
 ## Recomanacions
 
