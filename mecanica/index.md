@@ -31,7 +31,7 @@ Benvinguts! En aquesta pàgina hi trobareu material relatiu als grups G30 i G50 
 | [2P: Bases i derivació analítica](#2p-bases-i-derivació-analítica) | [8P: Molles i amortidors + Enllaç PS](#8p-molles-i-amortidors-i-enllaç-partícula-superfície) |
 | [3P: Derivació + Angles d'Euler](#3p-derivació--angles-deuler)  | [9P: Oscil·lacions i punts d'equilibri](#9p-oscillacions-i-punts-dequilibri)   |
 | [4P: Composició de moviments](#4p-composició-de-moviments) | [10P: Geometria de masses](#10p-geometria-de-masses) |
-| [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)        | 11P: Teoremes vectorials I |
+| [5P: CSR 3D](#5p-cinemàtica-del-sòlid-rígid-3d)        | [11P: Teoremes vectorials I](#11p-teoremes-vectorials-i) |
 | [6P: CSR 2D + Cinemàtica de vehicles](#6p-csr-2d--cinemàtica-de-vehicles)                    | 12P: Teoremes vectorials II |
 | [7P: Exercicis globals de cinemàtica](#7p-exercicis-globals-de-cinemàtica) | 14P: Teoremes vectorials III |
 | Examen Parcial: 27 octubre, 11:00   | 15P: Teoremes vectorials IV |
@@ -142,19 +142,13 @@ Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_n
 
 [Lliçó 10P completa](problemes/10P_sols.pdf) (teoria + exercicis resolts). Actualitzada 21 NOV, 21:40.
 
+## 11P: Teoremes vectorials I
+
+[Solucions 10P](problemes/11P_sols.pdf) 
+
+[Construcció i anàlisi del DGI del pèndol esfèric](problemes/11P_pendol.pdf) - Transparències comentades
 
 <!--
-
-[Transparències de classe](problemes/10P_slides.pdf)
-
-
-
-## 10P: Teoremes vectorials I
-
-[Solucions 10P](problemes/10P_sols.pdf) - Actualitzat 6 MAIG 23:30
-
-[Transparències de classe amb comentaris](problemes/10P_slides.pdf) - Actualitzat 7 MAIG 16:20
-
 ## 11P: Teoremes vectorials II
 
 [Solucions 11P](problemes/11P_sols.pdf) - Actualitzat 14 MAIG 12:00
