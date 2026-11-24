@@ -144,7 +144,7 @@ Transparències de la teoria [amb notes explicatives](problemes/8P_slides_with_n
 
 ## 11P: Teoremes vectorials I
 
-[Solucions 10P](problemes/11P_sols.pdf) 
+[Solucions 11P](problemes/11P_sols.pdf) 
 
 [Construcció i anàlisi del DGI del pèndol esfèric](problemes/11P_pendol.pdf) - Transparències comentades
 
